@@ -5,6 +5,9 @@ Our ontology is available at http://w3id.org/EMAI/ontology
 
 It can be used in a variety of scenarios, ranging from an improved research data management to strategic controlling of institutions and implementation of standards.
 
+# Schema
+![grafik](Green-AI-Ontology-Schema.png)
+
 # Related Work
 The following papers have been considered for creating the ontology (ranked by decreasing citation count):
 
