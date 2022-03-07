@@ -1,9 +1,9 @@
 # The Energy Measurement of AI Models Ontology
-Modeling AI systems' characteristics of energy consumption and their sustainability level as an extension of the FAIR data principles has been considered only rudimentarily. In this work, we propose an **ontology for modeling the energy consumption and other environmental aspects of AI models**. We evaluate our ontology based on competency questions.
+Modeling AI systems' characteristics of energy consumption and their sustainability level as an extension of the FAIR data principles has been considered only rudimentarily. In this work, we propose an **ontology for modeling the energy consumption and other environmental aspects of AI models**. The ontology can be used in various scenarios, ranging from an improved research data management to strategic controlling of institutions and the implementation of standards. 
 
 Our ontology (OWL file) is available at **http://w3id.org/EMAI/ontology**
 
-It can be used in a variety of scenarios, ranging from an improved research data management to strategic controlling of institutions and implementation of standards.
+The ontology was evaluated based on the competency questions given below.
 
 # Schema
 ![grafik](Green-AI-Ontology-Schema.png)
