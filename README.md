@@ -28,7 +28,7 @@ The ontology was evaluated based on the competency questions given below.
 ```sparql
 # get FPO
 # CQ13
-PREFIX emai: < https://w3id.org/EMAI/ontology>
+PREFIX emai: <https://w3id.org/EMAI/ontology>
 
 SELECT * WHERE {
 ?AIModel a emai:AIModel .    
