@@ -13,7 +13,7 @@ The ontology was evaluated based on the competency questions given below.
 * Q2: Did model A or model B consume more energy?
 * Q3: Which energy measurement metric is most commonly used?
 * Q4: What information related to energy consumption do researchers provide?
-* Q5: Where was the ML Model trained?
+* Q5: How often was an Energy Mesurement Service used?
 * Q6: On what technical settings was the ML model trained?
 * Q7: On which cloud provider was the ML model trained?
 * Q8: How long has the ML model been trained?
@@ -22,6 +22,8 @@ The ontology was evaluated based on the competency questions given below.
 * Q11: What metrics are there to indicate the power consumption of an AI model?
 * Q12: How much kg of CO2eq did the Ai model generate?
 * Q13: How much FPO (floating point operations) does the AI model need?
+* Q14: What is the average number of FLOPS that the GPUs used to train AI Models have?
+* Q15: What is the highest social cost in US$ that an AI Model has ever generated?
 
 <!--- 
 # Usage
