@@ -23,6 +23,7 @@ The ontology was evaluated based on the competency questions given below.
 * Q12: How much kg of CO2eq did the Ai model generate?
 * Q13: How much FPO (floating point operations) does the AI model need?
 
+<!--- 
 # Usage
 
 ```sparql
@@ -36,6 +37,7 @@ SELECT * WHERE {
 ?EnergyMetrics emai:hasFPO ?FloatingPointOperations . 
 }
 ```
+--->
 
 # Related Work
 The following papers have been considered for creating the ontology (ranked by decreasing citation count):
