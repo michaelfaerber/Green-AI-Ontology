@@ -25,21 +25,125 @@ The ontology was evaluated based on the competency questions given below.
 * Q14: In the context of which research project was the AI Model developed?
 * Q15: Which publication does the AI Model have?
 
-<!--- 
 # Usage
 
 ```sparql
-# get FPO
-# CQ13
-PREFIX emai: <https://w3id.org/EMAI/ontology>
+# get several energy metrics that specify the energy consumption of an AI Model
+# answers Q1, Q2, Q3 and Q4
+PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT * WHERE {
-?AIModel a emai:AIModel .    
-?AIModel emai:hasEnergyMetrics ?EnergyMetrics . 
-?EnergyMetrics emai:hasFPO ?FloatingPointOperations . 
+	?aiModel a emai:aiModel .
+	?aiModel emai:hasEnergyMetrics ?energyMetrics .
+	OPTIONAL {
+		?energyMetrics emai:hasFPO ?floatingPointOperations . 
+		?energyMetrics emai:hasKgOfCO2eq ?kgOfCo2 .
+		?energyMetrics emai:hasSocialCost ?socialCostUSDollar . 
+		?aiModel emai:hasRunTime ?runTime .
+	}
 }
 ```
---->
+
+```sparql
+# get infomations about which Energy Measurement Services are used
+# answers Q5
+PREFIX emai: <https://w3id.org/EMAI/>
+
+SELECT * WHERE {
+	?aiModel a emai:AIModel .
+	?aiModel emai:usedEnergyMeasurementService ?emService .
+	?emService emai:hasName ?emServiceName .
+}
+```
+
+```sparql
+# get informations about which Energy Measurement Metrics are used
+# answers Q6
+PREFIX emai: <https://w3id.org/EMAI/>
+
+SELECT DISTINCT(?emMetric)
+WHERE {
+  ?aiModel a emai:AIModel .
+	?aiModel emai:hasEnergyMetrics ?energyMetrics .
+	?energyMetrics ?emMetric ?emMetricValue .
+}
+```
+
+```sparql
+# get the total number how often the metric floating-point operations (FPO) is used
+# answers Q7
+PREFIX emai: <https://w3id.org/EMAI/>
+
+SELECT (COUNT(?floatingPointOperations) as ?totalNumberFPO)
+WHERE { 
+  ?aiModel a emai:AIModel .
+  ?aiModel emai:hasEnergyMetrics ?energyMetrics .
+  ?energyMetrics emai:hasFPO ?floatingPointOperations . 
+} 
+```
+
+```sparql
+# get several information about the hardware used to train an AI Model
+# answers Q8, Q9 and Q10
+PREFIX emai: <https://w3id.org/EMAI/>
+
+SELECT * WHERE {
+	?aiModel a emai:aiModel .
+	?aiModel emai:hasHardwareSettings ?hardwareSettings .
+	OPTIONAL {
+	  ?hardwareSettings emai:hasHardwareType ?hardwareType .
+		?hardwareSettings emai:hasMemory ?memory .
+		?hardwareSettings emai:hasLocation ?location .
+		?hardwareSettings emai:hasProvider ?provider .
+	}
+}
+```
+
+```sparql
+# compure two AI Models
+# answers Q11
+PREFIX emai: <https://w3id.org/EMAI/>
+
+SELECT * WHERE {
+	?aiModel1 a emai:aiModel .
+	?aiModel2 a emai:aiModel .
+	OPTIONAL {
+		?aiModel1 emai:hasEnergyMetrics ?energyMetrics1 .
+		?aiModel2 emai:hasEnergyMetrics ?energyMetrics2 .
+		?energyMetrics1 emai:hasFPO ?floatingPointOperations1 .
+		?energyMetrics2 emai:hasFPO ?floatingPointOperations2 .
+	}
+}
+```
+
+```sparql
+# get several information about the software used to train an AI Model
+# answers Q12, Q13
+PREFIX emai: <https://w3id.org/EMAI/>
+
+SELECT * WHERE {
+	?aiModel a emai:aiModel .
+	?aiModel emai:hasSoftwareSettings ?softwareSettings .
+	OPTIONAL {
+		?softwareSettings emai:hasProgrammingLanguage ?programmingLanguage .
+		?softwareSettings emai:hasModule ?module .
+		?module emai:hasName ?moduleName .
+	}
+}
+```
+
+```sparql
+# get several information about Publications and Research Projects related to the AI Models
+# answers Q14, Q15
+PREFIX emai: <https://w3id.org/EMAI/>
+PREFIX irao: <http://ontology.ethereal.cz/irao/>
+
+SELECT * WHERE {
+	?aiModel a emai:aiModel .
+	?aiModel irao:hasPublication ?relatedPublication .
+	?aiModel irao:hasResearchProject ?researchProject .
+}
+```
 
 # Related Work
 The following papers have been considered for creating the ontology (ranked by decreasing citation count):
