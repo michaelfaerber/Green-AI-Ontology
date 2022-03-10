@@ -11,7 +11,7 @@ The ontology was evaluated based on the competency questions given below.
 # Competency Questions
 * Q1: How many floating-point operations (FPO) did the AI Model need to be trained?
 * Q2: How much kg of CO2eq did the AI Model generate?
-* Q3: How long did it take to train the AI model?
+* Q3: How long did it take to train the AI Model?
 * Q4: What is the social cost in US$ that the AI model has generated?
 * Q5: What Energy Measurement Services are used to calculate metrics about the AI Model's energy consumption?
 * Q6: What energy metrics are used to indicate the energy consumption of an AI Model?
