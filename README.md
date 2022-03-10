@@ -91,7 +91,7 @@ SELECT * WHERE {
 	?aiModel a emai:aiModel .
 	?aiModel emai:hasHardwareSettings ?hardwareSettings .
 	OPTIONAL {
-	  ?hardwareSettings emai:hasHardwareType ?hardwareType .
+	  	?hardwareSettings emai:hasHardwareType ?hardwareType .
 		?hardwareSettings emai:hasMemory ?memory .
 		?hardwareSettings emai:hasLocation ?location .
 		?hardwareSettings emai:hasProvider ?provider .
