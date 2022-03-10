@@ -100,7 +100,7 @@ SELECT * WHERE {
 ```
 
 ```sparql
-# compure two AI Models
+# compare two AI Models
 # answers Q11
 PREFIX emai: <https://w3id.org/EMAI/>
 
