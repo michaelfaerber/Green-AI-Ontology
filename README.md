@@ -64,8 +64,8 @@ PREFIX emai: <https://w3id.org/EMAI/>
 SELECT DISTINCT(?emMetric)
 WHERE {
   ?aiModel a emai:AIModel .
-	?aiModel emai:hasEnergyMetrics ?energyMetrics .
-	?energyMetrics ?emMetric ?emMetricValue .
+  ?aiModel emai:hasEnergyMetrics ?energyMetrics .
+  ?energyMetrics ?emMetric ?emMetricValue .
 }
 ```
 
@@ -118,7 +118,7 @@ SELECT * WHERE {
 
 ```sparql
 # get several information about the software used to train an AI Model
-# answers Q12, Q13
+# answers Q12 and Q13
 PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT * WHERE {
@@ -134,7 +134,7 @@ SELECT * WHERE {
 
 ```sparql
 # get several information about Publications and Research Projects related to the AI Models
-# answers Q14, Q15
+# answers Q14 and Q15
 PREFIX emai: <https://w3id.org/EMAI/>
 PREFIX irao: <http://ontology.ethereal.cz/irao/>
 
