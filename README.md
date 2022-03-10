@@ -63,9 +63,9 @@ PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT DISTINCT(?emMetric)
 WHERE {
-  ?aiModel a emai:AIModel .
-  ?aiModel emai:hasEnergyMetrics ?energyMetrics .
-  ?energyMetrics ?emMetric ?emMetricValue .
+	?aiModel a emai:AIModel .
+	?aiModel emai:hasEnergyMetrics ?energyMetrics .
+	?energyMetrics ?emMetric ?emMetricValue .
 }
 ```
 
@@ -76,9 +76,9 @@ PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT (COUNT(?floatingPointOperations) as ?totalNumberFPO)
 WHERE { 
-  ?aiModel a emai:AIModel .
-  ?aiModel emai:hasEnergyMetrics ?energyMetrics .
-  ?energyMetrics emai:hasFPO ?floatingPointOperations . 
+	?aiModel a emai:AIModel .
+  	?aiModel emai:hasEnergyMetrics ?energyMetrics .
+  	?energyMetrics emai:hasFPO ?floatingPointOperations . 
 } 
 ```
 
