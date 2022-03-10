@@ -9,21 +9,21 @@ The ontology was evaluated based on the competency questions given below.
 ![grafik](Green-AI-Ontology-Schema.png)
 
 # Competency Questions
-* Q1: In which region was the AI model trained? (Background: In a carbon-friendly region?)
-* Q2: Did model A or model B consume more energy?
-* Q3: Which energy measurement metric is most commonly used?
-* Q4: What information related to energy consumption do researchers provide?
-* Q5: How often was an Energy Mesurement Service used?
-* Q6: On what technical settings was the ML model trained?
-* Q7: On which cloud provider was the ML model trained?
-* Q8: How long has the ML model been trained?
-* Q9: How much memory usage was required for the training?
-* Q10: What is the average energy consumption of ML models developed and trained at the institution KIT?
-* Q11: What metrics are there to indicate the power consumption of an AI model?
-* Q12: How much kg of CO2eq did the Ai model generate?
-* Q13: How much FPO (floating point operations) does the AI model need?
-* Q14: What is the average number of FLOPS that the GPUs used to train AI Models have?
-* Q15: What is the highest social cost in US$ that an AI Model has ever generated?
+* Q1: How many floating-point operations (FPO) did the AI Model need to be trained?
+* Q2: How much kg of CO2eq did the AI Model generate?
+* Q3: How long did it take to train the AI model?
+* Q4: What is the social cost in US$ that the AI model has generated?
+* Q5: What Energy Measurement Services are used to calculate metrics about the AI Model's energy consumption?
+* Q6: What energy metrics are used to indicate the energy consumption of an AI Model?
+* Q7: How many times was the metric "floating-point operations" (FPO) used to indicate the energy consumption of AI models?
+* Q8: What are the hardware settings used for training the AI Model?
+* Q9: In which region is the hardware used to train the AI model? (Background: In a carbon-friendly region?)
+* Q10: Which provider (cloud service) was used to train the AI Model?
+* Q11: Did AI Model A or AI Model B consume more energy?
+* Q12: Which programming language was used to train the AI Model?
+* Q13: What software modules were used to train the AI Model?
+* Q14: In the context of which research project was the AI Model developed?
+* Q15: Which publication does the AI Model have?
 
 <!--- 
 # Usage
