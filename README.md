@@ -33,7 +33,7 @@ The ontology was evaluated based on the competency questions given below.
 PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT * WHERE {
-	?aiModel a emai:aiModel .
+	?aiModel a emai:AIModel .
 	?aiModel emai:hasEnergyMetrics ?energyMetrics .
 	OPTIONAL {
 		?energyMetrics emai:hasFPO ?floatingPointOperations . 
@@ -88,7 +88,7 @@ WHERE {
 PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT * WHERE {
-	?aiModel a emai:aiModel .
+	?aiModel a emai:AIModel .
 	?aiModel emai:hasHardwareSettings ?hardwareSettings .
 	OPTIONAL {
 	  	?hardwareSettings emai:hasHardwareType ?hardwareType .
@@ -105,8 +105,8 @@ SELECT * WHERE {
 PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT * WHERE {
-	?aiModel1 a emai:aiModel .
-	?aiModel2 a emai:aiModel .
+	?aiModel1 a emai:AIModel .
+	?aiModel2 a emai:AIModel .
 	OPTIONAL {
 		?aiModel1 emai:hasEnergyMetrics ?energyMetrics1 .
 		?aiModel2 emai:hasEnergyMetrics ?energyMetrics2 .
@@ -122,7 +122,7 @@ SELECT * WHERE {
 PREFIX emai: <https://w3id.org/EMAI/>
 
 SELECT * WHERE {
-	?aiModel a emai:aiModel .
+	?aiModel a emai:AIModel .
 	?aiModel emai:hasSoftwareSettings ?softwareSettings .
 	OPTIONAL {
 		?softwareSettings emai:hasProgrammingLanguage ?programmingLanguage .
@@ -139,7 +139,7 @@ PREFIX emai: <https://w3id.org/EMAI/>
 PREFIX irao: <http://ontology.ethereal.cz/irao/>
 
 SELECT * WHERE {
-	?aiModel a emai:aiModel .
+	?aiModel a emai:AIModel .
 	?aiModel irao:hasPublication ?relatedPublication .
 	?aiModel irao:hasResearchProject ?researchProject .
 }
