@@ -5,6 +5,8 @@ Our ontology (OWL file) is available at **http://w3id.org/EMAI/ontology**
 
 The ontology was evaluated based on the competency questions given below.
 
+You can use the following Microsoft Forms to provide your information about your AI model's energy consumption. This will successively increase our knowledge graph and add the data to the Linked Open Data Cloud: **https://forms.office.com/r/HYd4R9jutX**
+
 # Schema
 ![grafik](Green-AI-Ontology-Schema.png)
 
