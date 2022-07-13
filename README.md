@@ -45,6 +45,7 @@ SELECT * WHERE {
 	}
 }
 ```
+![grafik](sparql-queries/energy-metrics-fpo.png)
 
 ```sparql
 # get infomations about which Energy Measurement Services are used
