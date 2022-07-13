@@ -14,7 +14,7 @@ You can use the following Microsoft Forms to provide your information about your
 * Q1: How many floating-point operations (FPO) did the AI Model need to be trained?
 * Q2: How much kg of CO2eq did the AI Model generate?
 * Q3: How long did it take to train the AI Model?
-* Q4: What is the social cost in US$ that the AI Model has generated?
+* Q4: How much energy in kWh did the training of the AI model take?
 * Q5: What Energy Measurement Services are used to calculate metrics about the AI Model's energy consumption?
 * Q6: What energy metrics are used to indicate the energy consumption of an AI Model?
 * Q7: How many times was the metric "floating-point operations" (FPO) used to indicate the energy consumption of AI models?
