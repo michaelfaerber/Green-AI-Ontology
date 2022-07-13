@@ -8,7 +8,7 @@ The ontology was evaluated based on the competency questions given below.
 You can use the following Microsoft Forms to provide your information about your AI model's energy consumption. This will successively increase our knowledge graph and add the data to the Linked Open Data Cloud: **https://forms.office.com/r/HYd4R9jutX**
 
 # Schema
-![grafik](Green-AI-Ontology-Schema.png)
+![grafik](emai-ontology-schema.png)
 
 # Competency Questions
 * Q1: How many floating-point operations (FPO) did the AI Model need to be trained?
