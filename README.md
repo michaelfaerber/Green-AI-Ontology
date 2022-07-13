@@ -21,7 +21,7 @@ You can use the following Microsoft Forms to provide your information about your
 * Q8: What are the hardware settings used for training the AI Model?
 * Q9: In which region is the hardware used to train the AI Model? (Background: In a carbon-friendly region?)
 * Q10: Which provider (cloud service) was used to train the AI Model?
-* Q11: Did AI Model A or AI Model B consume more energy?
+* Q11: Did AI Model A or AI Model B generate more CO2?
 * Q12: Which programming language was used to train the AI Model?
 * Q13: What software modules were used to train the AI Model?
 * Q14: In the context of which research project was the AI Model developed?
