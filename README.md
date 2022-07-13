@@ -30,33 +30,16 @@ You can use the following Microsoft Forms to provide your information about your
 # Usage
 
 ```sparql
-# get several energy metrics that specify the energy consumption of an AI Model
-# answers Q1, Q2, Q3 and Q4
-PREFIX emai: <https://w3id.org/EMAI/ontology/>
-PREFIX dcterms: <http://purl.org/dc/terms/>
-
-SELECT ?aiModel ?aiModelName ?floatingPointOperations
-WHERE {
-	?aiModel a emai:AIModel .
-    ?aiModel dcterms:title ?aiModelName .
-	?aiModel emai:hasEnergyMetrics ?energyMetrics .
-	?energyMetrics emai:hasFPO ?floatingPointOperations . 
-}
-
-SELECT DISTINCT ?aiModel ?aiModelName ?hasKgOfCO2eq ?runTimeHours ?energy_kWh
-WHERE {
-	?aiModel a emai:AIModel .
-    	?aiModel dcterms:title ?aiModelName .
-	?aiModel emai:hasEnergyMetrics ?energyMetrics .
-	{ ?energyMetrics emai:hasKgOfCO2eq ?hasKgOfCO2eq. } 
-    UNION { 
-        ?aiModel emai:hasFinalRunTime ?runTimeHours . } 
-    UNION { 
-        ?energyMetrics emai:haskWh ?energy_kwH .  } }
-ORDER BY ?aiModel
-LIMIT 15
+# get the number of floating-point operations (FPO) that were needed to train the AI models.
+# answers Q1
 ```
 ![grafik](sparql-queries/energy-metrics-fpo.png)
+
+```sparql
+# get several energy metrics that specify the energy consumption of an AI Model
+# answers Q2, Q3 and Q4
+```
+![grafik](sparql-queries/energy-metrics-co2-runtime-kWh.png)
 
 ```sparql
 # get infomations about which Energy Measurement Services are used
