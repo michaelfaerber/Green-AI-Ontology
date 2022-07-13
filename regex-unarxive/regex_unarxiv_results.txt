@@ -1,0 +1,3016 @@
+﻿arXiv:1904.06376 matches: 120 TFLOPS 
+arXiv:1904.06376 matches: 15 TFLOPS 
+arXiv:1904.06376 matches: 32 FLOPS 
+arXiv:1307.7105 matches: 0.5 joule energy 
+arXiv:1307.7105 matches: 0.5 joule energy 
+arXiv:2001.06848 matches: power of 100 MW  
+arXiv:2002.06618 matches: power is 22 W  
+arXiv:2002.06618 matches: power is 66 W  
+arXiv:cs0603115 matches: 112 floating-point operations 
+arXiv:cs0603115 matches: 3 extra floating-point operations 
+arXiv:1906.05909 matches: 2 FLOPS 
+arXiv:1709.00086 matches: 576 FLOPS 
+arXiv:1911.00102 matches: 2 hours of training 
+arXiv:1910.01289 matches: 000 hours training 
+arXiv:1605.00366 matches: 440K floating point operations 
+arXiv:1910.09909 matches: 960 hours of training 
+arXiv:1906.06440 matches: 3,050 GFLOPS 
+arXiv:1906.06440 matches: 2550 GFLOPS 
+arXiv:1906.06440 matches: 2350 GFLOPS 
+arXiv:1906.06440 matches: 1152 GFLOPS 
+arXiv:1906.06440 matches: 728.3 Gflops 
+arXiv:1906.06440 matches: 753.5 Gflops 
+arXiv:1906.06440 matches: 2492 GFLOPS 
+arXiv:1906.06440 matches: 2361 GFLOPS 
+arXiv:1712.01670 matches: 66.8J energy 
+arXiv:2002.05651 matches: 888 kWh of energy 
+arXiv:2002.05651 matches: social cost of carbon of $0.38 
+arXiv:2002.05651 matches: social cost of carbon of $0.38 
+arXiv:1505.02950 matches: 372 flops 
+arXiv:1505.02950 matches: 126 flops 
+arXiv:1505.02950 matches: 245 flops 
+arXiv:1505.02950 matches: 13 kflops 
+arXiv:1102.2346 matches: 160 Gflops 
+arXiv:1802.05465 matches: 13.7 TFLOPS 
+arXiv:1902.00888 matches: 432 flip flops 
+arXiv:1902.00888 matches: 214 flip flops 
+arXiv:1902.00888 matches: 380 flip flops 
+arXiv:2001.08998 matches: 30 hours of training 
+arXiv:1805.07038 matches: power is set as 0.1 W. 
+arXiv:1811.02790 matches: 24 hours of training 
+arXiv:1811.02790 matches: 48 hours of training 
+arXiv:1810.09330 matches: 754 floating-point operations 
+arXiv:cs0301001 matches: 50 flops 
+arXiv:cs0301001 matches: 700 flops 
+arXiv:cs0301001 matches: 684 flops 
+arXiv:cs0301001 matches: 2000 flops 
+arXiv:cs0301001 matches: 2000 flops 
+arXiv:cs0301001 matches: 1000 flops 
+arXiv:1810.11883 matches: 7 exaFLOPS 
+arXiv:1810.11883 matches: power target of 20 MW  
+arXiv:1810.11883 matches: power target of 20 MW  
+arXiv:1810.11883 matches: power target of 20 MW  
+arXiv:1503.01061 matches: 4.6 Gflops 
+arXiv:1503.01061 matches: 10.2 Gflops 
+arXiv:1509.09313 matches: 460.8 Gflops 
+arXiv:2006.09503 matches: 5.7 TFLOPS 
+arXiv:2005.05061 matches: 0.2 Eflops 
+arXiv:2005.05061 matches: 445 petaflops 
+arXiv:2005.05061 matches: 148.6 petaflops 
+arXiv:1902.04891 matches: 30 hours of training 
+arXiv:1911.08332 matches: 20 hours of training 
+arXiv:2007.03269 matches: power consumption of 0.72W  
+arXiv:2002.05604 matches: 3 GFLOPS 
+arXiv:1905.11664 matches: 1-Pt)flops 
+arXiv:1708.02190 matches: 140 gCO2- 
+arXiv:1303.6573 matches: energy of 0.5J. 
+arXiv:1903.04394 matches: 10 Petaflops 
+arXiv:1408.4841 matches: power is equal to 2Watt  
+arXiv:1908.00481 matches: power of 1 kW. 
+arXiv:1710.08377 matches: 8 hours of training 
+arXiv:2003.01531 matches: 60 hours of training 
+arXiv:1712.08195 matches: 10 hours of training 
+arXiv:1809.09379 matches: power is 20W. 
+arXiv:1809.09379 matches: power FORMULA  is 3.8650W. 
+arXiv:1809.09379 matches: power FORMULA  is 3.8712W. 
+arXiv:1809.09379 matches: power FORMULA  is 20W. 
+arXiv:1809.09379 matches: power FORMULA  takes 20W, 
+arXiv:1809.09379 matches: power FORMULA  is 20W, 
+arXiv:1809.09379 matches: power is greater than 40W. 
+arXiv:1809.09379 matches: power FORMULA  is 50W, 
+arXiv:1809.09379 matches: power FORMULA  is 10W  
+arXiv:1809.09379 matches: power is greater than 40W. 
+arXiv:1009.3457 matches: 4 floating point operations 
+arXiv:1009.3457 matches: 2 floating point operations 
+arXiv:2003.03273 matches: 66 hours of training 
+arXiv:2003.03273 matches: 44 hours of training 
+arXiv:2007.14672 matches: 6 hours of training 
+arXiv:1910.11986 matches: 200kWh energy 
+arXiv:1404.6389 matches: 1.1 MW energy 
+arXiv:1603.01250 matches: 1.9E+10 flops 
+arXiv:2001.08434 matches: 37 kflops 
+arXiv:1205.4139 matches: 6 flops 
+arXiv:1205.4139 matches: 2 flops 
+arXiv:1804.03252 matches: power rating of 170W  
+arXiv:1711.10885 matches: 80 flops 
+arXiv:1905.11946 matches: 37B FLOPS 
+arXiv:1909.08029 matches: 10 hours of training 
+arXiv:1810.01865 matches: 93 Petaflops 
+arXiv:1810.01865 matches: 33.2 Petaflops 
+arXiv:1810.01865 matches: power is below 10W, 
+arXiv:2006.05584 matches: 6 hours of training 
+arXiv:1502.00120 matches: power of 5 MW, 
+arXiv:1811.10738 matches: power than a 1kW  
+arXiv:1803.10372 matches: power of each BS is 40 W  
+arXiv:1905.04628 matches: 100+ GFLOPS 
+arXiv:1905.04628 matches: 3 GFLOPS 
+arXiv:1805.02176 matches: 7 hours of training 
+arXiv:2002.06637 matches: 30 hours of training 
+arXiv:1704.04277 matches: power of 1 Watt. 
+arXiv:1511.03611 matches: 1 kWh of energy 
+arXiv:1903.04364 matches: 2478 Gflops 
+arXiv:1903.04364 matches: 30 Gflops 
+arXiv:1903.04364 matches: 43 Gflops 
+arXiv:1903.04364 matches: 300 Gflops 
+arXiv:1902.10273 matches: energy of 18 kWh 
+arXiv:1902.10273 matches: power of 30 kW  
+arXiv:1902.10273 matches: power of 30 kW, 
+arXiv:1902.10273 matches: power of 30 kW  
+arXiv:1910.10352 matches: 960 hours of training 
+arXiv:1311.0269 matches: power at about 4W. 
+arXiv:1908.03121 matches: 408 GFLOPS 
+arXiv:1908.03121 matches: 12 floating point operations 
+arXiv:1908.03121 matches: 455 floating point operations 
+arXiv:2006.05923 matches: 2.18M FLOPS 
+arXiv:1511.00175 matches: 27 PetaFLOPS 
+arXiv:2007.11047 matches: 10 GFLOPS 
+arXiv:1904.09703 matches: 728 tons of carbon  
+arXiv:1911.04895 matches: power by a grounded 12 Watt  
+arXiv:2007.15088 matches: energy density of 1600 Wh 
+arXiv:2007.15088 matches: power rating of 8 kW  
+arXiv:1904.03057 matches: 200 GFLOPS 
+arXiv:1904.03057 matches: 300 GFLOPS 
+arXiv:1905.03641 matches: 790.3 GFLOPS 
+arXiv:1905.03641 matches: 24.7 GFLOPS 
+arXiv:1905.11796 matches: 100 hours training 
+arXiv:1601.04321 matches: power to provide 1 MW  
+arXiv:2007.08092 matches: 35 hours of training 
+arXiv:2005.08650 matches: 2 hours of training 
+arXiv:2005.08650 matches: 2 hours of training 
+arXiv:1707.00617 matches: 000 hours of training 
+arXiv:1711.04822 matches: power rating of over 200W. 
+arXiv:1911.08373 matches: 100 hours of training 
+arXiv:1510.02533 matches: 100 gigaflops 
+arXiv:1907.12750 matches: 8 hours of training 
+arXiv:1907.12750 matches: 18 hours of training 
+arXiv:1509.02135 matches: 2 Tflops 
+arXiv:2007.06000 matches: 12.15 TeraFLOPS 
+arXiv:2007.06000 matches: 5.5 TeraFLOPS 
+arXiv:1610.04610 matches: energy are 50 MPa and 2 J/ 
+arXiv:2005.10752 matches: power is set as 2.5 W{ 
+arXiv:2004.11658 matches: 86 PFLOPS 
+arXiv:2004.11658 matches: 86 PFLOPS 
+arXiv:2004.11658 matches: 200 PFLOPS 
+arXiv:2004.11658 matches: 86 PFLOPS 
+arXiv:2004.11658 matches: 7 TFLOPS 
+arXiv:2004.11658 matches: 7.0 TFLOPS 
+arXiv:2004.11658 matches: 515 GFLOPS 
+arXiv:2004.11658 matches: 86 PFLOPS 
+arXiv:2004.11658 matches: 7 TFLOPS 
+arXiv:1606.03302 matches: energy consumption of 41 Joule  
+arXiv:2001.00103 matches: power reaches 1W. 
+arXiv:1706.00517 matches: 177 GFLOPS 
+arXiv:1706.00517 matches: 211 GFLOPS 
+arXiv:2007.09770 matches: 0.9 MWh of energy 
+arXiv:2007.09770 matches: power demand of 2,148 kW. 
+arXiv:2007.09770 matches: power demand of 2,148 kW  
+arXiv:1801.07624 matches: 3.14 PetaFLOPS 
+arXiv:1301.4539 matches: 4 floating point operations 
+arXiv:1204.4717 matches: 1.5MWh of energy 
+arXiv:1204.4717 matches: 2.1MWh of energy 
+arXiv:1702.02968 matches: 2.57 PFLOPS 
+arXiv:1802.03958 matches: power constraint of 55 W. 
+arXiv:1206.1199 matches: 200 flops 
+arXiv:1909.13239 matches: 59.67% flops 
+arXiv:1310.1537 matches: 300 GFLOPS 
+arXiv:1811.02287 matches: 27 petaflops 
+arXiv:1811.02287 matches: 1.5 teraflops 
+arXiv:1811.02287 matches: 40 teraflops 
+arXiv:0801.1210 matches: 259.729 TeraFLOPS 
+arXiv:0801.1210 matches: 541.2 GigaFLOPS 
+arXiv:0801.1210 matches: 80GigaFLOPS 
+arXiv:0801.1210 matches: 23 GigaFLOPS 
+arXiv:0801.1210 matches: 25.67 GFLOPS 
+arXiv:1903.09722 matches: 16-bit floating point operations 
+arXiv:2001.07523 matches: 4.7 TFLOPS 
+arXiv:2001.07523 matches: 9.3 TFLOPS 
+arXiv:2001.07523 matches: 0.355 TFLOPS 
+arXiv:2001.07523 matches: 11.5 TFLOPS 
+arXiv:1611.03477 matches: 100 hours of training 
+arXiv:1401.0765 matches: power budget of 1W  
+arXiv:1807.08596 matches: 92TFLOPS 
+arXiv:1811.11475 matches: 100 GFLOPS 
+arXiv:1811.11475 matches: 135 GFLOPS 
+arXiv:1811.11475 matches: 1250 GFLOPS 
+arXiv:1811.11475 matches: 1100 GFLOPS 
+arXiv:1811.11475 matches: 6280 GFLOPS 
+arXiv:1811.11475 matches: 301.5 TFLOPS 
+arXiv:1811.11475 matches: 5271.8 MFLOPS 
+arXiv:2003.00532 matches: 75.2 GFLOPS 
+arXiv:2003.00532 matches: 0.47 GFLOPS 
+arXiv:2003.00532 matches: 4.53 GFLOPS 
+arXiv:2003.00532 matches: 63.29 GFLOPS 
+arXiv:2003.00532 matches: 67.49 GFLOPS 
+arXiv:2003.00532 matches: 67.70 GFLOPS 
+arXiv:2003.00532 matches: 2.38624 GFLOPS 
+arXiv:2003.00532 matches: 23 GFLOPS 
+arXiv:2003.00532 matches: 11.5595 GFLOPS 
+arXiv:2003.00532 matches: 20.249 GFLOPS 
+arXiv:2003.00532 matches: 1.53043 GFLOPS 
+arXiv:2003.00532 matches: 1.53043 GFLOPS 
+arXiv:2003.00532 matches: 7.05307 GFLOPS 
+arXiv:2003.00532 matches: 11.2309 GFLOPS 
+arXiv:2003.00532 matches: 49 GFLOPS 
+arXiv:2003.00532 matches: 61.939 GFLOPS 
+arXiv:2003.00532 matches: 49.7282 GFLOPS 
+arXiv:2003.00532 matches: 40.4135 GFLOPS 
+arXiv:2003.00532 matches: 61.843 GFLOPS 
+arXiv:2003.00532 matches: 61.843 GFLOPS 
+arXiv:2003.00532 matches: 22.5257 GFLOPS 
+arXiv:2003.00532 matches: 63 GFLOPS 
+arXiv:2003.00532 matches: 10.7969 GFLOPS 
+arXiv:2003.00532 matches: 40.2426 GFLOPS 
+arXiv:2003.00532 matches: 50.7075 GFLOPS 
+arXiv:2003.00532 matches: 61.939 GFLOPS 
+arXiv:1602.05703 matches: power equal to 1 Watt. 
+arXiv:1907.11678 matches: 1.52 FLOPS 
+arXiv:1907.11678 matches: 33.84FLOPS 
+arXiv:1907.11678 matches: 16.96 FLOPS 
+arXiv:1906.06907 matches: power peak with 560kW, 
+arXiv:1906.06907 matches: power to 2.09MW, 
+arXiv:1906.06907 matches: power at 1.96MW, 
+arXiv:1807.07187 matches: 2 hours of training 
+arXiv:1805.04487 matches: 12 hours of training 
+arXiv:1902.04132 matches: power plants of 21GW  
+arXiv:1803.03790 matches: 100.9 GFLOPS 
+arXiv:1709.07276 matches: 200 hours of training 
+arXiv:cs0606122 matches: 4 GFLOPS 
+arXiv:1303.3182 matches: 465.6 Gflops 
+arXiv:1807.03099 matches: power is set to 1W, 
+arXiv:1811.12065 matches: energy consumption of 2.02J, 
+arXiv:1811.12065 matches: energy consumption of 1.16J, 
+arXiv:1904.01053 matches: 7.42 Petaflops 
+arXiv:1701.08361 matches: 41 TFLOPS 
+arXiv:1305.0585 matches: power of 18.23 GW. 
+arXiv:2002.04958 matches: 1.372 petaflops 
+arXiv:1209.2086 matches: power limit is 10 W  
+arXiv:1704.00693 matches: 270 GFLOPS 
+arXiv:1704.00693 matches: 33.5 GFLOPS 
+arXiv:1704.00693 matches: 36 GFLOPS 
+arXiv:1704.00693 matches: 40.5 GFLOPS 
+arXiv:1704.00693 matches: 48 GFLOPS 
+arXiv:1704.00693 matches: 33.1 GFLOPS 
+arXiv:1704.00693 matches: 22.9 GFLOPS 
+arXiv:1704.00693 matches: 58/62 GFLOPS 
+arXiv:1704.00693 matches: 18.9 GFLOPS 
+arXiv:1704.00693 matches: 143 GFLOPS 
+arXiv:1704.00693 matches: 171 GFLOPS 
+arXiv:1704.00693 matches: 13.3 GFLOPS 
+arXiv:1704.00693 matches: 47.35 GFLOPS 
+arXiv:1704.00693 matches: 27.7 GFLOPS 
+arXiv:1704.00693 matches: 43.49 GFLOPS 
+arXiv:1712.01651 matches: 2 hours of training 
+arXiv:2001.02258 matches: 200 petaFLOPS 
+arXiv:1311.6259 matches: 30 petaflops 
+arXiv:2006.15350 matches: 6.45 G flops 
+arXiv:2006.15350 matches: 1.028 G flops 
+arXiv:1902.08943 matches: 3 hours training 
+arXiv:2001.02674 matches: 960 hours of training 
+arXiv:1407.1576 matches: 0.35 kWh of energy 
+arXiv:1407.1576 matches: 0.25 kWh energy 
+arXiv:1412.1952 matches: energy packet size of 1 kWh 
+arXiv:0711.3949 matches: 250 TeraFLOPS 
+arXiv:0711.3949 matches: 360 TeraFLOPS 
+arXiv:1207.5640 matches: power of 270 W  
+arXiv:1404.4629 matches: power consumption of 365W  
+arXiv:1404.4629 matches: power consumption of 45W  
+arXiv:1404.4629 matches: power budget of 20MW  
+arXiv:1609.09018 matches: 1 G flops 
+arXiv:1609.09018 matches: 0.9 Gflops 
+arXiv:1802.00714 matches: power usage is 55 Watt. 
+arXiv:2004.04643 matches: power of 1 Watt  
+arXiv:1702.08880 matches: 165 floating point operations 
+arXiv:1702.08880 matches: 165 total flops 
+arXiv:2006.02706 matches: 4.0 GFLOPS 
+arXiv:2006.02706 matches: 32 MFLOPS 
+arXiv:2006.02706 matches: 40 MFLOPS 
+arXiv:2006.02706 matches: 1 MFLOPS 
+arXiv:2006.02706 matches: 2 MFLOPS 
+arXiv:2006.02706 matches: 0.09 GFLOPS 
+arXiv:2006.02706 matches: 8.48 GFLOPS 
+arXiv:2003.08746 matches: 127.4 TFLOPS 
+arXiv:2003.08746 matches: 127.4 TFLOPS 
+arXiv:2003.08746 matches: 127.4 TFLOPS 
+arXiv:2003.08746 matches: 127.4 TFLOPS 
+arXiv:1707.06065 matches: 81 hours training 
+arXiv:1707.06065 matches: 212 hours training 
+arXiv:1709.08830 matches: power generation is 8MW  
+arXiv:1711.02290 matches: power of 150W. 
+arXiv:1409.5474 matches: 1.7 Tflops 
+arXiv:2006.12701 matches: 30 hours of training 
+arXiv:2001.07831 matches: power generation by 13 GW  
+arXiv:1611.02665 matches: 150 GFLOPS 
+arXiv:2002.11302 matches: 500 MFLOPS 
+arXiv:2002.11302 matches: 800 GFLOPS 
+arXiv:2002.11302 matches: 900 GFLOPS 
+arXiv:1408.0259 matches: power of 1 MW. 
+arXiv:1706.03762 matches: 9.5 TFLOPS 
+arXiv:1709.08243 matches: 175,000 floating-point operations 
+arXiv:1709.08243 matches: 17.5 Mflops 
+arXiv:1709.08243 matches: 7.5 Mflops 
+arXiv:1709.08243 matches: 10 Mflops 
+arXiv:1709.08243 matches: 40 Mflops 
+arXiv:1709.08243 matches: 1600 Mflops 
+arXiv:2006.09882 matches: 6 hours of training 
+arXiv:1303.1778 matches: power is 20 W  
+arXiv:2007.06559 matches: 2.89e6 FLOPS 
+arXiv:2007.06559 matches: 3.66e9 FLOPS 
+arXiv:2007.06559 matches: 0.55e9 FLOPS 
+arXiv:2007.06559 matches: 4.09e9 FLOPS 
+arXiv:2007.06559 matches: 0.39e9 FLOPS 
+arXiv:2007.06559 matches: 0.17e9 FLOPS 
+arXiv:1608.06166 matches: 5 kWh of energy 
+arXiv:1809.01446 matches: 15 hours of training 
+arXiv:1710.08951 matches: 1 Eflops 
+arXiv:1702.03503 matches: power are 7.22 W and 3.6 W, 
+arXiv:1409.4447 matches: power is 1 kW, 
+arXiv:1903.11521 matches: 3.0 TFLOPS 
+arXiv:1903.11521 matches: 6.1 TFLOPS 
+arXiv:1903.11521 matches: 26.3 PFLOPS 
+arXiv:1903.11521 matches: 4.1 TFLOPS 
+arXiv:1903.11521 matches: 8.3 TFLOPS 
+arXiv:1903.11521 matches: 1 TFLOPS 
+arXiv:1903.11521 matches: 2 TFLOPS 
+arXiv:1903.11521 matches: 202 GFLOPS 
+arXiv:1903.11521 matches: 344 GFLOPS 
+arXiv:1903.11521 matches: 74 GFLOPS 
+arXiv:1903.11521 matches: 194 GFLOPS 
+arXiv:1903.11521 matches: 1769 GFLOPS 
+arXiv:1903.11521 matches: 3969 GFLOPS 
+arXiv:1903.11521 matches: 6.4 GFLOPS 
+arXiv:1903.11521 matches: 10.2 GFLOPS 
+arXiv:1903.11521 matches: 11.6 GFLOPS 
+arXiv:1903.11521 matches: 87.3 GFLOPS 
+arXiv:1903.11521 matches: 144.6 GFLOPS 
+arXiv:1708.09588 matches: 30 hours of training 
+arXiv:2007.04666 matches: 800.000 floating point operations 
+arXiv:1810.03459 matches: 600 hours of training 
+arXiv:1612.06519 matches: 5.74 MFLOPS 
+arXiv:1612.06519 matches: 117,000 MFLOPS 
+arXiv:1612.06519 matches: 2700 MFLOPS 
+arXiv:1612.06519 matches: 10.6 TFLOPS 
+arXiv:1612.06519 matches: 10.6 TFLOPS 
+arXiv:1612.06519 matches: 2.7 GFLOPS 
+arXiv:1612.06519 matches: 10.6 TFLOPS 
+arXiv:1612.06519 matches: 117 GFLOPS 
+arXiv:1612.06519 matches: 6 TFLOPS 
+arXiv:1612.06519 matches: 6 TFLOPS 
+arXiv:1612.06519 matches: 0.03 TFLOPS 
+arXiv:1612.06519 matches: 3 TFLOPS 
+arXiv:1612.06519 matches: 117 GFLOPS 
+arXiv:1612.06519 matches: 0.5 TFLOPS 
+arXiv:1612.06519 matches: 6 TFLOPS 
+arXiv:1612.06519 matches: 27 PetaFLOPS 
+arXiv:1612.06519 matches: power draw (as low as 100W) 
+arXiv:1604.08242 matches: 2000 hours training 
+arXiv:2004.08008 matches: power budgets: 1) 30W  
+arXiv:2004.11827 matches: 7Tflops 
+arXiv:1812.01762 matches: 32-bit floating point operations 
+arXiv:1811.10169 matches: 8400 hours training 
+arXiv:1603.02524 matches: 1.9 GFLOPS 
+arXiv:2006.03870 matches: 1.8 petaflops 
+arXiv:2006.03870 matches: 2.7 petaflops 
+arXiv:cs0209013 matches: energy of 1 Joule. 
+arXiv:cs0209013 matches: energy of 1 Joule  
+arXiv:1209.6630 matches: 16 floating point operations 
+arXiv:1209.6630 matches: 16 floating point operations 
+arXiv:2005.08942 matches: 445 petaflops 
+arXiv:2005.08942 matches: 148.6 petaflops 
+arXiv:1611.09065 matches: 1kg of carbon  
+arXiv:1608.08292 matches: energy threshold, e.g. 50 kWh 
+arXiv:1412.0659 matches: 24.77 Pflops 
+arXiv:1412.0659 matches: 33.49 Pflops 
+arXiv:1412.0659 matches: 24.77 Pflops 
+arXiv:1412.0659 matches: 33.49 Pflops 
+arXiv:1412.0659 matches: 24.77 Pflops 
+arXiv:1412.0659 matches: 4.45 Pflops 
+arXiv:1412.0659 matches: 42 Tflops 
+arXiv:1412.0659 matches: 124 Mflops 
+arXiv:1412.0659 matches: 190 Tflops 
+arXiv:1412.0659 matches: 254.4 Mflops 
+arXiv:1412.0659 matches: 830 Mflops 
+arXiv:1412.0659 matches: 2.7) Gflops 
+arXiv:1412.0659 matches: 3.95 Tflops 
+arXiv:1412.0659 matches: 0.128 Tflops 
+arXiv:1412.0659 matches: 1.7 Tflops 
+arXiv:1412.0659 matches: 4 floating-point operations 
+arXiv:1412.0659 matches: 33.49 Pflops 
+arXiv:1412.0659 matches: 24.77 Pflops 
+arXiv:1412.0659 matches: 24.77 Pflops 
+arXiv:1412.0659 matches: 33.49 Pflops 
+arXiv:1412.0659 matches: 1.8 Tflops 
+arXiv:1412.0659 matches: 1.33 Tflops 
+arXiv:1412.0659 matches: 73.2 Pflops 
+arXiv:1609.05935 matches: 10 hours of training 
+arXiv:1609.05935 matches: 2000 hours of training 
+arXiv:1611.06892 matches: 50% of flops 
+arXiv:1903.10965 matches: energy capacity of 7 kWh 
+arXiv:1903.10965 matches: power of 3.5 kW, 
+arXiv:1903.10965 matches: power of 3.2 kW, 
+arXiv:1707.08553 matches: power of 2.3kW  
+arXiv:1707.08553 matches: power rating of 2.3kW  
+arXiv:1606.02228 matches: 24 hours of training 
+arXiv:1608.00687 matches: 100 metric tons of carbon  
+arXiv:2001.04886 matches: 459 Megaflops 
+arXiv:1610.02511 matches: power of 100W. 
+arXiv:1212.0272 matches: energy ratios of 40 to 50 kW  
+arXiv:1910.01467 matches: 2.57G flops 
+arXiv:1302.3784 matches: power of 4W. 
+arXiv:1511.02171 matches: 12.7 GFLOPS 
+arXiv:1511.02171 matches: 12.4 GFLOPS 
+arXiv:1511.02171 matches: 11.8 GFLOPS 
+arXiv:1511.02171 matches: 12.4 GFLOPS 
+arXiv:1511.02171 matches: 11.9 GFLOPS 
+arXiv:1511.02171 matches: 11.0 GFLOPS 
+arXiv:1511.02171 matches: 11.6 GFLOPS 
+arXiv:1511.02171 matches: 8.9 GFLOPS 
+arXiv:1511.02171 matches: 9.8 GFLOPS 
+arXiv:1511.02171 matches: 8.0 GFLOPS 
+arXiv:1511.02171 matches: 4 GFLOPS 
+arXiv:1511.02171 matches: 4 flops 
+arXiv:1809.10212 matches: 72 hours of training 
+arXiv:1712.03400 matches: 23 hours of training 
+arXiv:1706.10074 matches: power of 4 kW  
+arXiv:1706.10074 matches: power of 7 kW, 
+arXiv:1706.10074 matches: power of 20 kW, 
+arXiv:1811.08586 matches: 30 hours of training 
+arXiv:1811.08586 matches: 30 hours of training 
+arXiv:1602.06652 matches: 1.2 Gflops 
+arXiv:1602.06652 matches: 1.7 Mflops 
+arXiv:1602.06652 matches: 48.4 Mflops 
+arXiv:2001.01935 matches: 3.2 Mega-flops 
+arXiv:1410.2167 matches: power envelope up to 400 W, 
+arXiv:1811.10559 matches: 2.36M flops 
+arXiv:1508.06010 matches: power of 500 W. 
+arXiv:1908.11373 matches: energy from a 3W  
+arXiv:1904.07302 matches: 10 hours of training 
+arXiv:1505.07187 matches: power of 40 W  
+arXiv:1307.7242 matches: energy lowers to 1500 joules. 
+arXiv:1807.08804 matches: 500 gigaflops 
+arXiv:1807.08804 matches: 1 teraflops 
+arXiv:0907.4036 matches: 123 Gflops 
+arXiv:0907.4036 matches: 85 Gflops 
+arXiv:0907.4036 matches: 384 Gflops 
+arXiv:0907.4036 matches: 100 Gflops 
+arXiv:2005.10497 matches: 8.9 GFLOPS 
+arXiv:2005.10497 matches: 24.2 GFLOPS 
+arXiv:1907.00667 matches: 0.25 flops 
+arXiv:1907.00667 matches: 11 flops 
+arXiv:2007.03001 matches: 500 hours of training 
+arXiv:1910.01794 matches: power of 500 MW  
+arXiv:1812.06378 matches: 4 flops 
+arXiv:1907.11971 matches: 26.9 TFLOPS 
+arXiv:1907.11971 matches: 1.25 PFLOPS 
+arXiv:1004.1680 matches: 4.62 Giga floating-point operations 
+arXiv:1004.1680 matches: 2.7Tflops 
+arXiv:1504.04343 matches: 1.3 TFLOPS 
+arXiv:1504.04343 matches: 4.29 TFLOPS 
+arXiv:1504.04343 matches: 1.3T FLOPS 
+arXiv:1504.04343 matches: 1 TFLOPS 
+arXiv:1504.04343 matches: 2 TFLOPS 
+arXiv:1504.04343 matches: 1.3 TFLOPS 
+arXiv:1504.04343 matches: 0.7 TFLOPS 
+arXiv:1902.03876 matches: 3 hours of training 
+arXiv:cs0701075 matches: 10 giga flops 
+arXiv:cs0701075 matches: 10 peta-flops 
+arXiv:cs0701075 matches: 1.0 giga flops 
+arXiv:cs0701075 matches: 10 giga flops 
+arXiv:cs0701075 matches: 0.5 peta flops 
+arXiv:1808.02171 matches: 300 hours training 
+arXiv:1808.02171 matches: 300 hours training 
+arXiv:1310.4502 matches: 1.6 Petaflops 
+arXiv:1310.4502 matches: 2 Tflops 
+arXiv:1310.4502 matches: 20 Tflops 
+arXiv:1310.4502 matches: 600,000 floating point operations 
+arXiv:1310.4502 matches: 140,000 floating point operations 
+arXiv:1806.01427 matches: 15.7 Teraflops 
+arXiv:1806.01427 matches: 125 Teraflops 
+arXiv:1806.01427 matches: 7.6 Teraflops 
+arXiv:1806.01427 matches: 15.7 Teraflops 
+arXiv:1302.5793 matches: 665.6 GFLOPS 
+arXiv:1807.02701 matches: 13 hours of training 
+arXiv:1807.02701 matches: 6 hours of training 
+arXiv:1904.10607 matches: 849M FLOPS 
+arXiv:1904.10607 matches: 100 GFLOPS 
+arXiv:1904.10607 matches: 100 GFLOPS 
+arXiv:1904.08980 matches: 10 hours of training 
+arXiv:1904.08980 matches: 100 hours of training 
+arXiv:1912.05681 matches: power of 80kW. 
+arXiv:2002.02949 matches: 32-bit floating point operations 
+arXiv:1909.01700 matches: 3.6 GFLOPS 
+arXiv:1909.01700 matches: 9.8 GFLOPS 
+arXiv:1909.01700 matches: 3.6 GFLOPS 
+arXiv:1902.01107 matches: 2: FPO 
+arXiv:1905.01656 matches: 1,123,736 floating point operations 
+arXiv:1303.1693 matches: energy is less than 120 Joule/ 
+arXiv:1712.08934 matches: 32-bit floating point operations 
+arXiv:1401.5024 matches: 4GFLOPS 
+arXiv:1609.08583 matches: power of 500 mW to 2 W, 
+arXiv:1101.0788 matches: power of 1 Watt  
+arXiv:1908.00080 matches: 100 gigaflops 
+arXiv:1608.06581 matches: 10 exaflops 
+arXiv:1803.02225 matches: power is 1 W  
+arXiv:1803.02225 matches: power of 0.1 W, 
+arXiv:1803.05808 matches: 7 tons of carbon  
+arXiv:1910.11247 matches: 70 hours of training 
+arXiv:1607.01085 matches: power of one PBS is 13.6 W, 
+arXiv:1910.03976 matches: power of 81 kW, 
+arXiv:1910.03976 matches: power consumption of 81 kW) 
+arXiv:1607.02249 matches: 4.8 GFLOPS 
+arXiv:1607.02249 matches: 31.9 GFLOPS 
+arXiv:1607.02249 matches: 3.36 GFLOPS 
+arXiv:1607.02249 matches: 4 FLOPS 
+arXiv:1711.04323 matches: 40 hours of training 
+arXiv:1705.09366 matches: 40 floating point operations 
+arXiv:1905.10759 matches: 11 GFLOPS 
+arXiv:1707.08206 matches: 3 flops 
+arXiv:2003.06505 matches: 4 hours of training 
+arXiv:2002.05364 matches: power FORMULA  is 6.19W  
+arXiv:2006.07273 matches: 7.11 Gflops 
+arXiv:2006.07273 matches: 51.4 Gflops 
+arXiv:1707.08134 matches: 383 flip-flops 
+arXiv:1707.08134 matches: 2176 flip-flops 
+arXiv:1804.09541 matches: 3 hours training 
+arXiv:1904.02469 matches: 400 hours of training 
+arXiv:1607.00575 matches: power per frame as 1.2W. 
+arXiv:2007.15796 matches: 224),) flops 
+arXiv:1811.02566 matches: 81 hours of training 
+arXiv:1811.02566 matches: 81 hours of training 
+arXiv:1806.06204 matches: 54.9 petaflops 
+arXiv:1806.06204 matches: 33.86 petaflops 
+arXiv:1512.06216 matches: 130 hours of training 
+arXiv:1512.06216 matches: 250 hours of training 
+arXiv:1512.06216 matches: 350 hours of training 
+arXiv:1512.06216 matches: 500 hours of training 
+arXiv:1904.03329 matches: 9.3 TFLOPS 
+arXiv:1910.12157 matches: 20% use floating-point operations 
+arXiv:1408.1268 matches: power consumption of 5 kW. 
+arXiv:2001.00526 matches: 121.4M FLOPS 
+arXiv:1902.06468 matches: 2 (2 PFLOPS 
+arXiv:1902.06468 matches: power (i.e., 300 W  
+arXiv:1905.08796 matches: 300 hours training 
+arXiv:2003.06598 matches: power reaching 450 GW  
+arXiv:1907.05171 matches: 128 flops 
+arXiv:2002.08326 matches: 100% FLOPS 
+arXiv:1807.01738 matches: 150 hours training 
+arXiv:1309.3260 matches: 40kJ of energy 
+arXiv:1810.01054 matches: 4 hours of training 
+arXiv:1512.04280 matches: 70 hours of training 
+arXiv:1610.06385 matches: 0.25 Gflops 
+arXiv:1610.06385 matches: 512 Gflops 
+arXiv:1610.06385 matches: 48 Gflops 
+arXiv:1610.06385 matches: 0.14 Gflops 
+arXiv:1610.06385 matches: 0.25 Gflops 
+arXiv:1610.06385 matches: 0.03 Gflops 
+arXiv:1610.06385 matches: 0.225 Gflops 
+arXiv:1610.06385 matches: 17.3 Gflops 
+arXiv:1610.06385 matches: 17.3 Gflops 
+arXiv:1610.06385 matches: 35.7 Gflops 
+arXiv:1610.06385 matches: 35.7 Gflops 
+arXiv:1907.00443 matches: 20 hours of training 
+arXiv:1105.0661 matches: 42.4 TFLOPS 
+arXiv:1909.08500 matches: energy consumption is 31.2 Joule. 
+arXiv:1909.08500 matches: power consumption is 0.45 Watt  
+arXiv:1001.1625 matches: 6 real flops 
+arXiv:1905.06464 matches: 60 hours of training 
+arXiv:2006.14591 matches: 12 kg of CO2, 
+arXiv:1712.01472 matches: 3.2GFLOPS 
+arXiv:1904.04323 matches: power (as much as 25kW) 
+arXiv:2003.03283 matches: 41.6 GFLOPS 
+arXiv:2003.03283 matches: 7.8 TFLOPS 
+arXiv:2003.03283 matches: 2.8 GFLOPS 
+arXiv:2003.03283 matches: 3.6 GFLOPS 
+arXiv:2003.03283 matches: 109/32 GFLOPS 
+arXiv:1505.01765 matches: 1.3 Pflops 
+arXiv:1505.01765 matches: 20 Pflops 
+arXiv:1410.5561 matches: power is lower, with 10WD 
+arXiv:1801.09212 matches: 57.6 GFLOPS 
+arXiv:1801.09212 matches: 38.9 GFLOPS 
+arXiv:1801.09212 matches: 57.6 GFLOPS 
+arXiv:1801.09212 matches: 57.6 GFLOPS 
+arXiv:1801.09212 matches: 25.6 GFLOPS 
+arXiv:1801.09212 matches: 57.6 GFLOPS 
+arXiv:1801.09212 matches: 4.8 GFLOPS 
+arXiv:1801.09212 matches: 57.6 GFLOPS 
+arXiv:1801.09212 matches: 0.08 GFLOPS 
+arXiv:1801.09212 matches: 57.6 GFLOPS 
+arXiv:1801.09212 matches: 38.9 GFLOPS 
+arXiv:1801.09212 matches: 0.05 GFLOPS 
+arXiv:2004.14476 matches: 10.49B FLOPS 
+arXiv:1607.00150 matches: power output is 120 kW, 
+arXiv:1309.0752 matches: energy consumed is 0.5 joule  
+arXiv:1909.11652 matches: 5 hours of training 
+arXiv:1802.08047 matches: power load of 5MW. 
+arXiv:1909.12579 matches: 50% FLOPS 
+arXiv:1909.12579 matches: 50% FLOPS 
+arXiv:1909.12579 matches: 50% FLOPS 
+arXiv:1909.12579 matches: 50% FLOPS 
+arXiv:1511.00863 matches: 1.66 TFLOPS 
+arXiv:1511.00863 matches: 1.2 TFLOPS 
+arXiv:1511.00863 matches: 2.4 TFLOPS 
+arXiv:1511.00863 matches: 1.2 TFLOPS 
+arXiv:1511.00863 matches: 30 GFLOPS 
+arXiv:1511.00863 matches: 60 GFLOPS 
+arXiv:1511.00863 matches: 85 GFLOPS 
+arXiv:1511.00863 matches: 180 GFLOPS 
+arXiv:1209.4297 matches: 665 Gflops 
+arXiv:1209.4297 matches: 78 Gflops 
+arXiv:1607.04373 matches: 50 hours of training 
+arXiv:1505.05899 matches: 2300 hours of training 
+arXiv:1909.00607 matches: 34 hours of training 
+arXiv:1809.03668 matches: 6 floating point operations 
+arXiv:1906.11915 matches: power budget of 2W  
+arXiv:1609.03986 matches: 10 Tera-FLOPS 
+arXiv:1503.02821 matches: power of 1 Watt  
+arXiv:1503.02821 matches: power FORMULA  is 10 Watt  
+arXiv:1106.5063 matches: power is 1.92kW. 
+arXiv:1911.10791 matches: 3 hours of training 
+arXiv:1504.00702 matches: 4 hours of training 
+arXiv:1603.02655 matches: 1 TFLOPS 
+arXiv:1603.02655 matches: 3 flops 
+arXiv:1609.05521 matches: 65 hours of training 
+arXiv:1904.05347 matches: 50 gigaflops 
+arXiv:1904.05347 matches: 366 gigaflops 
+arXiv:1912.09532 matches: 48 hours of training 
+arXiv:1904.05717 matches: 23.26 flops 
+arXiv:1904.05717 matches: 64 flops 
+arXiv:1907.10597 matches: 35% in FPO 
+arXiv:1604.00739 matches: power is 20 W  
+arXiv:1604.00739 matches: power consumption is 40 W  
+arXiv:1701.06535 matches: 976 floating-point operations 
+arXiv:1805.01214 matches: 48 hours training 
+arXiv:2005.05106 matches: 0.95 GFLOPS 
+arXiv:2005.05106 matches: 7.6 GFLOPS 
+arXiv:2005.05106 matches: 0.95 GFLOPS 
+arXiv:1905.13369 matches: 252 J of energy 
+arXiv:2007.04939 matches: 11.15 Petaflops 
+arXiv:2004.13466 matches: power and 10 MW  
+arXiv:2004.13466 matches: power and 15 MW  
+arXiv:1602.08124 matches: 7 TFLOPS 
+arXiv:1407.4177 matches: power is 100 Watt  
+arXiv:1911.09074 matches: 300 mFLOPS 
+arXiv:1501.06957 matches: power of 1.4 kW) 
+arXiv:1501.06957 matches: power of 6.6 kW) 
+arXiv:1706.08359 matches: 10 TFLOPS 
+arXiv:1706.08359 matches: 0.3 TFLOPS 
+arXiv:1809.10141 matches: 2 hours of training 
+arXiv:1410.3677 matches: 1petaFLOPS 
+arXiv:1410.3677 matches: 10 GigaFLOPS 
+arXiv:1410.3677 matches: 1 petaFLOPS 
+arXiv:1801.07756 matches: 274 000 floating point operations 
+arXiv:2005.09684 matches: 000 hours of training 
+arXiv:2005.09684 matches: 000 hours of training 
+arXiv:2005.09684 matches: 640 hours of training 
+arXiv:1602.03508 matches: power FORMULA  as 439W  
+arXiv:1909.11730 matches: 46B FLOPS 
+arXiv:1909.11730 matches: 57B FLOPS 
+arXiv:1909.11730 matches: 141.3B FLOPS 
+arXiv:1408.5715 matches: 213 floating point operations 
+arXiv:1608.03549 matches: 50 GFLOPS 
+arXiv:1608.03549 matches: 19.2 GFLOPS 
+arXiv:1608.03549 matches: 32.3 GFLOPS 
+arXiv:1608.03549 matches: 50 GFLOPS 
+arXiv:1608.03549 matches: 794 MFLOPS 
+arXiv:1608.03549 matches: 1812 MFLOPS 
+arXiv:1605.01081 matches: power of 1 MW  
+arXiv:1804.08133 matches: 500 Wh energy 
+arXiv:1804.08133 matches: power (e.g., 1 W) 
+arXiv:1712.04555 matches: 55 hours of training 
+arXiv:1301.5885 matches: 515Gflops 
+arXiv:1301.5885 matches: 1.31Tflops 
+arXiv:2005.09246 matches: 217 hours of training 
+arXiv:2004.08948 matches: energy of SOS is 13.89 joules  
+arXiv:2004.08948 matches: energy of SOS is 13.89 joules  
+arXiv:1811.04663 matches: 34 92] flops 
+arXiv:1909.02119 matches: 700 hours of training 
+arXiv:1912.06865 matches: 7 TeraFLOPS 
+arXiv:1912.06865 matches: 14 TeraFLOPS 
+arXiv:1912.06865 matches: 112 TeraFLOPS 
+arXiv:1811.12174 matches: 7.8 teraflops 
+arXiv:1906.08879 matches: 27 hours of training 
+arXiv:2003.08872 matches: 2 hours training 
+arXiv:2001.09877 matches: 1558 FLOPS 
+arXiv:2001.09877 matches: 331 FLOPS 
+arXiv:2001.09877 matches: 1124 FLOPS 
+arXiv:2006.09308 matches: 2.796M) floating point operations 
+arXiv:1410.4449 matches: 2.1 PFLOPS 
+arXiv:1806.11449 matches: power of 28.55GW. 
+arXiv:1610.05711 matches: 10 joules of energy 
+arXiv:1707.00722 matches: 100 hours of training 
+arXiv:1210.3494 matches: power of 10 W  
+arXiv:1810.05291 matches: 2 hours of training 
+arXiv:1707.02222 matches: power of 1W  
+arXiv:2003.11081 matches: power is greater 3.5 W, 
+arXiv:1605.01078 matches: 2 floating point operations 
+arXiv:1605.01078 matches: 28.32 GFLOPS 
+arXiv:1605.01078 matches: 1056GFLOPS 
+arXiv:1403.0968 matches: 1e9 floating point operations 
+arXiv:1509.02409 matches: 10 hours of training 
+arXiv:1902.00465 matches: 180 teraflops 
+arXiv:1909.06522 matches: 160 hours training 
+arXiv:1911.02126 matches: energy state of 120 kWh 
+arXiv:1803.10615 matches: 6TFLOPS 
+arXiv:1905.08778 matches: 187.7 petaflops 
+arXiv:1905.08778 matches: 7.8 TFLOPS 
+arXiv:1905.08778 matches: 15.7 TFLOPS 
+arXiv:1711.00333 matches: 32-bit floating point operations 
+arXiv:1711.00333 matches: power draw of 1.9W. 
+arXiv:1408.5925 matches: 346 GFLOPS 
+arXiv:1408.5925 matches: 197 GFLOPS 
+arXiv:1408.5925 matches: 171 GFLOPS 
+arXiv:1408.5925 matches: 90 GFLOPS 
+arXiv:1411.4000 matches: 4 hours of training 
+arXiv:1912.07703 matches: power of 150W  
+arXiv:1804.08050 matches: 581 hours of training 
+arXiv:1003.0358 matches: 2 hours of training 
+arXiv:1409.8608 matches: 60 flops 
+arXiv:1409.8608 matches: 80 flops 
+arXiv:1409.8608 matches: 20 flops 
+arXiv:1605.08695 matches: 6 TFLOPS 
+arXiv:1512.08903 matches: 167 hours of training 
+arXiv:2006.02602 matches: 513 GFLOPS 
+arXiv:2006.02602 matches: 4.7 TeraFLOPS 
+arXiv:2006.02602 matches: 7.8 TeraFLOPS 
+arXiv:1207.1469 matches: power of the 802.11 WL 
+arXiv:1912.09729 matches: 6 hours training 
+arXiv:1305.5132 matches: power per house of 1200W  
+arXiv:1305.5132 matches: power lower than 6MW, 
+arXiv:1305.5132 matches: power of 1200W  
+arXiv:1305.5132 matches: power consumption of 100W  
+arXiv:1305.5132 matches: power threshold of 14kW  
+arXiv:1305.5132 matches: power usage of 10kW  
+arXiv:1912.00955 matches: 24 hours of training 
+arXiv:1310.8540 matches: power of 10kW  
+arXiv:1407.8116 matches: 12 GFLOPS 
+arXiv:1407.8116 matches: 18.3 GFLOPS 
+arXiv:1407.8116 matches: 3094 GFLOPS 
+arXiv:1407.8116 matches: 13.6 GFLOPS 
+arXiv:1407.8116 matches: 16.0 GFLOPS 
+arXiv:1407.8116 matches: 14.6 GFLOPS 
+arXiv:1407.8116 matches: 13.5 GFLOPS 
+arXiv:1407.8116 matches: 12.6 GFLOPS 
+arXiv:1407.8116 matches: 18.3 GFLOPS 
+arXiv:1407.8116 matches: 13.5 GFLOPS 
+arXiv:1407.8116 matches: 12.4 GFLOPS 
+arXiv:1407.8116 matches: 2064 GFLOPS 
+arXiv:1407.8116 matches: 2636 GFLOPS 
+arXiv:1709.05011 matches: 10.6 Tflops 
+arXiv:1709.05011 matches: 6 Tflops 
+arXiv:1908.02280 matches: 10 Eflops 
+arXiv:1907.02994 matches: 74656 FLOPS 
+arXiv:1907.02994 matches: 1000 FLOPS 
+arXiv:1907.04494 matches: power increase of 20MW  
+arXiv:2002.02145 matches: 3,300 GFLOPS 
+arXiv:1908.01481 matches: 3306.69 GFLOPS 
+arXiv:1908.01481 matches: 12869.79 GFLOPS 
+arXiv:1112.5557 matches: 64 J of energy 
+arXiv:1711.10151 matches: 54.4 gigaFLOPS 
+arXiv:1711.10151 matches: 15.4 GFLOPS 
+arXiv:1711.10151 matches: 25.7 GFLOPS 
+arXiv:1709.02667 matches: power demand of 3kW  
+arXiv:1812.05705 matches: 750 GFLOPS 
+arXiv:1906.10210 matches: power up to 100 W  
+arXiv:1908.08535 matches: power of 34.32 W. 
+arXiv:1903.12087 matches: 100 GFLOPS 
+arXiv:1903.12087 matches: 2.3 GFLOPS 
+arXiv:1903.12087 matches: 0.6 GFLOPS 
+arXiv:1903.12087 matches: 3 GFLOPS 
+arXiv:1903.12087 matches: 100 GFLOPS 
+arXiv:1903.12087 matches: 100 GFLOPS 
+arXiv:1903.12087 matches: 30 MFLOPS 
+arXiv:1903.12087 matches: 0.03 GFLOPS 
+arXiv:1903.12087 matches: 14 MFLOPS 
+arXiv:1903.12087 matches: 8 MFLOPS 
+arXiv:1712.04980 matches: power of each user to 1 W, 
+arXiv:1905.10574 matches: 41.6 GFLOPS 
+arXiv:1905.10574 matches: 1164.8 GFLOPS 
+arXiv:1802.04243 matches: 2.62 TFLOPS 
+arXiv:1802.04243 matches: 7.45 TFLOPS 
+arXiv:1711.11129 matches: energy of 1014kWh 
+arXiv:1812.05253 matches: 15 hours of training 
+arXiv:0806.2548 matches: 2 or 4 floating-point operations 
+arXiv:2002.03838 matches: power consumption is 100 W  
+arXiv:cs0312006 matches: 200 Gflops 
+arXiv:cs0312006 matches: 200 Gflops 
+arXiv:cs0312006 matches: 200 Gflops 
+arXiv:cs0312006 matches: 32-bit floating point operations 
+arXiv:cs0312006 matches: 7 Gflops 
+arXiv:cs0312006 matches: 32-bit floating point operations 
+arXiv:cs0312006 matches: 16 Gflops 
+arXiv:cs0312006 matches: 7 Gflops 
+arXiv:cs0312006 matches: 16 Gflops 
+arXiv:1907.05955 matches: 960 hours of training 
+arXiv:1907.05955 matches: 50 hours of training 
+arXiv:2002.00343 matches: 32-bit floating-point operations 
+arXiv:1008.2021 matches: 40,000 flops 
+arXiv:1008.2021 matches: 1000 flops 
+arXiv:2001.07829 matches: power system of 100 MW  
+arXiv:1902.10116 matches: power loads are 17620.7 MW  
+arXiv:1711.01694 matches: 1500 hours of training 
+arXiv:2004.08520 matches: power is 100W and 200W, 
+arXiv:2004.08520 matches: power is 200W, 
+arXiv:2004.08520 matches: power of 5W  
+arXiv:2004.08520 matches: power of 200W  
+arXiv:1908.02239 matches: power is up to 200W. 
+arXiv:1307.1524 matches: 1 joule of energy 
+arXiv:1307.1524 matches: 1 joule of energy 
+arXiv:1307.1524 matches: 1 joule energy 
+arXiv:1904.01152 matches: 6 flops 
+arXiv:1904.01152 matches: 2 flops 
+arXiv:1710.07400 matches: energy greater than 10,000 kJ/ 
+arXiv:1601.02436 matches: power is 40 W. 
+arXiv:1906.08647 matches: 2 hours of training 
+arXiv:1503.04604 matches: 200 J of energy 
+arXiv:1402.1718 matches: power consumption of 1 W  
+arXiv:1402.1718 matches: power of 3.2 W  
+arXiv:1712.02446 matches: power constraints of 90W  
+arXiv:2007.15377 matches: power of each TST is 2W. 
+arXiv:2005.05899 matches: 7.8 TFLOPS 
+arXiv:2005.05899 matches: 30.8 TFLOPS 
+arXiv:1610.05838 matches: 1536 floating point operations 
+arXiv:1610.05838 matches: 600 Gflops 
+arXiv:2003.13021 matches: 20 hours of training 
+arXiv:1901.08810 matches: 45 hours of training 
+arXiv:2002.08110 matches: 3, y=flops 
+arXiv:2002.08110 matches: 2, y=flops 
+arXiv:2002.08110 matches: 1, y=flops 
+arXiv:2002.08110 matches: 3, y=flops 
+arXiv:2002.08110 matches: 2, y=flops 
+arXiv:2002.08110 matches: 1, y=flops 
+arXiv:1411.0895 matches: 109 hours of training 
+arXiv:1411.0895 matches: 33 hours of training 
+arXiv:2003.01492 matches: 22 kflops 
+arXiv:1910.09337 matches: 30 hours of training 
+arXiv:1806.01344 matches: power flow of 457 MW  
+arXiv:1506.05996 matches: 242 floating point operations 
+arXiv:1506.05996 matches: 242 floating point operations 
+arXiv:1506.05996 matches: 300 GFLOPS 
+arXiv:1910.10769 matches: energy of 17,665 J  
+arXiv:1910.10769 matches: power of 47 W  
+arXiv:2004.02833 matches: 16 floating-point operations 
+arXiv:1909.00557 matches: 10.16 TFLOPS 
+arXiv:1909.08148 matches: 20 GFLOPS 
+arXiv:2007.13055 matches: 400GFLOPS 
+arXiv:2007.13055 matches: 8.1TFLOPS 
+arXiv:1909.11238 matches: power of 1.5W  
+arXiv:1909.11238 matches: power of 0.6W. 
+arXiv:2004.04054 matches: 2 hours of training 
+arXiv:1709.03222 matches: power of 140W  
+arXiv:1709.03222 matches: power of 15W, 
+arXiv:1310.2040 matches: 10 petaFLOPS 
+arXiv:1910.02371 matches: 3 Teraflops 
+arXiv:1804.09536 matches: 7.2 Petaflops 
+arXiv:1807.04353 matches: 50 hours of training 
+arXiv:1602.07558 matches: 40 TeraFLOPS 
+arXiv:1602.07558 matches: 10 GFLOPS 
+arXiv:1705.04289 matches: power of 1 W  
+arXiv:1908.09216 matches: 10x flops 
+arXiv:1908.09216 matches: 1/10 flops 
+arXiv:1612.03071 matches: 61,505,280 flops 
+arXiv:1612.03071 matches: 79.992 Giga-flops 
+arXiv:1612.03071 matches: 257,280 flops 
+arXiv:1612.03071 matches: 61,505,280 flops 
+arXiv:1612.03071 matches: 79.992 Giga-flops 
+arXiv:1704.00978 matches: 8 petaFLOPS 
+arXiv:1909.09709 matches: 665 GFLOPS 
+arXiv:1812.07390 matches: 32 bits floating point operations 
+arXiv:1812.07390 matches: 3.24J energy 
+arXiv:1705.01861 matches: 4dfpos 
+arXiv:1911.07621 matches: energy for each node: 2 Joule. 
+arXiv:1904.04289 matches: 4128 GFLOPS 
+arXiv:1904.04289 matches: 3 GFLOPS 
+arXiv:1909.05423 matches: 27 petaFLOPS 
+arXiv:1909.05423 matches: 17.59 petaFLOPS 
+arXiv:2004.04729 matches: 284 tons of carbon  
+arXiv:1705.10591 matches: 4290 giga floating-point operations 
+arXiv:1909.13654 matches: 8-bit FLOPS 
+arXiv:1607.02177 matches: 25 hours of training 
+arXiv:1910.09808 matches: power of 283 MW. 
+arXiv:1811.02091 matches: 22 teraflops 
+arXiv:1912.07204 matches: 4.21 kWh energy 
+arXiv:1912.07204 matches: 4.21 kWh energy 
+arXiv:1904.06451 matches: 2.7 TFLOPS 
+arXiv:1909.07439 matches: 64bit) floating point operations 
+arXiv:1909.07439 matches: 32bit floating point operations 
+arXiv:1610.01935 matches: 02 hours training 
+arXiv:1904.05049 matches: 1) The flops 
+arXiv:1501.00324 matches: power (TDP) of 295W, 
+arXiv:1903.00774 matches: 8 hours of training 
+arXiv:1808.06679 matches: 30 hours of training 
+arXiv:2004.03072 matches: 14.13 teraflops 
+arXiv:1908.02689 matches: power supply (PRO ECO 120W, 
+arXiv:1708.08976 matches: 16 GFLOPS 
+arXiv:1610.07045 matches: 6 hours training 
+arXiv:1612.01188 matches: power use of 7W, 
+arXiv:1503.06854 matches: 559 Gflops 
+arXiv:1503.06854 matches: 646 Gflops 
+arXiv:1904.08616 matches: 1464 floating point operations 
+arXiv:1708.02898 matches: 640 Mflops 
+arXiv:1708.02898 matches: 3.6 Gflops 
+arXiv:1709.06926 matches: power of 4.5 W. 
+arXiv:1107.4264 matches: 100) TFLOPS 
+arXiv:1107.4264 matches: 1 TFLOPS 
+arXiv:1107.4264 matches: 32 flops 
+arXiv:1107.4264 matches: 1345 GFLOPS 
+arXiv:1107.4264 matches: 120 GFLOPS 
+arXiv:1107.4264 matches: 243 GFLOPS 
+arXiv:1107.4264 matches: 1345 GFLOPS 
+arXiv:1107.4264 matches: 600 GFLOPS 
+arXiv:1107.4264 matches: 1 TFLOPS 
+arXiv:1107.4264 matches: 1058 GFLOPS 
+arXiv:1107.4264 matches: 1 TFLOPS 
+arXiv:1107.4264 matches: power budget of 0.75 kW  
+arXiv:1802.08395 matches: 320 hours training 
+arXiv:1802.02326 matches: 1.2 PetaFLOPS 
+arXiv:1802.02326 matches: 9.3 TeraFLOPS 
+arXiv:1802.02326 matches: 18.7 TeraFLOPS 
+arXiv:1802.02326 matches: 1.19 PetaFLOPS 
+arXiv:1802.02326 matches: 2.39 PetaFLOPS 
+arXiv:1802.02326 matches: 1.2 PetaFLOPS 
+arXiv:1509.05290 matches: energy is 100 MJ, 
+arXiv:1509.05290 matches: energy of 40 MJ  
+arXiv:2005.10113 matches: 12000 hours of training 
+arXiv:2005.10113 matches: 12000 hours of training 
+arXiv:2005.10113 matches: 12000 hours of training 
+arXiv:2005.10113 matches: 960 hours of training 
+arXiv:2005.10113 matches: 1000 hours of training 
+arXiv:2005.10113 matches: 168 hours of training 
+arXiv:1803.05320 matches: 16 Gflops 
+arXiv:1803.05320 matches: 0.04 Gflops 
+arXiv:1803.05320 matches: 265 Gflops 
+arXiv:1803.05320 matches: 0.05 Gflops 
+arXiv:1803.05320 matches: 1.23 Gflops 
+arXiv:1803.05320 matches: 1.09 Gflops 
+arXiv:1803.05320 matches: 0.39 Gflops 
+arXiv:1803.05320 matches: 35 Gflops 
+arXiv:1803.05320 matches: 25 Gflops 
+arXiv:1912.06040 matches: power of 2 W, 
+arXiv:1808.00286 matches: 11 GFLOPS 
+arXiv:1808.00286 matches: 7 GFLOPS 
+arXiv:1808.00286 matches: 20 GFLOPS 
+arXiv:1808.00286 matches: 12 GFLOPS 
+arXiv:1808.00286 matches: 11 GFLOPS 
+arXiv:1808.00286 matches: 7 GFLOPS 
+arXiv:1808.00286 matches: 42 GFLOPS 
+arXiv:1808.00286 matches: 23 GFLOPS 
+arXiv:1808.00286 matches: 12 GFLOPS 
+arXiv:1805.12498 matches: 27 petaFLOPS 
+arXiv:1310.2274 matches: 515 Gflops 
+arXiv:1310.2274 matches: 1.03 Tflops 
+arXiv:1912.00840 matches: power is 1.15 kW  
+arXiv:2001.00660 matches: 1 TFLOPS 
+arXiv:2001.00660 matches: 0.8 GFLOPS 
+arXiv:1908.05731 matches: 16-bit floating point operations 
+arXiv:1410.8772 matches: 70 GFLOPS 
+arXiv:1410.8772 matches: 1.14 GFLOPS 
+arXiv:1410.8772 matches: 72.83 GFLOPS 
+arXiv:1410.8772 matches: 63.6 GFLOPS 
+arXiv:1410.8772 matches: 9 GFLOPS 
+arXiv:1410.8772 matches: 1.15 GFLOPS 
+arXiv:1410.8772 matches: 1.15 GFLOPS 
+arXiv:1410.8772 matches: 68 GFLOPS 
+arXiv:1410.8772 matches: 65 GFLOPS 
+arXiv:1410.8772 matches: 65.32 GFLOPS 
+arXiv:1410.8772 matches: 10 GFLOPS 
+arXiv:1410.8772 matches: 32 GFLOPS 
+arXiv:1410.8772 matches: 64 GFLOPS 
+arXiv:1410.8772 matches: 65 GFLOPS 
+arXiv:1410.8772 matches: 32 GFLOPS 
+arXiv:1410.8772 matches: 5 TFLOPS 
+arXiv:1410.8772 matches: 70 GFLOPS 
+arXiv:1112.2584 matches: 27 Tflops 
+arXiv:1112.2584 matches: 340 Tflops 
+arXiv:1112.2584 matches: 30 Gflops 
+arXiv:2002.08089 matches: power loss as 13.593 MW  
+arXiv:2002.08089 matches: power loss to 6.43 MW  
+arXiv:2002.08089 matches: power loss to 8.0069 MW  
+arXiv:2002.08089 matches: power loss is 13.5929 MW. 
+arXiv:2002.08089 matches: power loss to 11.564 MW  
+arXiv:1209.2660 matches: 10 Tflops 
+arXiv:1710.05420 matches: power of 250W. 
+arXiv:1607.01908 matches: power is 40 W  
+arXiv:1811.09736 matches: 900 GFLOPS 
+arXiv:1811.09736 matches: 900 GFLOPS 
+arXiv:2003.11583 matches: power of 1 W, 
+arXiv:1601.07239 matches: 2 flip-flops 
+arXiv:1612.04470 matches: 0.3 Gflops 
+arXiv:1612.04470 matches: 3 Gflops 
+arXiv:1612.04470 matches: 16 Gflops 
+arXiv:1612.04470 matches: 0.04 Gflops 
+arXiv:1612.04470 matches: 8.5 Gflops 
+arXiv:1612.04470 matches: 295 Gflops 
+arXiv:1612.04470 matches: 0.12 Gflops 
+arXiv:1612.04470 matches: 1.21 Gflops 
+arXiv:1612.04470 matches: 6-7 Gflops 
+arXiv:1612.04470 matches: 265 Gflops 
+arXiv:1612.04470 matches: 0.05 Gflops 
+arXiv:1612.04470 matches: 1.21 Gflops 
+arXiv:1612.04470 matches: 1.09 Gflops 
+arXiv:1612.04470 matches: 0.39 Gflops 
+arXiv:1612.04470 matches: 1.23 Gflops 
+arXiv:1007.1388 matches: 100 GFLOPS 
+arXiv:1811.00892 matches: power demand of 6.2 GW. 
+arXiv:2004.03577 matches: 300 FLOPS 
+arXiv:2004.13747 matches: 154 FLOPS 
+arXiv:1711.02207 matches: 150 hours of training 
+arXiv:1602.02410 matches: 2 hours of training 
+arXiv:1910.05680 matches: power consumption is 6.94W  
+arXiv:1910.05680 matches: power variation, 1.58W, 
+arXiv:1610.03344 matches: power consumption of 250W  
+arXiv:1110.1687 matches: power load FORMULA 2MW, 
+arXiv:1609.05087 matches: power consumption is 800W  
+arXiv:1108.0747 matches: energy of 2 J  
+arXiv:1202.3173 matches: 9.2 GFLOPS 
+arXiv:1202.3173 matches: 36.8 GFLOPS 
+arXiv:1606.00350 matches: power is 31.2 GW. 
+arXiv:1802.08842 matches: 5 hours of training 
+arXiv:1802.08842 matches: 2 hours of training 
+arXiv:1802.08842 matches: 5 hours of training 
+arXiv:1802.08842 matches: 5 hours of training 
+arXiv:2007.16187 matches: 7.7 GFLOPS 
+arXiv:2007.16187 matches: 2.82 GFLOPS 
+arXiv:1605.06402 matches: power consumption of 235 W  
+arXiv:1605.06402 matches: power budget of 20 W. 
+arXiv:1907.08283 matches: power rating of 6.6 kW, 
+arXiv:1904.10947 matches: 34 hours training 
+arXiv:1905.03897 matches: 5 hours of training 
+arXiv:2006.13026 matches: 12.6G FLOPS 
+arXiv:2006.13026 matches: 13.2G FLOPS 
+arXiv:1205.1098 matches: 3 GFLOPS 
+arXiv:2004.06349 matches: power is 200W, 
+arXiv:2004.06349 matches: power FORMULA  is 50W, 
+arXiv:1908.11789 matches: 1 teraflops 
+arXiv:1908.11789 matches: 1 teraflops 
+arXiv:1808.04754 matches: 48 hours of training 
+arXiv:2001.07263 matches: 960 hours of training 
+arXiv:1903.01042 matches: power of about 15 W  
+arXiv:cs0109004 matches: 84 Mflops 
+arXiv:cs0109004 matches: 114 Mflops 
+arXiv:cs0109004 matches: 2 Gflops 
+arXiv:cs0109004 matches: 7.2 Gflops 
+arXiv:1711.08740 matches: 1024 GFLOPS 
+arXiv:1711.08740 matches: 79 GFLOPS 
+arXiv:1711.08740 matches: power budget of 5 W. 
+arXiv:0708.4399 matches: 3 flops 
+arXiv:0708.4399 matches: 3 flops 
+arXiv:0708.4399 matches: 3 flops 
+arXiv:0708.4399 matches: 4 flops 
+arXiv:0708.4399 matches: 5 flops 
+arXiv:2007.03051 matches: 130 TFLOPS 
+arXiv:2007.04785 matches: 600M FLOPS 
+arXiv:1906.11521 matches: 130 hours of training 
+arXiv:1902.08115 matches: 16 flops 
+arXiv:1902.08115 matches: 54.4 Gflops 
+arXiv:1902.08115 matches: 8 and 4 flops 
+arXiv:1902.08115 matches: 8.6 Gflops 
+arXiv:1902.08115 matches: 8 and 4 flops 
+arXiv:1902.08115 matches: 6.144 Gflops 
+arXiv:1803.08754 matches: power output of 1196 MW, 
+arXiv:1903.11047 matches: energy capacity of 7 kWh 
+arXiv:1903.11047 matches: power of 3.5 kW, 
+arXiv:1903.11047 matches: power of 3.2 kW, 
+arXiv:1812.08374 matches: 29% FLOPS 
+arXiv:1812.08374 matches: 46% FLOPS 
+arXiv:2006.03514 matches: power 1, 1, 2, 2, and 4 MW  
+arXiv:2007.13005 matches: power (158W vs 70W) 
+arXiv:2007.13005 matches: power draw (70W vs 161W) 
+arXiv:hep-lat0307015 matches: 2 floating-point operations 
+arXiv:hep-lat0307015 matches: 237 Mflops 
+arXiv:hep-lat0307015 matches: 220 Mflops 
+arXiv:hep-lat0307015 matches: 150 Gflops 
+arXiv:1906.03623 matches: power capacity of 150 kW  
+arXiv:1906.06207 matches: 283 hours of training 
+arXiv:1305.3345 matches: 500 gigaFLOPS 
+arXiv:1305.3345 matches: 1.3 teraFLOPS 
+arXiv:1710.04347 matches: 500 GFLOPS 
+arXiv:1710.04347 matches: 1.89 TFLOPS 
+arXiv:1710.04347 matches: 406 GFLOPS 
+arXiv:1710.04347 matches: 326 GFLOPS 
+arXiv:1710.04347 matches: 326 GFLOPS 
+arXiv:1705.09207 matches: 5 hours of training 
+arXiv:1811.05588 matches: 482 FLOPS 
+arXiv:1810.08452 matches: 5 hours of training 
+arXiv:0808.3990 matches: 2 MFLOPS 
+arXiv:1603.01845 matches: energy FORMULA : 250kWh 
+arXiv:2005.12813 matches: 3.86FLOPS 
+arXiv:2005.12813 matches: 40FLOPS 
+arXiv:1711.00903 matches: 120 GFLOPS 
+arXiv:1711.00903 matches: 180 GFLOPS 
+arXiv:1711.00903 matches: 80 GFLOPS 
+arXiv:1711.00903 matches: 1.4 TFLOPS 
+arXiv:1711.00903 matches: 2.25 TFLOPS 
+arXiv:1711.00903 matches: 80 GFLOPS 
+arXiv:1711.00903 matches: 2.5 TFLOPS 
+arXiv:1711.00903 matches: 200 GFLOPS 
+arXiv:1711.00903 matches: 200 GFLOPS 
+arXiv:1711.00903 matches: 300 GFLOPS 
+arXiv:1711.00903 matches: 350 GFLOPS 
+arXiv:1711.00903 matches: 610 GFLOPS 
+arXiv:1711.00903 matches: 300 GFLOPS 
+arXiv:1711.00903 matches: 600 GFLOPS 
+arXiv:1711.00903 matches: 280 GFFLOPS 
+arXiv:1711.00903 matches: 600 GFLOPS 
+arXiv:1711.00903 matches: 1.6 TFLOPS 
+arXiv:1711.00903 matches: 280 GFLOPS 
+arXiv:1711.00903 matches: 900 GFLOPS 
+arXiv:1607.07561 matches: 5 hours training 
+arXiv:1506.07943 matches: 57.6 GFLOPS 
+arXiv:1506.07943 matches: 0.1 GFLOPS 
+arXiv:1506.07943 matches: 345 GFLOPS 
+arXiv:1905.08126 matches: 100 GFLOPS 
+arXiv:2007.08077 matches: energy consumption is 1.32 J/ 
+arXiv:2006.02295 matches: 16 hours of training 
+arXiv:1804.01918 matches: 6600 floating-point operations 
+arXiv:2001.02498 matches: 9.3 TFLOPS 
+arXiv:2001.02498 matches: 1.8 TFLOPS 
+arXiv:2002.06301 matches: energy capacity of 400 MWh 
+arXiv:1207.2367 matches: 100 TFLOPS 
+arXiv:1106.0159 matches: 10 Gflops 
+arXiv:1106.0159 matches: 100 Tflops 
+arXiv:1106.0159 matches: 200 Tflops 
+arXiv:1910.06663 matches: 0.5 TFLOPS 
+arXiv:1910.10324 matches: 960 hours of training 
+arXiv:1903.04251 matches: energy capacity of 1.6MWh 
+arXiv:1903.04251 matches: energy capacity of 2.09MWh 
+arXiv:1903.04251 matches: energy capacity of 1.6MWh 
+arXiv:1903.04251 matches: energy capacity of 1.6MWh 
+arXiv:1903.04251 matches: 1MWh of energy 
+arXiv:1903.04251 matches: power FORMULA  of a 1.6MW/ 
+arXiv:1903.04251 matches: power capacity of 1.6MW  
+arXiv:1810.07548 matches: power is around 3 W, 
+arXiv:1610.03343 matches: 70 GFLOPS 
+arXiv:1610.03343 matches: 1.4 TFLOPS 
+arXiv:1610.03343 matches: 4.3 TFLOPS 
+arXiv:1610.03343 matches: power consumption of 95 W. 
+arXiv:1912.03663 matches: 30 hours of training 
+arXiv:1608.01789 matches: power is lower than 13kW, 
+arXiv:1608.01789 matches: power increases from 13kW  
+arXiv:1909.06497 matches: 8 Gflops 
+arXiv:1801.00059 matches: 212 hours of training 
+arXiv:1906.10811 matches: 8228 GFLOPS 
+arXiv:1808.00186 matches: 1.1 Petaflops 
+arXiv:1904.01175 matches: 6 hours of training 
+arXiv:1905.00626 matches: 64 floating point operations 
+arXiv:1905.00626 matches: 64 flops 
+arXiv:1905.00626 matches: 7.2 flops 
+arXiv:1901.06043 matches: 332.8 GFLOPS 
+arXiv:1901.06043 matches: 20.8 GFLOPS 
+arXiv:1911.02514 matches: energy consumption of 1 kWh 
+arXiv:1911.02514 matches: power (P) of 2.5 kW  
+arXiv:1912.01394 matches: 16-bit floating point operations 
+arXiv:1812.04426 matches: 909 flops 
+arXiv:1812.04426 matches: 180 flops 
+arXiv:1901.06015 matches: 17.6 gigaflops 
+arXiv:1901.06015 matches: 35.2 GFLOPS 
+arXiv:1901.06015 matches: 64 gigaflops 
+arXiv:1901.06015 matches: 128 GFLOPS 
+arXiv:2002.07215 matches: 2x FLOPS 
+arXiv:1907.11804 matches: 245M FLOPS 
+arXiv:1907.11804 matches: 167M FLOPS 
+arXiv:1907.11804 matches: 655M FLOPS 
+arXiv:1907.11804 matches: 655M/4) FLOPS 
+arXiv:1907.11804 matches: 655M/8) FLOPS 
+arXiv:1803.08426 matches: 166 petaFLOPS 
+arXiv:1803.08426 matches: 93 petaFLOPS 
+arXiv:1911.11313 matches: 16 TFLOPS 
+arXiv:1911.11313 matches: 10 TFLOPS 
+arXiv:1703.00548 matches: 9 petaflops 
+arXiv:1903.07468 matches: 400 hours of training 
+arXiv:1810.04201 matches: 1152 floating point operations 
+arXiv:1707.00164 matches: 4.7 TFLOPS 
+arXiv:1707.00164 matches: 2.1 TFLOPS 
+arXiv:1707.00164 matches: 998 GFLOPS 
+arXiv:2001.01755 matches: 15 hours of training 
+arXiv:1910.10234 matches: power envelope of 20W. 
+arXiv:1910.10234 matches: power limitation of 20W, 
+arXiv:1910.10234 matches: power budget of 40W, 
+arXiv:1605.02068 matches: energy unit is 1J  
+arXiv:1909.06842 matches: 1.25 TFLOPS 
+arXiv:1909.06842 matches: 180 TFLOPS 
+arXiv:1909.06842 matches: 112 TFLOPS 
+arXiv:1710.03861 matches: 28,728 J of energy 
+arXiv:1911.03894 matches: 420 teraflops 
+arXiv:1611.08666 matches: 3 hours of training 
+arXiv:1909.02914 matches: 1kWh energy 
+arXiv:2001.09678 matches: 326 GFLOPS 
+arXiv:1911.11033 matches: 20 hours of training 
+arXiv:astro-ph0112092 matches: 70 floating point operations 
+arXiv:2004.04730 matches: 20.67M FLOPS 
+arXiv:2004.04730 matches: 1.17 GFLOPS 
+arXiv:1211.6868 matches: power of about 1 W, 
+arXiv:1211.6868 matches: power is 10 W  
+arXiv:1411.3201 matches: power of 51 W  
+arXiv:1509.02058 matches: 0.5 GFLOPS 
+arXiv:1509.02058 matches: 0.975 GFLOPS 
+arXiv:1509.02058 matches: 0.243 GFLOPS 
+arXiv:1509.02058 matches: 0.340 GFLOPS 
+arXiv:1509.02058 matches: 0.243 GFLOPS 
+arXiv:1809.01316 matches: 8 hours of training 
+arXiv:1904.05090 matches: power of 43 W  
+arXiv:1904.05090 matches: power is 211 W) 
+arXiv:2001.02514 matches: energy of GSC is 2715J  
+arXiv:1912.00286 matches: 27 petaflops 
+arXiv:2004.01808 matches: 7.5 G-FLOPS 
+arXiv:2004.01808 matches: 3.9 G-FLOPS 
+arXiv:1711.07668 matches: power of 1 W, 
+arXiv:1811.02625 matches: 12 hours training 
+arXiv:1509.09308 matches: 2 TFLOPS 
+arXiv:1509.09308 matches: 8 TFLOPS 
+arXiv:1509.09308 matches: 5 TFLOPS 
+arXiv:1912.00177 matches: 30 hours of training 
+arXiv:2004.00960 matches: 207 hours of training 
+arXiv:1804.06964 matches: 4.29 Tflops 
+arXiv:1804.06964 matches: 11.3 Tflops 
+arXiv:1210.5219 matches: power of 1 W, 
+arXiv:1904.13032 matches: power = 40W, 
+arXiv:2003.12326 matches: 40 hours of training 
+arXiv:1911.06463 matches: power is 1W. 
+arXiv:1912.05508 matches: 420 TeraFLOPS 
+arXiv:1912.05508 matches: 14 TeraFLOPS 
+arXiv:1912.05508 matches: 7TeraFLOPS 
+arXiv:1912.05508 matches: 112 TFLOPS 
+arXiv:1912.05508 matches: 420 TFLOPS 
+arXiv:1302.4406 matches: energy usage was 13.4 kW  
+arXiv:1302.4406 matches: 16.9 kW of energy 
+arXiv:1802.00604 matches: 37 hours of training 
+arXiv:1911.01258 matches: 29.8 TFLOPS 
+arXiv:1911.01258 matches: 0.38 TFLOPS 
+arXiv:1601.07275 matches: power requirement of 8000 W. 
+arXiv:1601.07275 matches: power requirement of 75000 W  
+arXiv:1707.01939 matches: 32-bit floating-point operations 
+arXiv:1504.02360 matches: power of 1 Watt  
+arXiv:1911.07069 matches: 2 PFLOPS 
+arXiv:1408.2657 matches: 33 Tflops 
+arXiv:1408.2657 matches: 166.4 GFLOPS 
+arXiv:1408.2657 matches: 1.44 GFLOPS 
+arXiv:1408.2657 matches: 1311 GFLOPS 
+arXiv:1408.2657 matches: 5.83 GFLOPS 
+arXiv:1408.2657 matches: power consumption to 16kW  
+arXiv:1408.2657 matches: power consumption of 100W  
+arXiv:1408.2657 matches: power consumption of 115W, 
+arXiv:1408.2657 matches: power consumption of 225W, 
+arXiv:2003.04617 matches: 100 TFLOPS 
+arXiv:1912.11606 matches: 17% FLOPS 
+arXiv:1806.04418 matches: 81 hours of training 
+arXiv:1607.03683 matches: power of the SBSs is 1 W  
+arXiv:1006.2566 matches: 60 floating point operations 
+arXiv:2005.04245 matches: 30 hours of training 
+arXiv:2003.13376 matches: 6 Wh energy 
+arXiv:1410.4370 matches: power of 30 W  
+arXiv:1410.4370 matches: power of 20 W  
+arXiv:2007.06486 matches: 150 hours training 
+arXiv:1904.12407 matches: 2600 hours of training 
+arXiv:1904.12407 matches: 2600 hours of training 
+arXiv:2005.04540 matches: 8.73 teraflops 
+arXiv:2003.13054 matches: 9 TFLOPS 
+arXiv:2003.13054 matches: 20 TFLOPS 
+arXiv:cs0703150 matches: 6 flops 
+arXiv:cs0703150 matches: 2 flops 
+arXiv:cs0703150 matches: 42 flops 
+arXiv:1203.5737 matches: 18 GFLOPS 
+arXiv:1203.5737 matches: 11 GFLOPS 
+arXiv:1203.5737 matches: 5.1 GFLOPS 
+arXiv:1203.5737 matches: 0.81 GFLOPS 
+arXiv:2005.07839 matches: 34 (12% FLOPS 
+arXiv:2005.07839 matches: 18 (56% FLOPS 
+arXiv:1911.08684 matches: 4.13 Gflops 
+arXiv:1905.05359 matches: 98% of FLOPS 
+arXiv:1905.05359 matches: 90% of flops 
+arXiv:1711.10135 matches: power equal to 90 W  
+arXiv:1111.6465 matches: 10 Tflops 
+arXiv:2007.00279 matches: 2x the FLOPS 
+arXiv:2007.00279 matches: 2) FLOPS 
+arXiv:2007.00279 matches: 3) VFLOPS 
+arXiv:2007.00279 matches: 1040 TFLOPS 
+arXiv:2007.00279 matches: 636 TFLOPS 
+arXiv:2007.00279 matches: 176 TFLOPS 
+arXiv:2007.00279 matches: 115 TFLOPS 
+arXiv:2007.00279 matches: 112 TFLOPS 
+arXiv:2007.00279 matches: 8320 TFLOPS 
+arXiv:2007.00279 matches: 976 TFLOPS 
+arXiv:2007.00279 matches: 120 TFLOPS 
+arXiv:2007.00279 matches: 15 TFLOPS 
+arXiv:2007.00279 matches: 414 TFLOPS 
+arXiv:2007.00279 matches: 939 TFLOPS 
+arXiv:2007.00279 matches: 939 TFLOPS 
+arXiv:2007.00279 matches: 109 TFLOPS 
+arXiv:2007.00279 matches: 642 TVFLOPS 
+arXiv:2007.00279 matches: 36.97 TFLOPS 
+arXiv:1812.08011 matches: 1% in FLOPS 
+arXiv:1911.09034 matches: power of 1.2 Watt. 
+arXiv:1601.05030 matches: 5 hours training 
+arXiv:1012.0253 matches: 10 Petaflops 
+arXiv:1012.0253 matches: 4 Petaflops 
+arXiv:1911.07187 matches: power trace is set to 1 Watt, 
+arXiv:1802.00166 matches: 36 GFLOPS 
+arXiv:1802.00166 matches: 20.5 GFLOPS 
+arXiv:1811.01201 matches: 338 GFLOPS 
+arXiv:1811.01201 matches: 338 GFLOPS 
+arXiv:1811.01201 matches: 8 FLOPS 
+arXiv:1811.01201 matches: 16 FLOPS 
+arXiv:1811.01201 matches: 1.5 TFLOPS 
+arXiv:1811.01201 matches: 3 TFLOPS 
+arXiv:1811.01201 matches: 338 GFLOPS 
+arXiv:2006.12201 matches: power consumption of 2W. 
+arXiv:2005.04053 matches: power station, a 1,200 MW  
+arXiv:1909.13874 matches: 10 hours of training 
+arXiv:1909.13874 matches: 10 hours of training 
+arXiv:1804.05349 matches: 1.48 PFLOPS 
+arXiv:1611.04474 matches: power consumption is 150W. 
+arXiv:1903.06800 matches: power of about 114 MW, 
+arXiv:1903.06800 matches: power of about 114 MW. 
+arXiv:1802.00724 matches: 2 PFLOPS 
+arXiv:2007.11069 matches: 16 flip-flops 
+arXiv:1707.01880 matches: 0.05 MFLOPS 
+arXiv:1707.01880 matches: 100 GFLOPS 
+arXiv:1503.02735 matches: 15---flops 
+arXiv:1908.08920 matches: power draw of 1.5W  
+arXiv:1908.08920 matches: power load of 500W  
+arXiv:2006.16281 matches: power consumptions of 2.25W  
+arXiv:1403.1289 matches: power consumption of 600W  
+arXiv:1403.1289 matches: power cap of 480 W, 
+arXiv:1403.1289 matches: power caps to 320W  
+arXiv:1403.1289 matches: power caps of 320 W, 
+arXiv:2004.10746 matches: 6 hours of training 
+arXiv:1711.09057 matches: 2011 TFPO 
+arXiv:1302.7193 matches: 20 floating point operations 
+arXiv:1302.7193 matches: 14 floating point operations 
+arXiv:1302.7193 matches: 4 floating point operations 
+arXiv:1302.7193 matches: 30 floating point operations 
+arXiv:1406.7806 matches: 100 hours of training 
+arXiv:1406.7806 matches: 300 hours of training 
+arXiv:1406.7806 matches: 100 hours of training 
+arXiv:1406.7806 matches: 000 hours of training 
+arXiv:1808.02433 matches: 10 flops 
+arXiv:1808.02433 matches: 100 flops 
+arXiv:1808.02433 matches: 15 flops 
+arXiv:1808.02433 matches: 25 flops 
+arXiv:1805.00707 matches: power of the BS is 10W. 
+arXiv:1805.00707 matches: power of the BS is 10W. 
+arXiv:2003.08293 matches: power output of 369W  
+arXiv:2003.08293 matches: power of 31W. 
+arXiv:2003.12477 matches: 8 flip flops 
+arXiv:1605.02427 matches: 25 hours of training 
+arXiv:1605.02427 matches: 100 hours of training 
+arXiv:2007.03213 matches: energy cost 4.18J  
+arXiv:2007.03213 matches: energy cost is 12.90J  
+arXiv:2004.08955 matches: 1 GFLOPS 
+arXiv:1504.08035 matches: 2Gflops 
+arXiv:1504.08035 matches: 1Gflops 
+arXiv:1504.08035 matches: 24.5Gflops 
+arXiv:1504.08035 matches: 20.5Gflops 
+arXiv:1504.08035 matches: 75Gflops 
+arXiv:1504.08035 matches: 550Gflops 
+arXiv:1906.02282 matches: 12 hours of training 
+arXiv:1812.11928 matches: 3400 hours of training 
+arXiv:1909.05437 matches: 3 FLOPS 
+arXiv:1701.08886 matches: 11 TFLOPS 
+arXiv:1502.04025 matches: 1848 flops 
+arXiv:1502.04025 matches: 9.5 Gflops 
+arXiv:1601.05928 matches: power is 40 W, 
+arXiv:1804.04794 matches: power to 1.38W, 
+arXiv:1008.1571 matches: power consumption is 132W, 
+arXiv:2003.10685 matches: 2 hours of training 
+arXiv:1605.00810 matches: power of 1 Watt. 
+arXiv:1906.08469 matches: 64}}, FLOPS 
+arXiv:1801.03578 matches: 16 floating point operations 
+arXiv:1309.3284 matches: 10J of energy 
+arXiv:2007.06622 matches: 180 hours of training 
+arXiv:2001.05348 matches: 30 W of energy 
+arXiv:1507.05053 matches: 3 hours of training 
+arXiv:1506.05549 matches: energy unit can be 24 Joule. 
+arXiv:1506.05549 matches: energy unit is 24 Joule. 
+arXiv:2005.06727 matches: 2 floating-point operations 
+arXiv:1610.09975 matches: 000 hours of training 
+arXiv:1508.01162 matches: power are 55 MW, 15 MW, 
+arXiv:1508.01162 matches: power of 50 MW, 15 MW, 
+arXiv:2007.12551 matches: power is fixed at 100 W  
+arXiv:1207.2515 matches: 6.7MWh of energy 
+arXiv:1703.01325 matches: 1.66 Tflops 
+arXiv:1703.01325 matches: 385 Gflops 
+arXiv:1912.08063 matches: 420 tera-FLOPS 
+arXiv:1504.04797 matches: power of 10 W. 
+arXiv:2001.05234 matches: 7 teraflops 
+arXiv:2006.06054 matches: 20 hours training 
+arXiv:1909.07729 matches: 4}}: TFLOPS 
+arXiv:1805.04537 matches: 24 hours of training 
+arXiv:1805.04537 matches: 72 hours of training 
+arXiv:2005.13595 matches: power higher than 75 kW  
+arXiv:1906.10771 matches: 40% FLOPS 
+arXiv:1210.7683 matches: 1.1 petaflops 
+arXiv:1912.11372 matches: power loss is 3.35 MW  
+arXiv:1807.10749 matches: 100 Pflops 
+arXiv:1905.05162 matches: 25 floating point operations 
+arXiv:1905.05162 matches: 1.8 TFLOPS 
+arXiv:1304.1768 matches: power extraction from 600 MW  
+arXiv:1304.1768 matches: power extraction from 607 MW  
+arXiv:1503.05299 matches: 34 peta FLOPS 
+arXiv:1503.05299 matches: 34 peta FLOPS 
+arXiv:1507.00071 matches: power of 0.5W, 
+arXiv:1408.4599 matches: 3 PFLOPS 
+arXiv:1408.4599 matches: 113 GFLOPS 
+arXiv:1408.4599 matches: 183 TFLOPS 
+arXiv:1811.10166 matches: 000 hours of training 
+arXiv:2004.13904 matches: 6 flops 
+arXiv:1410.3060 matches: power compared to 1WD 
+arXiv:1910.07038 matches: 1.7B FLOPS 
+arXiv:1910.07038 matches: 4.1B FLOPS 
+arXiv:1908.06548 matches: power limits are 300kW. 
+arXiv:1809.01431 matches: 20 hours of training 
+arXiv:1911.11658 matches: 17 kgCO2- 
+arXiv:1911.11658 matches: 40 kgCO2- 
+arXiv:1911.11658 matches: 40 kgCO2- 
+arXiv:1911.11658 matches: 45 kgCO2- 
+arXiv:1911.11658 matches: 45 kgCO2- 
+arXiv:1911.11658 matches: 75 kgCO2- 
+arXiv:1911.11658 matches: 89 kgCO2- 
+arXiv:1911.11658 matches: 100 kgCO2- 
+arXiv:1911.11658 matches: 200 kgCO2- 
+arXiv:1911.11658 matches: 239 kgCO2- 
+arXiv:1911.11658 matches: 270 kgCO2- 
+arXiv:1911.11658 matches: 300 kgCO2- 
+arXiv:1911.11658 matches: 400 kgCO2- 
+arXiv:1911.11658 matches: 449 kgCO2- 
+arXiv:1911.11658 matches: 800 kgCO2- 
+arXiv:1911.11658 matches: 2300 kgCO2- 
+arXiv:1911.11658 matches: 3300 kgCO2- 
+arXiv:1911.11658 matches: 9000 kgCO2- 
+arXiv:1701.03400 matches: 483 GFLOPS 
+arXiv:1701.03400 matches: 32-bit floating point operations 
+arXiv:cs0202019 matches: 10 PetaFLOPS 
+arXiv:1405.4906 matches: power at 4 W (blue), 32 W  
+arXiv:1405.4906 matches: power of 3.2 W. 
+arXiv:1204.2033 matches: 2.68 Gflops 
+arXiv:1811.03748 matches: 1,123,736 floating point operations 
+arXiv:1801.04552 matches: power to be 0.1 W  
+arXiv:1205.1171 matches: 25.0 gigaFLOPS 
+arXiv:1205.1171 matches: 240 gigaFLOPS 
+arXiv:1602.05900 matches: 0.4 Mflops 
+arXiv:1602.05900 matches: 500 Mflops 
+arXiv:1910.01992 matches: 10000 hours of training 
+arXiv:1808.05078 matches: power (130W versus 36W) 
+arXiv:1904.03670 matches: 960 hours of training 
+arXiv:1606.00511 matches: 2.65 Tflops 
+arXiv:1708.04485 matches: 1,024 FLOPS 
+arXiv:1104.2504 matches: 42.6 GFLOPS 
+arXiv:1705.03625 matches: 16 floating-point operations 
+arXiv:1303.0328 matches: 64-bit floating point operations 
+arXiv:1803.09164 matches: 50 hours of training 
+arXiv:1803.09164 matches: 160 hours of training 
+arXiv:1810.01609 matches: 12,000 floating point operations 
+arXiv:1810.01609 matches: 50-100 flops 
+arXiv:1810.01609 matches: 1.5 PFLOPS 
+arXiv:1806.08404 matches: 37 hours of training 
+arXiv:1911.04177 matches: 30 kg CO2e 
+arXiv:1205.5177 matches: 10 GFLOPS 
+arXiv:1803.01122 matches: 4 hours training 
+arXiv:1803.01122 matches: 5 hours training 
+arXiv:1401.6726 matches: energy consumption was 20.8 Watt  
+arXiv:0905.2203 matches: 51.20 GFLOPS 
+arXiv:0905.2203 matches: 1062.72 GFLOPS 
+arXiv:1705.01849 matches: 2320 floating point operations 
+arXiv:1705.01849 matches: 116 floating point operations 
+arXiv:1705.01849 matches: 2320 floating point operations 
+arXiv:1811.09131 matches: power value of 1000W  
+arXiv:1803.09473 matches: 6 hours of training 
+arXiv:1907.02371 matches: power of nearly 19GW. 
+arXiv:1411.5433 matches: 10 petaflops 
+arXiv:1411.5433 matches: 3.2 teraflops 
+arXiv:1411.5433 matches: 7.9 teraflops 
+arXiv:1411.5433 matches: 2 teraflops 
+arXiv:2004.12974 matches: 16 hours of training 
+arXiv:2007.11457 matches: 14.5 GFLOPS 
+arXiv:1303.2171 matches: 20 GFLOPS 
+arXiv:1303.2171 matches: 77.7 GFLOPS 
+arXiv:1303.2171 matches: power of 130 W. 
+arXiv:1708.00586 matches: power values of 5 W, 10 W, 
+arXiv:1910.10620 matches: 4 hours of training 
+arXiv:1809.05828 matches: 4 hours of training 
+arXiv:1708.00777 matches: 8eb}}, floating-point operations 
+arXiv:2007.12284 matches: energy consumption of 1192.7 J  
+arXiv:2007.12284 matches: energy consumption of 1367.6 J  
+arXiv:1810.09958 matches: 3.05 TFLOPS 
+arXiv:1810.09958 matches: 3.05 TFLOPS 
+arXiv:1811.06992 matches: 11.5 petaFLOPS 
+arXiv:1811.06992 matches: 107.5 petaFLOPS 
+arXiv:1803.07407 matches: 1000 petaflops 
+arXiv:1905.06939 matches: power was 90 W. 
+arXiv:2006.15698 matches: 148.6 PetaFLOPS 
+arXiv:1910.08060 matches: 0.1 GFLOPS 
+arXiv:1910.08060 matches: 0.6 GFLOPS 
+arXiv:1408.4849 matches: power loss is 1.272 MW  
+arXiv:1812.04750 matches: power of 3kW and 1.3kW, 
+arXiv:1410.0162 matches: 1760 M floating point operations 
+arXiv:1904.10045 matches: 000 hours training 
+arXiv:2005.04680 matches: 4.1 TFLOPS 
+arXiv:2005.04680 matches: 32-TFLOPS 
+arXiv:2005.04680 matches: 4.3 TFLOPS 
+arXiv:2005.04680 matches: 32-TFLOPS 
+arXiv:2005.04680 matches: 32-FLOPS 
+arXiv:1812.04929 matches: 5 hours of training 
+arXiv:1810.05886 matches: power (up to 10kW) 
+arXiv:1801.02344 matches: energy source at 1.8 W, 
+arXiv:1609.01507 matches: power of more than 1.2 MW  
+arXiv:1510.06634 matches: 65 time flops 
+arXiv:1510.06634 matches: 17 time flops 
+arXiv:1510.06634 matches: 10 time flops 
+arXiv:1510.06634 matches: 6 time flops 
+arXiv:1510.06634 matches: 5 time flops 
+arXiv:1510.06634 matches: 95 time flops 
+arXiv:1510.06634 matches: 85 time flops 
+arXiv:1510.06634 matches: 10 time flops 
+arXiv:1510.06634 matches: 50 time flops 
+arXiv:1510.06634 matches: 5 time flops 
+arXiv:1510.06634 matches: 10 time flops 
+arXiv:1804.10123 matches: 2G FLOPS 
+arXiv:1804.10123 matches: 9G FLOPS 
+arXiv:1709.02125 matches: 2500 floating point operations 
+arXiv:1802.00124 matches: 81% flops 
+arXiv:1710.03726 matches: energy charging of 3 - 8 kWh 
+arXiv:1710.03726 matches: energy charging 3 - 8 kWh 
+arXiv:1306.5583 matches: 24.48 GFLOPS 
+arXiv:1306.5583 matches: 60 GFLOPS 
+arXiv:1306.5583 matches: 480 GFLOPS 
+arXiv:1605.00091 matches: power of each link is 1W  
+arXiv:1605.00492 matches: 10 flops 
+arXiv:1605.00492 matches: 7 flops 
+arXiv:2002.08688 matches: 245 hours of training 
+arXiv:1207.5217 matches: 0, flops 
+arXiv:1207.5217 matches: 256 floating point operations 
+arXiv:1802.03650 matches: 21 Gflops 
+arXiv:1802.03650 matches: 12 Gflops 
+arXiv:1802.03650 matches: 24 Gflops 
+arXiv:1802.03650 matches: 247.2 Gflops 
+arXiv:1802.03650 matches: 298 Gflops 
+arXiv:1802.03650 matches: 103 Gflops 
+arXiv:1802.03650 matches: 1.4 Gflops 
+arXiv:1802.03650 matches: 4.9 Gflops 
+arXiv:2004.13373 matches: 26.87 Petaflops 
+arXiv:1911.09532 matches: 48 hours training 
+arXiv:1110.1245 matches: 1.7 MW energy 
+arXiv:cs0306090 matches: 962 Gflops 
+arXiv:1811.02884 matches: 8.19 terafloating-point operations 
+arXiv:1402.3545 matches: 3 floating point operations 
+arXiv:2004.11886 matches: 48G FLOPS 
+arXiv:1308.3603 matches: 0.426 kgCO2e 
+arXiv:1308.3603 matches: 0.602 kgCO2e 
+arXiv:1603.01824 matches: 500 Mflops 
+arXiv:1301.0051 matches: power to 8.5W  
+arXiv:1301.0051 matches: power to 14W  
+arXiv:1605.08309 matches: power of 1 W  
+arXiv:1909.09024 matches: 5 hours of training 
+arXiv:1801.04962 matches: 3 hours of training 
+arXiv:1807.01702 matches: 10.6TFLOPS 
+arXiv:1807.01702 matches: 3.34TFLOPS 
+arXiv:2006.16007 matches: 11 TFLOPS 
+arXiv:1509.00338 matches: power of macro BS is 20 W, 
+arXiv:1509.00338 matches: power to 30W  
+arXiv:1907.01448 matches: 500k FLOPS 
+arXiv:1907.01448 matches: 1,000k FLOPS 
+arXiv:1907.01448 matches: 500k FLOPS 
+arXiv:1909.03030 matches: 10 hours of training 
+arXiv:2004.13480 matches: 6400 hours of training 
+arXiv:0911.1379 matches: 0.05J of energy 
+arXiv:1607.02133 matches: energy storage for 4MW, 
+arXiv:1707.02347 matches: 128 GFLOPS 
+arXiv:1811.00220 matches: power = 165 W, 
+arXiv:1811.00220 matches: power = 85 W, 
+arXiv:1011.5568 matches: 7 PetaFLOPS 
+arXiv:1702.05192 matches: 1012 floating-point operations 
+arXiv:1909.03019 matches: energy supply is 180Wh 
+arXiv:1909.03019 matches: energy of 180Wh 
+arXiv:1903.00640 matches: 20 hours training 
+arXiv:1805.04141 matches: 5 hours of training 
+arXiv:2005.07282 matches: 17 flops 
+arXiv:2005.07282 matches: 3 flops 
+arXiv:2005.12254 matches: 72 hours of training 
+arXiv:1909.10297 matches: energy reduced from 90,57 kWh 
+arXiv:1909.10297 matches: power constraint of 4 kW  
+arXiv:1905.01035 matches: power of around 3kW  
+arXiv:2003.13917 matches: 30 hours training 
+arXiv:1906.00874 matches: 59.2 GFLOPS 
+arXiv:1906.00874 matches: 33.6 GFLOPS 
+arXiv:1906.00874 matches: 57.0 GFLOPS 
+arXiv:1906.00874 matches: 58.9 GFLOPS 
+arXiv:1406.6470 matches: power supply of 270W  
+arXiv:1406.6470 matches: power of 2.7GW, 
+arXiv:1908.11348 matches: power utilization to 5.5W  
+arXiv:1707.04227 matches: 85 hours of training 
+arXiv:1707.04227 matches: 164 hours of training 
+arXiv:1807.10695 matches: 61 GFLOPS 
+arXiv:1807.10695 matches: 1 TFLOPS 
+arXiv:1807.10695 matches: 50 GFLOPS 
+arXiv:1109.3739 matches: 9444 exaflops 
+arXiv:1812.02858 matches: 11.5 Petaflops 
+arXiv:1812.02858 matches: 16.6 Gflops 
+arXiv:0804.3417 matches: 6.4 Gflops 
+arXiv:1910.01010 matches: power consumption of 1W. 
+arXiv:1910.01010 matches: power consumption of 3.1W. 
+arXiv:1008.2410 matches: 6 flops 
+arXiv:1008.2410 matches: 9 flops 
+arXiv:0902.4463 matches: 10 SP floating point operations 
+arXiv:2002.05455 matches: 16 flip-flops 
+arXiv:2002.05455 matches: 20 flip-flops 
+arXiv:2002.05455 matches: 1233 flip-flops 
+arXiv:2002.05455 matches: 60 flip-flops 
+arXiv:2002.05455 matches: 42 flip-flops 
+arXiv:2002.05455 matches: 3 flip-flops 
+arXiv:1808.05488 matches: 750 GFLOPS 
+arXiv:1808.05488 matches: 1500 GFLOPS 
+arXiv:1808.05488 matches: 10609 GFLOPS 
+arXiv:2007.00072 matches: 120 MWh energy 
+arXiv:1903.02749 matches: 79 hours of training 
+arXiv:1805.09863 matches: 16-bit floating point operations 
+arXiv:1802.06006 matches: 20 hours of training 
+arXiv:1910.04760 matches: 48 hours of training 
+arXiv:1903.02225 matches: 12 hours of training 
+arXiv:1502.02179 matches: power of 1 Watt  
+arXiv:1805.11080 matches: 78 hours of training 
+arXiv:1807.03425 matches: 100 petaflops 
+arXiv:1911.09070 matches: 326B FLOPS 
+arXiv:1911.09070 matches: 12b}}, FLOPS 
+arXiv:1911.09070 matches: 3045B FLOPS 
+arXiv:1911.09070 matches: 300B FLOPS 
+arXiv:1911.09070 matches: 326B FLOPS 
+arXiv:1110.2677 matches: 85.3 Gflops 
+arXiv:1110.2677 matches: 539.5 Gflops 
+arXiv:1712.09431 matches: 100 GFLOPS 
+arXiv:1712.09431 matches: 135 GFLOPS 
+arXiv:1712.09431 matches: 301.5 TFLOPS 
+arXiv:1712.09431 matches: 5271.8 MFLOPS 
+arXiv:1706.02737 matches: 581 hours of training 
+arXiv:1801.02798 matches: 9856 flops 
+arXiv:1902.00651 matches: 30 hours of training 
+arXiv:0806.3121 matches: 1.4 TFLOPS 
+arXiv:0806.3121 matches: 1.4 TFLOPS 
+arXiv:0806.3121 matches: 4.4 GFLOPS 
+arXiv:0806.3121 matches: 4.03 GFLOPS 
+arXiv:0806.3121 matches: 3.75 GFLOPS 
+arXiv:1511.06888 matches: power FORMULA  as 439W  
+arXiv:1909.12291 matches: 1.3 Exaflops 
+arXiv:1909.12291 matches: 1.3 exaflops 
+arXiv:1909.12291 matches: 1.301 exaflops 
+arXiv:1909.12291 matches: 47.286 teraflops 
+arXiv:1809.05955 matches: 12 hours training 
+arXiv:1003.3792 matches: power budget of 1 Watt  
+arXiv:1309.4616 matches: 16 Gflops 
+arXiv:1309.4616 matches: 10 floating point operations 
+arXiv:1309.4616 matches: 39 Gflops 
+arXiv:1309.4616 matches: 16 Gflops 
+arXiv:1902.07881 matches: 55 hours of training 
+arXiv:1904.02654 matches: 26% floating point operations 
+arXiv:1802.08435 matches: 28.8 Gflops 
+arXiv:1802.08435 matches: 37.6 Gflops 
+arXiv:1802.08435 matches: 14.4 Gflops 
+arXiv:1802.08435 matches: 28.2 Gflops 
+arXiv:1802.08435 matches: 200 Gflops 
+arXiv:1910.03384 matches: power consumption of 15 kW  
+arXiv:1711.01845 matches: 100 floating-point operations 
+arXiv:1108.0355 matches: 10 Teraflops 
+arXiv:1901.04100 matches: 101.24J energy 
+arXiv:1901.04100 matches: 1.59J energy 
+arXiv:1901.04100 matches: 2.90J energy 
+arXiv:1906.06253 matches: 3 hours of training 
+arXiv:1909.07528 matches: 34 hours of training 
+arXiv:1807.00868 matches: 960 hours of training 
+arXiv:1705.07492 matches: 2 teraflops 
+arXiv:1705.07492 matches: 8 teraflops 
+arXiv:1810.04244 matches: 12 hours of training 
+arXiv:1703.09781 matches: energy (up to 0.7 W) 
+arXiv:1510.08805 matches: power of each LED is 1 Watt. 
+arXiv:1710.03422 matches: power of 280 W  
+arXiv:hep-lat0308005 matches: 10 teraflops 
+arXiv:1906.02256 matches: 14 MFLOPS 
+arXiv:1512.00408 matches: power rating of 2.36kW  
+arXiv:2005.06716 matches: power meter, and 120W  
+arXiv:2001.07343 matches: 50 hours of training 
+arXiv:1803.08605 matches: energy consumption 69.71 kWh 
+arXiv:2007.15161 matches: 12 hours of training 
+arXiv:1210.8433 matches: energy consumption of 230 GWh 
+arXiv:2006.05183 matches: 3 hours of training 
+arXiv:2002.00544 matches: 30 hours of training 
+arXiv:1706.07485 matches: power demand of 36 MW  
+arXiv:1808.09381 matches: 16-bit floating point operations 
+arXiv:1909.11687 matches: 1% floating-point operations 
+arXiv:1112.4539 matches: 100 Gflops 
+arXiv:1112.4539 matches: 30 Gflops 
+arXiv:1912.02341 matches: power is 7.2 kW. 
+arXiv:1309.0551 matches: 4.8 Giga floating point operations 
+arXiv:1801.09436 matches: 20 floating-point operations 
+arXiv:2002.04192 matches: 20 kWh of energy 
+arXiv:2002.04192 matches: power greater than 3.3 kW  
+arXiv:2002.04192 matches: power greater than 3.7 kW  
+arXiv:1705.09786 matches: 1 TFLOPS 
+arXiv:1705.09786 matches: 1 TFLOPS 
+arXiv:1705.09786 matches: 1 TFLOPS 
+arXiv:2002.04013 matches: 146,091 teraflops 
+arXiv:2002.04013 matches: 148,600 teraflops 
+arXiv:2002.04013 matches: 10 petaflops 
+arXiv:1812.10095 matches: 10 hours of training 
+arXiv:1605.04232 matches: 82 Gflops 
+arXiv:1605.04232 matches: 265 Gflops 
+arXiv:1605.04232 matches: 6144 Gflops 
+arXiv:1605.04232 matches: 6144 Gflops 
+arXiv:1605.04232 matches: 30 Gflops 
+arXiv:1605.04232 matches: 6144 Gflops 
+arXiv:1605.04232 matches: 82 Gflops 
+arXiv:1605.04232 matches: 83 Gflops 
+arXiv:1605.04232 matches: 265 Gflops 
+arXiv:1605.04232 matches: 7 teraflops 
+arXiv:1705.01261 matches: energy is 1J  
+arXiv:1902.04641 matches: power for every 1W  
+arXiv:1901.03984 matches: 30 GFLOPS 
+arXiv:1901.03984 matches: 17 GFLOPS 
+arXiv:1302.4779 matches: 328 gigaflops 
+arXiv:1804.00247 matches: 5 hours of training 
+arXiv:1804.00247 matches: 4 hours of training 
+arXiv:1804.00247 matches: 18 hours of training 
+arXiv:1804.00247 matches: 8 hours of training 
+arXiv:1508.04395 matches: 80 hours of training 
+arXiv:1410.1387 matches: 92 flops 
+arXiv:1408.4187 matches: 10W energy 
+arXiv:1901.00121 matches: 61.62 GFLOPS 
+arXiv:1901.00121 matches: 16) floating-point operations 
+arXiv:2007.13024 matches: 30 hours of training 
+arXiv:1301.1609 matches: power of SAP is 10W. 
+arXiv:1608.05140 matches: energy consumption of 150W  
+arXiv:1808.09432 matches: 2500 hours of training 
+arXiv:1802.08557 matches: 1.43 Tflops 
+arXiv:1812.01187 matches: 14 TFLOPS 
+arXiv:1812.01187 matches: 100 TFLOPS 
+arXiv:2001.03994 matches: 12 hours of training 
+arXiv:1703.06503 matches: 1658 GFLOPS 
+arXiv:1703.06503 matches: 326 GFLOPS 
+arXiv:1703.06503 matches: 550 GFLOPS 
+arXiv:1703.06503 matches: 601 GFLOPS 
+arXiv:1703.06503 matches: 2913 GFLOPS 
+arXiv:2006.11808 matches: 0.014 GFLOPS 
+arXiv:1812.09025 matches: 11.3 TFLOPS 
+arXiv:2007.04077 matches: energy against 1 kW/ 
+arXiv:1704.06764 matches: power is 1 W  
+arXiv:1704.06764 matches: power of 0.1 W, 
+arXiv:1612.08678 matches: 4 floating-point operations 
+arXiv:2002.10294 matches: 8 TFLOPS 
+arXiv:2006.00489 matches: 754 floating-point operations 
+arXiv:2006.00489 matches: 754 floating-point operations 
+arXiv:1602.00591 matches: power budget equal to 1 Watt, 
+arXiv:1602.00591 matches: power equal to 0.5 Watt. 
+arXiv:1809.09520 matches: energy are 2691mAh, 10.28Wh 
+arXiv:1809.09520 matches: power FORMULA  is 5W, 10W  
+arXiv:1809.09520 matches: power (5W, 10W or 15W) 
+arXiv:1809.09520 matches: power 5W, 10W and 15W  
+arXiv:1810.01109 matches: 630) GFLOPS 
+arXiv:1810.01109 matches: 3.2 TFLOPS 
+arXiv:1810.01109 matches: 64-bit floating-point operations 
+arXiv:1812.01053 matches: 9 hours of training 
+arXiv:1912.11423 matches: energy consumption of 1700 W  
+arXiv:1508.02435 matches: 4096 floating point operations 
+arXiv:1508.02435 matches: 4096 flops 
+arXiv:1508.02435 matches: 4096 floating point operations 
+arXiv:1506.08641 matches: power outages (of 100 MW  
+arXiv:1707.01274 matches: 6 hours of training 
+arXiv:1602.02800 matches: power of 16.41GW. 
+arXiv:1112.5588 matches: 896 flops 
+arXiv:1408.2927 matches: 519 floating point operations 
+arXiv:1702.03799 matches: 1.5 J of energy 
+arXiv:1705.07983 matches: power use of about 61 W  
+arXiv:2005.06964 matches: 50 GigaFLOPS 
+arXiv:1907.03655 matches: 100 floating-point operations 
+arXiv:1910.10762 matches: 20 hours of training 
+arXiv:2006.08376 matches: 24 hours of training 
+arXiv:1610.01315 matches: 180 Petaflops 
+arXiv:1703.00185 matches: 1 Tflops 
+arXiv:1308.2572 matches: 515 Gflops 
+arXiv:1308.2572 matches: 1.03 Tflops 
+arXiv:1308.2572 matches: 665 Gflops 
+arXiv:1308.2572 matches: 1.33 Tflops 
+arXiv:1511.03742 matches: 3 Gflops 
+arXiv:1511.03742 matches: 12 Gflops 
+arXiv:1511.03742 matches: 11.5 Gflops 
+arXiv:1511.03742 matches: 9–10 Gflops 
+arXiv:1101.5025 matches: 1152 FLOPS 
+arXiv:1905.10108 matches: 4 hours of training 
+arXiv:1702.04024 matches: 18 GFLOPS 
+arXiv:1702.04024 matches: 40 TFLOPS 
+arXiv:1501.02886 matches: power over all 2W  
+arXiv:2004.06722 matches: 500 GFLOPS 
+arXiv:2004.06722 matches: 2 TFLOPS 
+arXiv:2004.06722 matches: 7 TFLOPS 
+arXiv:2004.06722 matches: 100 TFLOPS 
+arXiv:2004.06722 matches: 2 TFLOPS 
+arXiv:2004.06722 matches: 2 TFLOPS 
+arXiv:2004.06722 matches: 7 TFLOPS 
+arXiv:2004.06722 matches: 500 GFLOPS 
+arXiv:2004.06722 matches: 2 TFLOPS 
+arXiv:1603.03682 matches: energy consumption by 1 Watt  
+arXiv:1010.1260 matches: 1062.72 GFLOPS 
+arXiv:1010.1260 matches: 1344.96 GFLOPS 
+arXiv:1010.1260 matches: 51.2 GFLOPS 
+arXiv:1010.1260 matches: 50-52 GFLOPS 
+arXiv:2004.07109 matches: 50 hours training 
+arXiv:2007.01708 matches: energy reached 591,549MW  
+arXiv:2006.08026 matches: 16 flip-flops 
+arXiv:1805.10377 matches: 6 hours of training 
+arXiv:1805.10377 matches: 6 hours of training 
+arXiv:1811.01149 matches: energy is 40 Wh 
+arXiv:1310.6511 matches: energy increases from 275 Watt  
+arXiv:2007.15176 matches: 130 GFLOPS 
+arXiv:2007.15176 matches: 0.5 GFLOPS 
+arXiv:1504.01380 matches: 11.5 TeraFLOPS 
+arXiv:1504.01380 matches: 40 TeraFLOPS 
+arXiv:1504.01380 matches: 10 GFLOPS 
+arXiv:1902.05718 matches: 10 hours of training 
+arXiv:2007.06078 matches: 70 hours of training 
+arXiv:2007.06078 matches: 70 hours training 
+arXiv:2007.06078 matches: 3 hours of training 
+arXiv:1603.03820 matches: 10x floating-point operations 
+arXiv:1307.7037 matches: power of 200 W  
+arXiv:2006.10091 matches: 2 hours training 
+arXiv:1705.05767 matches: energy consumption of 1982 kWh 
+arXiv:1705.05767 matches: energy consumption of 478 kWh 
+arXiv:1710.00882 matches: 269 GFLOPS 
+arXiv:1710.00882 matches: 1011 GFLOPS 
+arXiv:1710.00882 matches: 960 GFLOPS 
+arXiv:1710.00882 matches: 3000 GFLOPS 
+arXiv:2003.06567 matches: 450M FLOPS 
+arXiv:1710.08335 matches: 72 time flops 
+arXiv:1710.08335 matches: 100 time flops 
+arXiv:1710.08335 matches: 72 time flops 
+arXiv:2004.11059 matches: 16 floating-point operations 
+arXiv:1702.08065 matches: power rating of 10 MW  
+arXiv:1702.08065 matches: 22 GW of energy 
+arXiv:1801.08175 matches: 604,527 kWh of energy 
+arXiv:1503.04645 matches: 80 GFLOPS 
+arXiv:1503.04645 matches: 33 GFLOPS 
+arXiv:2007.11715 matches: power system is 200 kW  
+arXiv:1706.08339 matches: power control in 802.11 WL 
+arXiv:1808.05696 matches: 199}}, FLOPS 
+arXiv:2003.01178 matches: 14 Tflops 
+arXiv:1708.02472 matches: power of macro-BS is 1450W; 
+arXiv:1708.02472 matches: power of pico-BS is 21.32W. 
+arXiv:1910.09738 matches: energy was less than 1000.0 kJ/ 
+arXiv:1907.08492 matches: 2 da3 flops 
+arXiv:1907.08492 matches: 2 da3 flops 
+arXiv:1907.08492 matches: 2 da3 flops 
+arXiv:1907.08492 matches: 2 da3 flops 
+arXiv:1907.08492 matches: 2 da3 flops 
+arXiv:1907.08492 matches: 2 da3 flops 
+arXiv:1802.09194 matches: 5.35G floating-point operations 
+arXiv:1909.06496 matches: power of 3.5W  
+arXiv:1909.06496 matches: power of 1.2W  
+arXiv:1909.06496 matches: power consumption is 5W  
+arXiv:1705.00596 matches: power consumption of 4.744 W  
+arXiv:1609.05362 matches: power of 1 W. 
+arXiv:1908.00204 matches: 15 TFLOPS 
+arXiv:1908.00204 matches: 400 GFLOPS 
+arXiv:1911.07067 matches: 2-petaFLOPS 
+arXiv:2003.02905 matches: power is 0.7 MW, 
+arXiv:1810.03056 matches: 18TFLOPS 
+arXiv:1910.05930 matches: 256 TFLOPS 
+arXiv:1610.00053 matches: power required is 150 W/ 
+arXiv:1610.00053 matches: power budget of 20 W, 
+arXiv:1610.00053 matches: power consumption of 2 W. 
+arXiv:1610.00053 matches: power of 100 W  
+arXiv:2005.10445 matches: power (TDP) of 35W. 
+arXiv:1509.00940 matches: power within 5W  
+arXiv:1509.00940 matches: power up to 120W  
+arXiv:1509.00940 matches: power of 2.5W, 
+arXiv:1407.5699 matches: energy for selling to 32 kWh 
+arXiv:1407.5699 matches: energy for selling to 8 kWh 
+arXiv:1407.5699 matches: 40 kWh energy 
+arXiv:1407.5699 matches: 10 kWh of energy 
+arXiv:1407.5699 matches: 35 kWh of energy 
+arXiv:1906.00478 matches: 12 FLOP FLOPS 
+arXiv:1602.06709 matches: 1.7 TFLOPS 
+arXiv:2007.00202 matches: 3flops 
+arXiv:1801.06484 matches: power is changed from 15 kW  
+arXiv:1107.2487 matches: 1.5MWh of energy 
+arXiv:1402.7025 matches: 220 teraflops 
+arXiv:1712.09168 matches: 13.3 petaFLOPS 
+arXiv:1604.06143 matches: 4 floating-point operations 
+arXiv:1211.5067 matches: 3 flops 
+arXiv:1211.5067 matches: 3 flops 
+arXiv:1912.11473 matches: 234.5 GFLOPS 
+arXiv:1106.2992 matches: 1.60 GFLOPS 
+arXiv:1106.2992 matches: 1.60 GFLOPS 
+arXiv:1106.2992 matches: 1.7 GFLOPS 
+arXiv:1503.06974 matches: 0.3 exaFLOPS 
+arXiv:1503.06974 matches: 100 petaflops 
+arXiv:1805.11849 matches: 2 hours of training 
+arXiv:1805.11849 matches: 16 hours of training 
+arXiv:1709.03271 matches: power 0.05 W, 0.5 W  
+arXiv:1709.03271 matches: power is 0.05 W, 1.5 W  
+arXiv:2002.04250 matches: 16-bit floating point operations 
+arXiv:1808.03570 matches: 000 hours of training 
+arXiv:1808.03570 matches: 3 hours of training 
+arXiv:1802.07210 matches: power at 250W. 
+arXiv:1905.13214 matches: 0.6B flops 
+arXiv:1901.10008 matches: 15.7 TFLOPS 
+arXiv:1902.03322 matches: 12k flops 
+arXiv:1811.08309 matches: 125 TFLOPS 
+arXiv:2002.04177 matches: power of 1 kW, 
+arXiv:2002.04177 matches: power of 63 kW. 
+arXiv:2002.04177 matches: power of 6.6 kW. 
+arXiv:1812.03279 matches: 7.3k flops 
+arXiv:1701.06434 matches: 6 floating point operations 
+arXiv:1701.06434 matches: 2 flops 
+arXiv:1701.06434 matches: 11,645,343 flops 
+arXiv:1701.06434 matches: 5,502,692 flops 
+arXiv:1705.07410 matches: power flow of 5000 MW  
+arXiv:0901.1696 matches: 8 Gflops 
+arXiv:0901.1696 matches: 64 Gflops 
+arXiv:1501.07719 matches: 4290 GFLOPS 
+arXiv:1501.07719 matches: 371 GFLOPS 
+arXiv:1501.07719 matches: 14 FLOPS 
+arXiv:1501.07719 matches: 3.93 FLOPS 
+arXiv:1501.07719 matches: 10 FLOPS 
+arXiv:1501.07719 matches: 201.6 GFLOPS 
+arXiv:1501.07719 matches: 10 FLOPS 
+arXiv:1501.07719 matches: 1.75 FLOPS 
+arXiv:1501.07719 matches: 4290 GFLOPS 
+arXiv:1501.07719 matches: 504 GFLOPS 
+arXiv:1501.07719 matches: 1.75 FLOPS 
+arXiv:1911.08630 matches: 16 GFLOPS 
+arXiv:1909.11285 matches: 15.38G flops 
+arXiv:1909.11285 matches: 10.75G flops 
+arXiv:1706.02113 matches: energy to 605kWh 
+arXiv:1706.02113 matches: energy to 615.9 kWh 
+arXiv:1706.02113 matches: energy saving as 556.9kWh 
+arXiv:2004.02396 matches: energy consumption of 3.81 W  
+arXiv:1805.07095 matches: 50 hours of training 
+arXiv:2007.13975 matches: 30 hours of training 
+arXiv:1812.09160 matches: energy consumption: 202J, 
+arXiv:2003.01207 matches: 4 hours of training 
+arXiv:1202.3018 matches: power of 4 W  
+arXiv:0709.4552 matches: 123 Gflops 
+arXiv:0709.4552 matches: 1 Tflops 
+arXiv:0709.4552 matches: 1 Tflops 
+arXiv:0709.4552 matches: 35 Tflops 
+arXiv:1408.2981 matches: 30-40 floating point operations 
+arXiv:1909.06678 matches: 5 hours of training 
+arXiv:1909.06678 matches: 5 hours of training 
+arXiv:1705.11147 matches: 2.57 petaflops 
+arXiv:1712.00489 matches: 360 hours of training 
+arXiv:2006.09043 matches: 4 hours of training 
+arXiv:1810.00415 matches: 7 hours of training 
+arXiv:1703.08825 matches: power of 1.5 kW, 
+arXiv:1703.08825 matches: power of 1.5 kW  
+arXiv:1703.08825 matches: power of 0.5 kW, 
+arXiv:1910.10921 matches: power FORMULA  0.1W  
+arXiv:1803.04014 matches: 125 Tflops 
+arXiv:1803.04014 matches: 83 Tflops 
+arXiv:1803.04014 matches: 4 Tflops 
+arXiv:1803.04014 matches: 125 Tflops 
+arXiv:1803.04014 matches: 81,920 floating-point operations 
+arXiv:1803.04014 matches: 31.4 Tflops 
+arXiv:1803.04014 matches: 15.7 Tflops 
+arXiv:1803.04014 matches: 7.8 Tflops 
+arXiv:1803.04014 matches: 125 Tflops 
+arXiv:1803.04014 matches: 112.7 Tflops 
+arXiv:1803.04014 matches: 112.7 Tflops 
+arXiv:1803.04014 matches: 83 Tflops 
+arXiv:1803.04014 matches: 4 Tflops 
+arXiv:1803.04014 matches: 83 Tflops 
+arXiv:1807.10562 matches: power supplies up to 450kW. 
+arXiv:1803.05030 matches: 20000 hours training 
+arXiv:1803.05030 matches: 20000 hours training 
+arXiv:1710.04985 matches: 3.05 GFLOPS 
+arXiv:1710.04985 matches: 2.84 GFLOPS 
+arXiv:2004.09263 matches: 12 hours training 
+arXiv:1307.6488 matches: 7900 floating point operations 
+arXiv:1802.08401 matches: 5 hours training 
+arXiv:1801.05797 matches: 300 MJ energy 
+arXiv:1801.05797 matches: 300 MJ energy 
+arXiv:1602.01528 matches: power and 15.97W  
+arXiv:1602.01528 matches: power and only 0.59W  
+arXiv:1602.01528 matches: power to around 10W  
+arXiv:1602.01528 matches: power of 0.58W  
+arXiv:1711.00541 matches: 30 hours of training 
+arXiv:0806.4874 matches: power of 1W and 10W, 
+arXiv:2001.08895 matches: 130MFLOPS 
+arXiv:2001.08895 matches: 0.18GFLOPS 
+arXiv:2001.08895 matches: 4GFLOPS 
+arXiv:2001.08895 matches: 130 MFLOPS 
+arXiv:2001.08895 matches: 1-2 GFLOPS 
+arXiv:2001.08895 matches: 5-20GFLOPS 
+arXiv:2001.08895 matches: 130M FLOPS 
+arXiv:2001.08895 matches: 130M FLOPS 
+arXiv:2001.08895 matches: 130M FLOPS 
+arXiv:1703.00532 matches: power of 28.55GW. 
+arXiv:1208.3933 matches: 515 GFLOPS 
+arXiv:1208.3933 matches: 76.8 GFLOPS 
+arXiv:1208.3933 matches: 500 GFLOPS 
+arXiv:1208.3933 matches: 500 GFLOPS 
+arXiv:1806.06728 matches: 933 GFLOPS 
+arXiv:1806.06728 matches: 933 GFLOPS 
+arXiv:1709.08797 matches: power from 20 W to 10 W. 
+arXiv:1701.03534 matches: 32) floating point operations 
+arXiv:1701.03534 matches: 6.1 TFLOPS 
+arXiv:1701.03534 matches: 1.3 TFLOPS 
+arXiv:1911.10556 matches: power budget of 2W  
+arXiv:1606.06234 matches: 4.29TFLOPS 
+arXiv:1606.06234 matches: 1632 GFLOPS 
+arXiv:1606.06234 matches: 25.56 GFLOPS 
+arXiv:1606.06234 matches: 14.12 GFLOPS 
+arXiv:1606.06234 matches: 10.58 GFLOPS 
+arXiv:1606.06234 matches: 14.20 GFLOPS 
+arXiv:1606.06234 matches: 0.82 GFLOPS 
+arXiv:1606.06234 matches: 10GFLOPS 
+arXiv:1606.06234 matches: 14GFLOPS 
+arXiv:1606.06234 matches: energy for FPGA is 10.24J, 
+arXiv:1606.06234 matches: energy 0.70J and 31.19J  
+arXiv:1606.06234 matches: power for GPU is 97W  
+arXiv:1606.06234 matches: power 78.77W and 123.40W  
+arXiv:1611.01120 matches: 28.32 GFLOPS 
+arXiv:1307.2036 matches: 10000 floating point operations 
+arXiv:1307.2036 matches: 10-100 floating point operations 
+arXiv:1907.01525 matches: energy usage of 112 W  
+arXiv:1907.01525 matches: power consumption is 295 W, 
+arXiv:1806.01611 matches: energy savings of 10 J/ 
+arXiv:1806.01611 matches: energy consumption of 100 J/ 
+arXiv:1408.2320 matches: 0.35 kWh of energy 
+arXiv:1408.2320 matches: 0.25 kWh energy 
+arXiv:1704.02457 matches: 105.6) Gflops 
+arXiv:1704.02457 matches: 10 Gflops 
+arXiv:1704.02457 matches: 32 flops 
+arXiv:1704.02457 matches: 16 flops 
+arXiv:1704.02457 matches: 57.6) Gflops 
+arXiv:1704.02457 matches: 8 and 4 flops 
+arXiv:1704.02457 matches: 2 and 8 flops 
+arXiv:1704.02457 matches: 27.2 Gflops 
+arXiv:1704.02457 matches: 58.2 Gflops 
+arXiv:1704.02457 matches: 2 flops 
+arXiv:1704.02457 matches: 2 flops 
+arXiv:1410.8635 matches: power within 5W  
+arXiv:1410.8635 matches: power up to 120W  
+arXiv:1701.06538 matches: 1.29 TFLOPS 
+arXiv:1701.06538 matches: 0.90 TFLOPS 
+arXiv:1701.06538 matches: 1.56 TFLOPS 
+arXiv:1701.06538 matches: 4.29 TFLOPS 
+arXiv:1701.06538 matches: 0.72 TFLOPS 
+arXiv:1701.06538 matches: 0.30 TFLOPS 
+arXiv:1903.12539 matches: power is around 1145 MW. 
+arXiv:1901.01007 matches: 1 TFLOPS 
+arXiv:1612.07568 matches: energy budget 0.22 kWh 
+arXiv:1612.07568 matches: 0.1 kWh energy 
+arXiv:1612.07568 matches: 0.04 kWh energy 
+arXiv:1910.06220 matches: power about 6 W, 
+arXiv:2003.12488 matches: power budget of only 5W, 
+arXiv:2003.12488 matches: power budget of only 2W. 
+arXiv:1907.04080 matches: energy consumption of 604 joules. 
+arXiv:1907.04080 matches: energy consumption of 167 joules  
+arXiv:1907.04080 matches: energy consumption of 138 joules. 
+arXiv:1907.04080 matches: energy consumption of 90 joules  
+arXiv:1810.05512 matches: 20 MFLOPS 
+arXiv:1910.10205 matches: power variation speed 2 MW/ 
+arXiv:1010.4980 matches: power equal to 10 W. 
+arXiv:1010.4980 matches: power is changed to 1 W  
+arXiv:2007.04940 matches: 4 GFLOPS 
+arXiv:2007.04940 matches: 4 GFLOPS 
+arXiv:2007.04940 matches: 2MFLOPS 
+arXiv:1011.3382 matches: 1.01 TFLOPS 
+arXiv:1011.3382 matches: 1.81 TFLOPS 
+arXiv:1011.3382 matches: 2 TFLOPS 
+arXiv:1011.3382 matches: power consumption of 62 W  
+arXiv:1011.3382 matches: power to 265 W  
+arXiv:1310.1191 matches: 63 floating point operations 
+arXiv:1507.01780 matches: power of 8 W  
+arXiv:1111.4287 matches: 1 petaflops 
+arXiv:1711.00289 matches: 1.2 TFLOPS 
+arXiv:1706.00290 matches: 383 hours of training 
+arXiv:1706.00290 matches: 20 hours of training 
+arXiv:1706.00290 matches: 103 hours of training 
+arXiv:1706.00290 matches: 383 hours of training 
+arXiv:1706.00290 matches: 25 hours of training 
+arXiv:1511.07566 matches: power are 1 MHz and 1 Watt, 
+arXiv:1710.03940 matches: 6.2 Petaflops 
+arXiv:1710.03940 matches: 25.3 Petaflops 
+arXiv:1902.02441 matches: 10 hours of training 
+arXiv:1806.05859 matches: power of 20 W. 
+arXiv:1607.07298 matches: power varies from 4kW  
+arXiv:1607.07298 matches: power can be 50kW or 100kW, 
+arXiv:1909.08053 matches: 39 TeraFLOPS 
+arXiv:1808.07832 matches: 2 flops 
+arXiv:1905.02265 matches: 10 hours of training 
+arXiv:1809.09364 matches: energy is 15.20 Wh 
+arXiv:1809.09364 matches: 9.24 Wh energy 
+arXiv:1803.09004 matches: 8.9 TFLOPS 
+arXiv:1912.11040 matches: 960 hours of training 
+arXiv:0806.2312 matches: 800 Mflops 
+arXiv:1405.7487 matches: 3.82 Tflops 
+arXiv:1405.7487 matches: 0.7 Pflops 
+arXiv:1405.7487 matches: 1.0 Pflops 
+arXiv:1403.6150 matches: 710 Gflops 
+arXiv:1403.6150 matches: 239 Gflops 
+arXiv:1403.6150 matches: 664 Gflops 
+arXiv:1907.05701 matches: 300 hours of training 
+arXiv:1907.05701 matches: 2000 hours of training 
+arXiv:1206.2948 matches: 2 FLOPS 
+arXiv:1103.5740 matches: 4 floating point operations 
+arXiv:1710.00489 matches: 8 hours of training 
+arXiv:1710.00489 matches: 5 hours of training 
+arXiv:1712.07101 matches: 960 hours of training 
+arXiv:1503.00851 matches: 1760 M floating point operations 
+arXiv:1201.3496 matches: 53 flops 
+arXiv:1810.11268 matches: 11.15 Petaflops 
+arXiv:2004.00161 matches: 24 hours of training 
+arXiv:1807.11195 matches: 10 GFLOPS 
+arXiv:1807.11195 matches: 4.1 GFLOPS 
+arXiv:1807.06534 matches: 5.9 Petaflops 
+arXiv:1807.06534 matches: 5.0 Petaflops 
+arXiv:1702.04699 matches: power (-100kW to 100kW) 
+arXiv:1702.04699 matches: power loss is 12.638kW  
+arXiv:1702.04699 matches: power loss of 12.638kW  
+arXiv:1702.04699 matches: power loss of 11.596kW  
+arXiv:1702.04699 matches: power of FORMULA 5kW  
+arXiv:1909.11150 matches: 2.15(4) EFLOPS 
+arXiv:1909.11150 matches: 990 PFLOPS 
+arXiv:1909.11150 matches: 1.13 EFLOPS 
+arXiv:1909.11150 matches: 83.92) TFLOPS 
+arXiv:1909.11150 matches: 120 TFLOPS 
+arXiv:1909.11150 matches: 2)) EFLOPS 
+arXiv:1501.02185 matches: 3 TFLOPS 
+arXiv:2005.05551 matches: 3 GFLOPS 
+arXiv:1412.2449 matches: energy of about 18000J  
+arXiv:1711.00548 matches: power of 15kW, 
+arXiv:1711.00548 matches: power of 45kW, 
+arXiv:1006.1661 matches: 3 flops 
+arXiv:1707.04108 matches: 10 hours of training 
+arXiv:1712.07206 matches: 200 Gflops 
+arXiv:1904.09969 matches: power of 75 W  
+arXiv:1604.00641 matches: 58.7 MFLOPS 
+arXiv:1707.02041 matches: power consumption is 167 W, 
+arXiv:1702.08208 matches: 8 flip-flops 
+arXiv:1302.1123 matches: 000 hours of training 
+arXiv:1302.1123 matches: 000 hours of training 
+arXiv:1302.1123 matches: 000 hours of training 
+arXiv:1801.01996 matches: power is set as 0.1 W  
+arXiv:1904.07016 matches: 1 kWh of energy 
+arXiv:1801.00690 matches: 24 hours of training 
+arXiv:1403.0054 matches: power of 1 Watt  
+arXiv:0809.2226 matches: 10 kJ of energy 
+arXiv:1701.02344 matches: power consumption. of 84W  
+arXiv:1701.02344 matches: power consumption of 64.2W. 
+arXiv:1409.4863 matches: power requirement of 102 W. 
+arXiv:1706.08628 matches: power demand of 80 W  
+arXiv:1706.08628 matches: 100W energy 
+arXiv:2003.12687 matches: 960 hours of training 
+arXiv:1909.10057 matches: 10.51 pentaflops 
+arXiv:1509.00374 matches: power for each RRH is 1 W, 
+arXiv:1103.3292 matches: power FORMULA  is 10W, 
+arXiv:1905.07799 matches: 62% of FLOPS 
+arXiv:1905.07799 matches: 82% of FLOPS 
+arXiv:1909.10964 matches: power of approximate 6.9W  
+arXiv:1909.10964 matches: power is around 6.9W, 
+arXiv:1404.0027 matches: 1030 Gflops 
+arXiv:1404.0027 matches: 1331 Gflops 
+arXiv:1404.0027 matches: 2288 Gflops 
+arXiv:1404.0027 matches: 3.52 Tflops 
+arXiv:1601.04247 matches: power less than 0.08 W, 
+arXiv:1601.04247 matches: power less than 0.1 W, 
+arXiv:1906.01563 matches: 1 Joule of energy 
+arXiv:1612.05120 matches: energy consumption of 534 kWh 
+arXiv:1612.05120 matches: energy capacity of 6.4 kWh 
+arXiv:2005.00872 matches: 445 petaflops 
+arXiv:2005.00872 matches: 148.6 petaflops 
+arXiv:2005.00872 matches: 0.1 Eflops 
+arXiv:2005.00872 matches: 1 Eflops 
+arXiv:2003.10737 matches: 500 J energy 
+arXiv:2003.10737 matches: power equal to 100 W  
+arXiv:1608.05138 matches: 0.75 TFLOPS 
+arXiv:1807.08654 matches: 670 Tflops 
+arXiv:1807.08654 matches: 105 Tflops 
+arXiv:2002.02094 matches: 8 flip-flops 
+arXiv:2002.02094 matches: 16 flip-flops 
+arXiv:2002.02094 matches: 10 flip-flops 
+arXiv:1511.07658 matches: 17.59 PFLOPS 
+arXiv:1504.05358 matches: power is 50 Watt  
+arXiv:1807.08615 matches: power reaches 1 W. 
+arXiv:1807.08615 matches: power for each DBS is 1 W, 
+arXiv:2005.03744 matches: power of 4 Watt, 
+arXiv:2005.03744 matches: power of 6.7 W  
+arXiv:1908.06132 matches: 2.7 TFLOPS 
+arXiv:1801.00121 matches: power is 1 W; 
+arXiv:1103.5128 matches: energy consumption is 0.05 joule, 
+arXiv:1601.04902 matches: 8 FLOPS 
+arXiv:1601.04902 matches: 120008 FLOPS 
+arXiv:1601.04902 matches: 48 GFLOPS 
+arXiv:2002.01524 matches: 2500 Wh of energy 
+arXiv:1411.4315 matches: power output of 5 MW  
+arXiv:1702.08372 matches: power of 150 MW and 400 MW  
+arXiv:1702.08372 matches: power of 300 MW and 600 MW  
+arXiv:1402.4247 matches: 17.06 GFLOPS 
+arXiv:1402.4247 matches: 243.2 GFLOPS 
+arXiv:1511.02299 matches: power should be below 4 Watt. 
+arXiv:1907.09595 matches: 600M FLOPS 
+arXiv:1907.09595 matches: 352M FLOPS 
+arXiv:1911.03762 matches: 3400 hours training 
+arXiv:1808.05578 matches: 100 TFLOPS 
+arXiv:1708.02983 matches: 6 Tflops 
+arXiv:1708.02983 matches: 2 Tflops 
+arXiv:1804.00623 matches: 112 TFLOPS 
+arXiv:2004.01647 matches: 16 hours of training 
+arXiv:1101.2228 matches: power of 1 Watt  
+arXiv:1901.00276 matches: 8873 GFLOPS 
+arXiv:1211.0582 matches: 2 teraflops 
+arXiv:1705.07413 matches: 93 petaflops 
+arXiv:1705.07413 matches: 40 petaflops 
+arXiv:1705.07413 matches: 1.5 petaflops 
+arXiv:2003.04454 matches: 1,024M of floating point operations 
+arXiv:2003.04454 matches: 1,422K and FLOPS 
+arXiv:1706.00107 matches: energy consumption to 0 kWh 
+arXiv:1701.06420 matches: 240 GFLOPS 
+arXiv:1701.06420 matches: 22.5 GFLOPS 
+arXiv:1701.06420 matches: 955 GFLOPS 
+arXiv:1701.06420 matches: 240 GFLOPS 
+arXiv:1701.06420 matches: 22.5 GFLOPS 
+arXiv:1701.06420 matches: 955 GFLOPS 
+arXiv:1701.06420 matches: 61 GFLOPS 
+arXiv:1701.06420 matches: 3.4 GFLOPS 
+arXiv:1701.06420 matches: 500 GFLOPS 
+arXiv:1701.06420 matches: 1092 GFLOPS 
+arXiv:1701.06420 matches: 4.6 GFLOPS 
+arXiv:1701.06420 matches: 2.6 GFLOPS 
+arXiv:1701.06420 matches: 54 GFLOPS 
+arXiv:1701.06420 matches: 84 GFLOPS 
+arXiv:1701.06420 matches: 35 GFLOPS 
+arXiv:1701.06420 matches: 12.8 GFLOPS 
+arXiv:1701.06420 matches: 35 GFLOPS 
+arXiv:1701.06420 matches: 160 GFLOPS 
+arXiv:1701.06420 matches: 200 GFLOPS 
+arXiv:1701.06420 matches: 256 GFLOPS 
+arXiv:1701.06420 matches: 240 GFLOPS 
+arXiv:1701.06420 matches: 197 GFLOPS 
+arXiv:1701.06420 matches: 22.5 GFLOPS 
+arXiv:1701.06420 matches: 2.7 GFLOPS 
+arXiv:1701.06420 matches: 22.5 GFLOPS 
+arXiv:1701.06420 matches: 117 GFLOPS 
+arXiv:1701.06420 matches: 955 GFLOPS 
+arXiv:1701.06420 matches: 240 GFLOPS 
+arXiv:1701.06420 matches: 22.5 GFLOPS 
+arXiv:1904.11490 matches: 234.5 GFLOPS 
+arXiv:1808.01166 matches: 1 GFLOPS 
+arXiv:1808.01166 matches: 60 MFLOPS 
+arXiv:1808.01166 matches: 4 MFLOPS 
+arXiv:1808.01166 matches: 50 MFLOPS 
+arXiv:1808.01166 matches: 100 MFLOPS 
+arXiv:1808.01166 matches: 1,5 MFLOPS 
+arXiv:1808.01166 matches: 300 GFLOPS 
+arXiv:1808.01166 matches: 75 MFLOPS 
+arXiv:1808.01166 matches: 25 MFLOPS 
+arXiv:1808.01166 matches: 4*32 MFLOPS 
+arXiv:1808.01166 matches: 125 MFLOPS 
+arXiv:1808.01166 matches: 266 MFLOPS 
+arXiv:1808.01166 matches: 80 MFLOPS 
+arXiv:1808.01166 matches: 200 MFLOPS 
+arXiv:1808.01166 matches: 150 MFLOPS 
+arXiv:1808.01166 matches: 100 MFLOPS 
+arXiv:1808.01166 matches: 50 MFLOPS 
+arXiv:1808.01166 matches: 100 MFLOPS 
+arXiv:1808.01166 matches: 40 MFLOPS 
+arXiv:1808.01166 matches: 1,6 GFLOPS 
+arXiv:1808.01166 matches: 200 MFLOPS 
+arXiv:1907.13600 matches: 3.02 petaflops 
+arXiv:1907.13600 matches: 3.02 petaflops 
+arXiv:1907.13600 matches: 4.6 petaflops 
+arXiv:1909.02164 matches: 3 hours of training 
+arXiv:2002.00801 matches: 64-bit floating point operations 
+arXiv:2005.05968 matches: 313 GFLOPS 
+arXiv:1912.10596 matches: 1 teraFLOPS 
+arXiv:2006.11132 matches: 10 hours of training 
+arXiv:1910.03103 matches: 70% flops 
+arXiv:2007.05657 matches: 12 TFLOPS 
+arXiv:2007.05657 matches: 180 TFLOPS 
+arXiv:2007.05657 matches: 100 peta-FLOPS 
+arXiv:1910.13584 matches: power output of 25W. 
+arXiv:1403.6977 matches: power to be 1W  
+arXiv:cs0612105 matches: 367 Teraflops 
+arXiv:cs0612105 matches: 111 Teraflops 
+arXiv:cs0612105 matches: 102 Teraflops 
+arXiv:1710.08969 matches: 15 hours training 
+arXiv:1710.08969 matches: 15 hours training 
+arXiv:1706.00620 matches: energy of 50 kWh 
+arXiv:1910.09053 matches: 0.841 MJ of energy 
+arXiv:2006.02230 matches: 3,300 GFLOPS 
+arXiv:1209.3516 matches: 20 floating-point operations 
+arXiv:1906.04051 matches: 1 Teraflops 
+arXiv:1903.04688 matches: 1857G FLOPS 
+arXiv:1903.04688 matches: 6110G FLOPS 
+arXiv:1903.04688 matches: 8% FLOPS 
+arXiv:1903.04688 matches: 31% FLOPS 
+arXiv:1903.04688 matches: 8% FLOPS 
+arXiv:1710.11455 matches: energy efficient IEEE 802.11 WL 
+arXiv:1710.11455 matches: energy efficient IEEE 802.11 WL 
+arXiv:1910.09700 matches: 100 Giga FLOPS 
+arXiv:1910.09700 matches: 15 Tera FLOPS 
+arXiv:1910.09700 matches: 20g CO2e 
+arXiv:1910.09700 matches: 736.6g CO2e 
+arXiv:1910.09700 matches: 20g CO2e 
+arXiv:1910.09700 matches: 820g CO2e 
+arXiv:2006.10142 matches: 19.56 GFLOPS 
+arXiv:2006.10142 matches: 379.7 GFLOPS 
+arXiv:1407.1830 matches: 1000 FLOPS 
+arXiv:1706.09453 matches: 80 hours of training 
+arXiv:1706.09453 matches: 80 hours of training 
+arXiv:1907.06972 matches: power of 100 MW. 
+arXiv:1805.12024 matches: 2.6e7 FLOPS 
+arXiv:2004.08770 matches: energy of 1817 GWh 
+arXiv:1910.07172 matches: 30 petaflops 
+arXiv:1910.07172 matches: 2 petaflops 
+arXiv:1912.02457 matches: 16.3 teraFLOPS 
+arXiv:1912.02457 matches: 0.51 teraFLOPS 
+arXiv:1906.01668 matches: 11.69-petaflops 
+arXiv:1808.03843 matches: 40 GFLOPS 
+arXiv:1808.03843 matches: 40 GFLOPS 
+arXiv:1908.10003 matches: 720 J of energy 
+arXiv:1708.06832 matches: 4.0e9 FLOPS 
+arXiv:1708.06832 matches: 9 total FLOPS 
+arXiv:1701.03578 matches: 4 hours training 
+arXiv:2007.01867 matches: 4 hours of training 
+arXiv:1911.02549 matches: 4 Gflops 
+arXiv:1911.02549 matches: 8 Gflops 
+arXiv:1901.07294 matches: 64-bit floating-point operations 
+arXiv:1805.12045 matches: 7 hours of training 
+arXiv:1808.00667 matches: power = 40 W, 
+arXiv:1707.00519 matches: 2 and 6 flops 
+arXiv:1701.08435 matches: 2G floating point operations 
+arXiv:1711.06127 matches: power target of 15W, 
+arXiv:1801.00841 matches: 000 hours of training 
+arXiv:1903.03640 matches: 120 TFLOPS 
+arXiv:1911.05181 matches: 52.2 Tera-floating point operations 
+arXiv:1911.05181 matches: 32 Tera floating-point operations 
+arXiv:1911.05181 matches: 92 Tera floating-point operations 
+arXiv:1911.05181 matches: 48 hours training 
+arXiv:1409.4256 matches: 4 TFLOPS 
+arXiv:1409.4256 matches: 32.9 GFLOPS 
+arXiv:1409.4256 matches: 39.4 GFLOPS 
+arXiv:1904.02147 matches: 300 hours training 
+arXiv:2004.10811 matches: power consumption of 250 W  
+arXiv:2004.10811 matches: 250 W energy 
+arXiv:1911.08206 matches: 8.53 GFLOPS 
+arXiv:1911.08206 matches: 128 GFLOPS 
+arXiv:1911.08206 matches: 8.53 GFLOPS 
+arXiv:1911.08206 matches: 1.4 GFLOPS 
+arXiv:1911.08206 matches: 1.4 GFLOPS 
+arXiv:1911.08206 matches: 11.1 GFLOPS 
+arXiv:1911.08206 matches: 8.53 GFLOPS 
+arXiv:1811.12432 matches: 195.5 GFLOPS 
+arXiv:1804.00703 matches: power by 5000 MW, 
+arXiv:2005.05642 matches: 10 hours training 
+arXiv:1911.12303 matches: 2 kWh of energy 
+arXiv:1610.06276 matches: 211.2 GFLOPS 
+arXiv:1610.06276 matches: 4.28 TFLOPS 
+arXiv:1809.07454 matches: 30 hours of training 
+arXiv:1811.04357 matches: 8 hours of training 
+arXiv:2002.03258 matches: 1430 GFLOPS 
+arXiv:2002.03258 matches: 213 GFLOPS 
+arXiv:2002.03258 matches: 4600 GFLOPS 
+arXiv:1310.3422 matches: 233 GFLOPS 
+arXiv:1605.08535 matches: 240 hours of training 
+arXiv:1808.05567 matches: 3.8 TFLOPS 
+arXiv:1808.05567 matches: 11.5 TFLOPS 
+arXiv:1808.05567 matches: 2621 GFLOPS 
+arXiv:1808.05567 matches: 2301 GFLOPS 
+arXiv:1808.05567 matches: 192 GFLOPS 
+arXiv:1808.05567 matches: 147 GFLOPS 
+arXiv:1808.05567 matches: 4584 GFLOPS 
+arXiv:1808.05567 matches: 4654 GFLOPS 
+arXiv:2002.08882 matches: 1054 flip-flops 
+arXiv:1507.00862 matches: 2 teraflops 
+arXiv:1507.00862 matches: 4 teraflops 
+arXiv:1905.01163 matches: power of 11 kW  
+arXiv:1812.05159 matches: 6 hours of training 
+arXiv:1910.06674 matches: energy consumption of 10000J. 
+arXiv:1803.04567 matches: 6 hours of training 
+arXiv:1912.05566 matches: 14 hours of training 
+arXiv:1206.2775 matches: 10000 Floating Point Operations 
+arXiv:1501.03396 matches: 1.4 Tflops 
+arXiv:1710.00113 matches: 200 hours of training 
+arXiv:2007.01228 matches: power (order of 1W) 
+arXiv:1704.03092 matches: 28.32 GFLOPS 
+arXiv:1704.03092 matches: 24.8 GFLOPS 
+arXiv:2006.16423 matches: 27 hours of training 
+arXiv:2007.00864 matches: 4 GFLOPS 
+arXiv:1809.10658 matches: 2.7 TFLOPS 
+arXiv:1904.02466 matches: 5 hours of training 
+arXiv:1904.02466 matches: 5 hours of training 
+arXiv:1905.00444 matches: power capacity of 14 MW  
+arXiv:1905.00444 matches: power capacity of 14 MW  
+arXiv:1905.00444 matches: 15 kW of energy 
+arXiv:1905.00444 matches: 2.4 kW of energy 
+arXiv:1806.04872 matches: 80 hours training 
+arXiv:1806.02011 matches: 5 flip-flops 
+arXiv:1806.02011 matches: 176 flip-flops 
+arXiv:1806.02011 matches: 5 flip-flops 
+arXiv:2004.13377 matches: power density 4W/ 
+arXiv:2005.01662 matches: 11.69 petaflops 
+arXiv:1909.11886 matches: 35 hours training 
+arXiv:1907.02547 matches: 2.09 GFLOPS 
+arXiv:1907.02547 matches: 2.61 GFLOPS 
+arXiv:1705.02738 matches: 2 flops 
+arXiv:1705.02738 matches: 6 flops 
+arXiv:1705.02738 matches: 255flops 
+arXiv:1705.02738 matches: 1678flops 
+arXiv:1705.02738 matches: 7154flops 
+arXiv:1705.02738 matches: 559flops 
+arXiv:1705.02738 matches: 2733flops 
+arXiv:1705.02738 matches: 15388flops 
+arXiv:1705.02738 matches: 3000 flops 
+arXiv:1602.03936 matches: 2 flops 
+arXiv:1602.03936 matches: 8 flops 
+arXiv:1407.7360 matches: 250 Teraflops 
+arXiv:1407.7360 matches: 2 Petaflops 
+arXiv:1407.7360 matches: 380 Teraflops 
+arXiv:1407.7360 matches: 8 Petaflops 
+arXiv:1905.13376 matches: 12.3 FLOPS 
+arXiv:1905.13376 matches: 12.3 TFLOPS 
+arXiv:0706.4038 matches: 100 MFLOPS 
+arXiv:0706.4038 matches: 6 GFLOPS 
+arXiv:0706.4038 matches: 4 TFLOPS 
+arXiv:0706.4038 matches: 60 GFLOPS 
+arXiv:1708.01462 matches: 1 exaFLOPS 
+arXiv:1708.01462 matches: .35 exaFLOPS 
+arXiv:1708.01462 matches: 1 exaFLOPS 
+arXiv:1708.01462 matches: 1 exaFLOPS 
+arXiv:1510.02822 matches: power easily reaches 100W. 
+arXiv:1806.11558 matches: 27 Peta-FLOPS 
+arXiv:1806.00379 matches: power of 0.5 W  
+arXiv:1810.11846 matches: 3 GFLOPS 
+arXiv:1810.11846 matches: 0.5 GFLOPS 
+arXiv:1810.11846 matches: 2.8 GFLOPS 
+arXiv:1810.11846 matches: 16 GFLOPS 
+arXiv:1810.11846 matches: 10 GFLOPS 
+arXiv:1810.11846 matches: 50 GFLOPS 
+arXiv:1711.03538 matches: 6.7FLOPS 
+arXiv:1711.03538 matches: 6.7FLOPS 
+arXiv:1004.4431 matches: 3 -g FLOPS 
+arXiv:1712.00061 matches: ,98 PFLOPS 
+arXiv:0708.3722 matches: 2 flops 
+arXiv:0708.3722 matches: 3 flops 
+arXiv:0708.3722 matches: 20 flops 
+arXiv:0708.3722 matches: 9 flops 
+arXiv:1504.07308 matches: 1kWh energy 
+arXiv:1504.07308 matches: power of 150W and 250W, 
+arXiv:1504.07308 matches: power reduction is 2.25MW  
+arXiv:1602.01783 matches: 12 hours of training 
+arXiv:1602.01783 matches: 24 hours of training 
+arXiv:1310.0133 matches: power decreases from 10 W  
+arXiv:1310.0133 matches: power saturates near 14 Watt, 
+arXiv:1303.5802 matches: power of 50 kW  
+arXiv:2005.02946 matches: power demand are 3529 kW  
+arXiv:2005.02946 matches: power is set to be 200 kW  
+arXiv:2006.07228 matches: power (e.g., 6.6kW, 24kW, 
+arXiv:2002.03260 matches: 480 teraflops 
+arXiv:1705.03881 matches: 6Tflops 
+arXiv:1611.06822 matches: power (about 270W) 
+arXiv:1611.06822 matches: power of 495W  
+arXiv:1611.06822 matches: power (e.g., 450kW  
+arXiv:1709.02599 matches: 2.5 teraflops 
+arXiv:1709.02599 matches: 5 teraflops 
+arXiv:1709.02599 matches: 3 teraflops 
+arXiv:1204.2252 matches: energy consumption of 5 kWh 
+arXiv:1508.02336 matches: power of 3,500 MW  
+arXiv:1608.03968 matches: energy of 50 kWh 
+arXiv:1608.03968 matches: power consumption of 35 kW; 
+arXiv:1204.0958 matches: power is 1 W  
+arXiv:1904.00962 matches: 100 petaflops 
+arXiv:1512.08194 matches: 13.3 petaFLOPS 
+arXiv:1909.05085 matches: 24 hours of training 
+arXiv:1808.09945 matches: 61.62 GFLOPS 
+arXiv:1707.06112 matches: 5 hours of training 
+arXiv:1505.00078 matches: power demand is over 400 kW  
+arXiv:1908.02640 matches: power of 0.96 W  
+arXiv:1708.01225 matches: 500 GFLOPS 
+arXiv:1708.01225 matches: 6000 GFLOPS 
+arXiv:1904.04174 matches: 150 gigaflops 
+arXiv:1807.00146 matches: 6.8 Petaflops 
+arXiv:1807.00146 matches: 5.9 Petaflops 
+arXiv:1602.05526 matches: 30 MFLOPS 
+arXiv:1610.09212 matches: 180 Petaflops 
+arXiv:1610.09212 matches: 15 flip-flops 
+arXiv:1908.06362 matches: power is 3.6W. 
+arXiv:1908.06362 matches: power of NDAs is 3.7W  
+arXiv:1910.12740 matches: 460 hours of training 
+arXiv:1801.04961 matches: 10 flip-flops 
+arXiv:1801.04961 matches: 377 flip-flops 
+arXiv:1801.04961 matches: 123 flip-flops 
+arXiv:1804.07017 matches: 245 GFLOPS 
+arXiv:1804.07017 matches: 180 GFLOPS 
+arXiv:1906.11154 matches: power of 800 MW, 
+arXiv:1101.0091 matches: 2 flops 
+arXiv:2007.06051 matches: energy is 4kWh 
+arXiv:2007.06051 matches: 34kWh energy 
+arXiv:2005.14165 matches: 2.88e+7 flops 
+arXiv:2002.06016 matches: 25 hours of training 
+arXiv:1803.04682 matches: 4N flops 
+arXiv:1803.04682 matches: 17.7N flops 
+arXiv:1803.04682 matches: 27N flops 
+arXiv:1803.04682 matches: 166419.7N flops 
+arXiv:1803.04682 matches: 2418.7N flops 
+arXiv:2005.10627 matches: 9 hours of training 
+arXiv:1907.10086 matches: energy exchange of 20 MWh 
+arXiv:1907.10086 matches: energy of 10 MWh 
+arXiv:1907.10086 matches: 10 MWh of energy 
+arXiv:1610.00087 matches: 10 hours of training 
+arXiv:2006.11979 matches: 20% FLOPS 
+arXiv:1712.04851 matches: 107.9 GFLOPS 
+arXiv:1712.04851 matches: 66.38 GFLOPS 
+arXiv:1202.4372 matches: power rate of 10.5 W, 
+arXiv:1204.4151 matches: 3 flops 
+arXiv:1204.4151 matches: 50 flops 
+arXiv:1204.4151 matches: 3 flops 
+arXiv:1908.11425 matches: 160 hours of training 
+arXiv:1908.11425 matches: 20 hours of training 
+arXiv:1610.00760 matches: 100 tera floating-point operations 
+arXiv:1004.3719 matches: 620 Mflops 
+arXiv:2006.16228 matches: 20 hours training 
+arXiv:2006.16228 matches: 20 hours training 
+arXiv:2001.05585 matches: 120 TFLOPS 
+arXiv:1309.1983 matches: 1.62 TFLOPS 
+arXiv:1309.1983 matches: 3.5 TFLOPS 
+arXiv:1909.05647 matches: power consumption of 1.23W  
+arXiv:1312.5691 matches: 982 GFLOPS 
+arXiv:1312.5691 matches: 128 GFLOPS 
+arXiv:2006.00342 matches: power cap limit of 55W. 
+arXiv:2006.00342 matches: power cap is 60.2W  
+arXiv:2006.00342 matches: power cap is 65.9W. 
+arXiv:2006.00342 matches: power cap limit of 7W. 
+arXiv:2006.00342 matches: power cap limit of 9W. 
+arXiv:2006.00342 matches: power cap limit of 9W. 
+arXiv:1604.00812 matches: 24 kWh energy 
+arXiv:1804.06564 matches: 9GFLOPS 
+arXiv:1804.06564 matches: 20GFLOPS 
+arXiv:1804.06564 matches: 4500 GFLOPS 
+arXiv:1804.06564 matches: 20GFLOPS 
+arXiv:1804.06564 matches: 256 GFLOPS 
+arXiv:1804.06564 matches: 100 MFLOPS 
+arXiv:1804.06564 matches: 345.35GFLOPS 
+arXiv:1804.06564 matches: 10 Tera FLOPS 
+arXiv:1804.06564 matches: 100 GFLOPS 
+arXiv:1804.06564 matches: 23 GFLOPS 
+arXiv:1501.05992 matches: 8 TFLOPS 
+arXiv:1501.05992 matches: 32 FLOPS 
+arXiv:1501.05992 matches: 1030 GFLOPS 
+arXiv:1910.03392 matches: power consumption of 15 kW  
+arXiv:1001.1860 matches: 128 floating point operations 
+arXiv:1506.09067 matches: 1.2 teraFLOPS 
+arXiv:1507.00235 matches: 100 Tera floating-point operations 
+arXiv:2005.09158 matches: 1.372 petaflops 
+arXiv:1906.07214 matches: energy equal to 18.43J, 
+arXiv:1907.09707 matches: 0.75 TFLOPS 
+arXiv:1907.09707 matches: energy consumption of 64.07J, 
+arXiv:1910.03019 matches: 1FLOPS 
+arXiv:1910.03019 matches: 2.68FLOPS 
+arXiv:1811.09406 matches: 3.7MWh energy 
+arXiv:1805.10174 matches: power budget of 5W  
+arXiv:1906.02492 matches: 5 hours of training 
+arXiv:2006.05703 matches: power consumption of 50W  
+arXiv:1910.02516 matches: 16MWh of energy 
+arXiv:1703.06891 matches: 12 hours of training 
+arXiv:1703.06891 matches: 6 hours of training 
+arXiv:1804.00035 matches: power of 300 MW  
+arXiv:1804.00035 matches: power of 600 MW  
+arXiv:1804.00035 matches: power of 400 MW  
+arXiv:1804.01465 matches: 3 hours training 
+arXiv:1909.01058 matches: 56}} of floating point operations 
+arXiv:1810.04150 matches: 1000 Gflops 
+arXiv:1409.4297 matches: 2.416 TFLOPS 
+arXiv:1409.4297 matches: 1.208 TFLOPS 
+arXiv:1701.02324 matches: 2) FLOPS 
+arXiv:1701.02324 matches: 2.1 TFLOPS 
+arXiv:1701.02324 matches: 998 GFLOPS 
+arXiv:1701.02324 matches: 3,046 GFLOPS 
+arXiv:1701.02324 matches: 2 GFLOPS 
+arXiv:1810.11550 matches: 12 TFLOPS 
+arXiv:1812.04168 matches: 1 Giga Floating Point Operations 
+arXiv:1501.06326 matches: 0.515 Tflops 
+arXiv:2003.04194 matches: 000 hours of training 
+arXiv:2003.04194 matches: 300 hours training 
+arXiv:1211.5856 matches: power of 50 kW  
+arXiv:1211.5856 matches: power of 50 kW  
+arXiv:1512.03485 matches: 40 kWh energy 
+arXiv:1512.03485 matches: 5 kWh of energy 
+arXiv:1811.07738 matches: power consumption of 3.6W. 
+arXiv:1811.07738 matches: power consumption of 2.89W  
+arXiv:1704.04313 matches: 512 GFLOPS 
+arXiv:1704.04313 matches: 6144 GFLOPS 
+arXiv:1511.08342 matches: power is 0.1 W  
+arXiv:2002.10502 matches: 1 TFLOPS 
+arXiv:1511.04855 matches: 50 GigaFLOPS 
+arXiv:1805.01811 matches: 15 hours of training 
+arXiv:1709.10489 matches: 4 hours of training 
+arXiv:2007.05266 matches: power rating of 200W. 
+arXiv:2007.05266 matches: power rating of 200W  
+arXiv:1310.4162 matches: power of MBS is 5 W  
+arXiv:1905.12462 matches: 1.04% Floating Point Operations 
+arXiv:1302.5955 matches: 2938 FLOPS 
+arXiv:1302.5955 matches: 26442 FLOPS 
+arXiv:1302.5955 matches: 75120 FLOPS 
+arXiv:1904.09290 matches: 83M FLOPS 
+arXiv:1902.04706 matches: 28 hours of training 
+arXiv:1708.09351 matches: power of 28.55GW. 
+arXiv:1909.03057 matches: 200 petaFLOPS 
+arXiv:1705.05249 matches: 200 GFLOPS 
+arXiv:1907.05043 matches: power of 1 Watt, 
+arXiv:1010.2692 matches: power of 1 W. 
+arXiv:2001.00532 matches: 1("fpos 
+arXiv:2001.00532 matches: 1"), fpos 
+arXiv:2001.00532 matches: 2("fpos 
+arXiv:2001.00532 matches: 1("fpos 
+arXiv:2001.00532 matches: 1("fpos 
+arXiv:2001.00532 matches: 1("fpos 
+arXiv:2001.00532 matches: 1"), fpos 
+arXiv:2001.00532 matches: 2("fpos 
+arXiv:1804.07836 matches: 50 hours of training 
+arXiv:1804.07836 matches: 20 hours of training 
+arXiv:1908.02270 matches: 229 Kflops 
+arXiv:1908.02270 matches: 146 Mflops 
+arXiv:2006.11946 matches: power of 1 W. 
+arXiv:1908.02386 matches: 1.4 gigaFLOPS 
+arXiv:1908.02386 matches: 1.1 megaFLOPS 
+arXiv:1206.2129 matches: power of 20 W. 
+arXiv:1906.05047 matches: power is 0.55 W, 
+arXiv:1910.00928 matches: 396.2TFLOPS 
+arXiv:1910.00928 matches: 396.2TFLOPS 
+arXiv:1910.00928 matches: 396.2TFLOPS 
+arXiv:1910.04081 matches: 11.60 petaflops 
+arXiv:1912.03408 matches: power of 100kW. 
+arXiv:1512.00066 matches: 19.2 Gflops 
+arXiv:1512.00066 matches: 460.8 Gflops 
+arXiv:1209.2039 matches: 25kg CO2, 
+arXiv:1602.01616 matches: power exceeding 100 Watt{ 
+arXiv:1905.06520 matches: power of 2.4W  
+arXiv:1905.06520 matches: power of more than 10W, 
+arXiv:1905.06520 matches: power of 9W  
+arXiv:1905.06520 matches: power of 18.6W, 
+arXiv:2001.04249 matches: 10 Teraflops 
+arXiv:1611.02272 matches: 9 floating-point operations 
+arXiv:1809.00110 matches: 1TFLOPS 
+arXiv:1409.5826 matches: 17.59 petaflops 
+arXiv:1409.5826 matches: 27.1 petaflops 
+arXiv:1902.07033 matches: 30 hours of training 
+arXiv:1205.2927 matches: 200 GFLOPS 
+arXiv:1205.2927 matches: 500GFLOPS 
+arXiv:1205.2927 matches: 90 GFLOPS 
+arXiv:1205.2927 matches: 20 GFLOPS 
+arXiv:1205.2927 matches: 30 GFLOPS 
+arXiv:1205.2927 matches: 60 GFLOPS 
+arXiv:1205.2927 matches: 120 GFLOPS 
+arXiv:1205.2927 matches: 120GFLOPS 
+arXiv:1205.2927 matches: 10–30 GFLOPS 
+arXiv:1205.2927 matches: 200 GFLOPS 
+arXiv:1205.2927 matches: 150 GFLOPS 
+arXiv:1205.2927 matches: 160 GFLOPS 
+arXiv:1205.2927 matches: 90GFLOPS 
+arXiv:1205.2927 matches: 120 GFLOPS 
+arXiv:1205.2927 matches: 160 GFLOPS 
+arXiv:1205.2927 matches: 200 GFLOPS 
+arXiv:1205.2927 matches: 200GFLOPS 
+arXiv:1205.2927 matches: 200GFLOPS 
+arXiv:2002.03344 matches: 32 floating-point operations 
+arXiv:2002.03344 matches: 16 flops 
+arXiv:2002.03344 matches: 32 flops 
+arXiv:1801.10277 matches: 32,317 FLOPS 
+arXiv:2003.10735 matches: 472 GFLOPS 
+arXiv:2003.10735 matches: 954.7 GFLOPS 
+arXiv:1810.05749 matches: 600M FLOPS 
+arXiv:2002.02109 matches: 16 hours of training 
+arXiv:1412.0544 matches: 4200 Megaflops 
+arXiv:cs0502090 matches: 22 teraflops 
+arXiv:1404.6929 matches: power use today is 1.2MW. 
+arXiv:1702.03935 matches: 1.21 Teraflops 
+arXiv:1704.08152 matches: power of more than 1 W  
+arXiv:1803.06973 matches: 7,000 kgCO2  
+arXiv:1012.2270 matches: 1 TFLOPS 
+arXiv:1012.2270 matches: 0.89 GFLOPS 
+arXiv:1012.2270 matches: 0.53 GFLOPS 
+arXiv:1012.2270 matches: 16 GFLOPS 
+arXiv:1012.2270 matches: 11 GFLOPS 
+arXiv:1012.2270 matches: 30 GFLOPS 
+arXiv:1012.2270 matches: 20 GFLOPS 
+arXiv:1012.2270 matches: 10 GFLOPS 
+arXiv:1012.2270 matches: 10 GFLOPS 
+arXiv:1012.2270 matches: 10 GFLOPS 
+arXiv:1012.2270 matches: 10 GFLOPS 
+arXiv:1012.2270 matches: 4 GFLOPS 
+arXiv:1012.2270 matches: 1 GFLOPS 
+arXiv:2006.07322 matches: 100 hours training 
+arXiv:2006.07322 matches: 1000 hours of training 
+arXiv:1311.0378 matches: 1 TFLOPS 
+arXiv:1311.0378 matches: 345 MFLOPS 
+arXiv:1808.05312 matches: 700 hours training 
+arXiv:1508.02219 matches: 10 PFLOPS 
+arXiv:1510.08172 matches: power of 1 W, 
+arXiv:1201.0638 matches: 829]MFLOPS 
+arXiv:1408.1127 matches: 100 TFLOPS 
+arXiv:1408.1127 matches: 1 PFLOPS 
+arXiv:1408.1127 matches: 1 PFLOPS 
+arXiv:1811.02058 matches: 500 hours of training 
+arXiv:1811.02058 matches: 500 hours training 
+arXiv:1811.02058 matches: 550 hours of training 
+arXiv:1811.02058 matches: 500 hours of training 
+arXiv:1811.02058 matches: 500 hours of training 
+arXiv:1811.02058 matches: 500 hours training 
+arXiv:1709.00844 matches: power of 1 W  
+arXiv:1911.08940 matches: power - 11 kW  
+arXiv:1608.01009 matches: 100 GFLOPS 
+arXiv:1608.01009 matches: 100 PFLOPS 
+arXiv:1608.01009 matches: 42.5 GFLOPS 
+arXiv:1608.01009 matches: 100 GFLOPS 
+arXiv:1712.02741 matches: 730 tons of carbon  
+arXiv:1904.02835 matches: 32-bit floating point operations 
+arXiv:1610.06846 matches: power savings of near 15 kW/ 
+arXiv:1610.06846 matches: power savings of near 15 kW/ 
+arXiv:1602.04183 matches: 256 GFLOPS 
+arXiv:1808.05665 matches: 80 hours of training 
+arXiv:1910.12481 matches: 15,431,592 FLOPS 
+arXiv:1910.12481 matches: 54,179,350 FLOPS 
+arXiv:1910.12481 matches: 11.0 TFLOPS 
+arXiv:1910.12481 matches: 61,829,923 FLOPS 
+arXiv:1307.8385 matches: 4 flip-flops 
+arXiv:1907.04882 matches: 295 hours of training 
+arXiv:1107.2788 matches: 5 teraflops 
+arXiv:1107.2788 matches: 6 gigaflops 
+arXiv:1506.06158 matches: 16 hours of training 
+arXiv:1907.03195 matches: 2252 Gigaflops 
+arXiv:1907.03195 matches: 1500 Gigaflops 
+arXiv:2002.12181 matches: 6 flops 
+arXiv:1311.0402 matches: 1.31 TFLOPS 
+arXiv:1808.04450 matches: 56% floating-point operations 
+arXiv:1808.04450 matches: 1.36% floating-point operations 
+arXiv:1708.03832 matches: power imbalance of 198 MW  
+arXiv:1612.00530 matches: 11.6Gflops 
+arXiv:1612.00530 matches: 32.4Gflops 
+arXiv:1612.00530 matches: 7 Gflops 
+arXiv:1612.00530 matches: 168.06 Gflops 
+arXiv:1612.00530 matches: 189.15 Gflops 
+arXiv:1612.00530 matches: 238.4 Gflops 
+arXiv:1612.00530 matches: 217.6 Gflops 
+arXiv:1612.00530 matches: 7.45 Gflops 
+arXiv:1612.00530 matches: 6.80 Gflops 
+arXiv:1612.00530 matches: 9.47 Gflops 
+arXiv:1612.00530 matches: 8.08 Gflops 
+arXiv:1612.00530 matches: 11.6 Gflops 
+arXiv:1612.00530 matches: 11.6 Gflops 
+arXiv:1612.00530 matches: 12.5 Gflops 
+arXiv:1612.00530 matches: 11.6 Gflops 
+arXiv:1612.00530 matches: 10 Gflops 
+arXiv:1808.10239 matches: 134 hours of training 
+arXiv:1611.05141 matches: 0.25 flops 
+arXiv:1611.05141 matches: 0.08 flops 
+arXiv:1910.06591 matches: 53 hours of training 
+arXiv:1808.01039 matches: energy (FORMULA ) of 5J. 
+arXiv:1405.2517 matches: 24GFLOPS 
+arXiv:1405.2517 matches: 400 7.2GFLOPS 
+arXiv:1405.2517 matches: power rating of 3.5W, 
+arXiv:1912.11153 matches: 1400 flops 
+arXiv:1909.03604 matches: 958flops 
+arXiv:1909.03604 matches: 958flops 
+arXiv:1909.03604 matches: 958flops 
+arXiv:1909.03604 matches: 958flops 
+arXiv:1909.03604 matches: 1flops 
+arXiv:1909.03604 matches: 1flops 
+arXiv:2002.11108 matches: 7 flops 
+arXiv:2002.11108 matches: 512 flip flops 
+arXiv:1801.07548 matches: 50 Teraflops 
+arXiv:1503.03832 matches: 220M FLOPS 
+arXiv:1503.03832 matches: 20M FLOPS 
+arXiv:1503.03832 matches: 285M FLOPS 
+arXiv:2005.01972 matches: 26 hours of training 
+arXiv:1409.3404 matches: power demand of 2000W. 
+arXiv:2005.07459 matches: 3 flops 
+arXiv:2005.02046 matches: power is 5 W  
+arXiv:2005.02046 matches: power consumption 0.5 W. 
+arXiv:2005.12519 matches: power is set as 3.3 kW  
+arXiv:1811.10487 matches: power is 1337 kW. 
+arXiv:2007.09588 matches: 200 flip-flops 
+arXiv:2004.10924 matches: 2 FLOPS 
+arXiv:2004.09819 matches: power peak of 541.0 kW  
+arXiv:1702.06005 matches: power demand of 9.8 kW  
+arXiv:1702.06005 matches: power demand of 9.8 kW  
+arXiv:1811.05618 matches: 1,094 floating point operations 
+arXiv:1503.05733 matches: energy consumption of 1 Joule. 
+arXiv:1704.04802 matches: power (maximum 100 W  
+arXiv:1704.04802 matches: power of 0.7 kW  
+arXiv:1912.00215 matches: 6 hours of training 
+arXiv:1412.7006 matches: 5 TFLOPS 
+arXiv:2006.11493 matches: power order of 1000 MW  
+arXiv:1701.00958 matches: energy consumption is 200Wh 
+arXiv:1607.04908 matches: 2.4 Pflops 
+arXiv:1507.05795 matches: power production of 586 kW  
+arXiv:1507.05795 matches: power production of 398 MW. 
+arXiv:1412.7479 matches: 100 hours of training 
+arXiv:1311.0590 matches: 1.15 GFLOPS 
+arXiv:1909.09993 matches: 240 hours of training 
+arXiv:1305.0983 matches: energy capacity is 40 kWh 
+arXiv:2001.11134 matches: power demand and 25 MW  
+arXiv:2004.04865 matches: power is 108.26944 W, 
+arXiv:1704.01127 matches: 29.1 PFLOPS 
+arXiv:1704.01127 matches: 250 GFLOPS 
+arXiv:1704.01127 matches: 218 GFLOPS 
+arXiv:2004.02003 matches: 6.1 TeraFLOPS 
+arXiv:1712.07108 matches: 960 hours of training 
+arXiv:1603.03301 matches: 2 teraflops 
+arXiv:1603.03301 matches: 2 teraflops 
+arXiv:1603.03301 matches: 2 teraflops 
+arXiv:1307.2100 matches: 64 GFLOPS 
+arXiv:1307.2100 matches: 72.6 GFLOPS 
+arXiv:1909.06962 matches: energy is 4kWh 
+arXiv:2007.08826 matches: 10 hours of training 
+arXiv:1804.02941 matches: 32-bit floating point operations 
+arXiv:1810.05726 matches: power consumption of 15 W. 
+arXiv:1708.06290 matches: 800 Gflops 
+arXiv:1708.06290 matches: 1200 Gflops 
+arXiv:1708.06290 matches: 70 Gflops 
+arXiv:1708.06290 matches: 300 Gflops 
+arXiv:1708.06290 matches: 800 Gflops 
+arXiv:1708.06290 matches: 165 Gflops 
+arXiv:1708.06290 matches: 92.5 Gflops 
+arXiv:1912.13201 matches: power of 1594 W/ 
+arXiv:1806.04907 matches: power of 36 W. 
+arXiv:1808.06992 matches: 30.83 GFLOPS 
+arXiv:1808.06992 matches: 1.12 GFLOPS 
+arXiv:1808.06992 matches: 0.011 GFLOPS 
+arXiv:1808.06992 matches: 1.08 GFLOPS 
+arXiv:1808.06992 matches: 2.08 GFLOPS 
+arXiv:1808.06992 matches: 0.054 GFLOPS 
+arXiv:1808.06992 matches: 0.0082 GFLOPS 
+arXiv:1811.12814 matches: 30% GFLOPS 
+arXiv:1602.08139 matches: 1.2 Gflops 
+arXiv:1602.08139 matches: 1.7 Mflops 
+arXiv:1602.08139 matches: 48.4 Mflops 
+arXiv:1302.3932 matches: power consumption of 3 kW, 
+arXiv:1907.06696 matches: 0.40 Petaflops 
+arXiv:1907.06696 matches: 5.0 Petaflops 
+arXiv:2006.06459 matches: power below 15 kW  
+arXiv:1911.04378 matches: 593 flip flops 
+arXiv:1911.04378 matches: 128 flip flops 
+arXiv:1911.04378 matches: 128 flip flops 
+arXiv:1911.04378 matches: 128 flip flops 
+arXiv:1911.04378 matches: 593 flip flops 
+arXiv:1911.04378 matches: 256 flip flops 
+arXiv:1911.04378 matches: 303 flip flops 
+arXiv:1911.04378 matches: 8 flip flops 
+arXiv:1911.04378 matches: 808 flip flops 
+arXiv:1911.04378 matches: 2,056 flip flops 
+arXiv:1911.04378 matches: 2,132 flip flops 
+arXiv:1911.04378 matches: 18,305 flip flops 
+arXiv:1911.04378 matches: 8 flip flops 
+arXiv:1804.06384 matches: power 500 MW, 500 MW, 
+arXiv:1805.03294 matches: 300 hours of training 
+arXiv:1710.11523 matches: power is larger than 2 W. 
+arXiv:1109.0742 matches: 100 teraflops 
+arXiv:1109.0742 matches: 10 petaflops 
+arXiv:1109.0742 matches: 250 teraflops 
+arXiv:2001.00664 matches: power output by 100 MW. 
+arXiv:1309.4887 matches: power consumption of 12kW. 
+arXiv:2005.09966 matches: 30 hours of training 
+arXiv:1912.09257 matches: 12500 hours of training 
+arXiv:2006.11958 matches: power consumption of 122.88W  
+arXiv:1409.8602 matches: 4 flops 
+arXiv:1409.8602 matches: 8 flops 
+arXiv:2006.04093 matches: 1.56 GFLOPS 
+arXiv:2006.04093 matches: 14.7 GFLOPS 
+arXiv:1910.07402 matches: 27 PetaFLOPS 
+arXiv:1910.07402 matches: 143.5 PetaFLOPS 
+arXiv:1703.08982 matches: power was above 1.5MW  
+arXiv:1703.08982 matches: power was below 0.15MW. 
+arXiv:1703.08982 matches: power was below 0.15MW  
+arXiv:1509.08967 matches: 3 hours of training 
+arXiv:1502.05751 matches: 10 floating-point operations 
+arXiv:1502.05751 matches: 15 floating-point operations 
+arXiv:1502.05751 matches: 25 floating-point operations 
+arXiv:2001.08966 matches: power output of 1.8 MW  
+arXiv:1404.3321 matches: 305 TFLOPS 
+arXiv:1901.07659 matches: 16 hours of training 
+arXiv:1811.08321 matches: 44.45% FLOPS 
+arXiv:1811.08321 matches: 36.9% FLOPS 
+arXiv:1107.5372 matches: power consumption is 0.25 W, 
+arXiv:1803.07066 matches: 4.16G FLOPS 
+arXiv:1705.01176 matches: 63,380 joules of energy 
+arXiv:1705.01176 matches: 63,380 joules of energy 
+arXiv:2001.03537 matches: power overhead is 0.3W  
+arXiv:1904.04294 matches: 2 hours of training 
+arXiv:1510.08985 matches: 80 hours of training 
+arXiv:2006.04055 matches: power consumption is 3.2W  
+arXiv:1802.07170 matches: 2,573 GFLOPS 
+arXiv:1801.03641 matches: power is less than 1 W, 
+arXiv:1910.07204 matches: 960 hours of training 
+arXiv:1703.05381 matches: power up to 200 kW  
+arXiv:1703.05381 matches: power is limited to 22 kW  
+arXiv:1606.04487 matches: 7 TFLOPS 
+arXiv:1606.04487 matches: 0.67 TFLOPS 
+arXiv:1606.04487 matches: 4.89 TFLOPS 
+arXiv:1606.04487 matches: 1.2 TFLOPS 
+arXiv:1606.04487 matches: 8 TFLOPS 
+arXiv:1606.04487 matches: 1.4 TFLOPS 
+arXiv:1606.04487 matches: 1 TFLOPS 
+arXiv:1606.04487 matches: 4 TFLOPS 
+arXiv:1606.04487 matches: 0.67 TFLOPS 
+arXiv:1606.04487 matches: 1.23 TFLOPS 
+arXiv:1606.04487 matches: 665.6 TFLOPS 
+arXiv:1606.04487 matches: 1.2 TFLOPS 
+arXiv:1606.04487 matches: 0.7 TFLOPS 
+arXiv:1606.04487 matches: 4.8 TFLOPS 
+arXiv:1606.04487 matches: 0.7 TFLOPS 
+arXiv:1812.08918 matches: power of 5.12W. 
+arXiv:1305.4996 matches: power is less than 1550Watt. 
+arXiv:1912.11041 matches: 960 hours training 
+arXiv:1610.05812 matches: 80 hours of training 
+arXiv:1905.08764 matches: 15.7 TFLOPS 
+arXiv:1905.08764 matches: 13.4 TFLOPS 
+arXiv:1910.13349 matches: 4GFLOPS 
+arXiv:1503.06264 matches: power consumption is 408.4W. 
+arXiv:1503.06264 matches: power consumption is 344.8W, 
+arXiv:1702.03192 matches: 3000 GFLOPS 
+arXiv:1909.13759 matches: 70 hours of training 
+arXiv:1808.08686 matches: 1] FPO 
+arXiv:1507.07141 matches: power FORMULA  = 150W  
+arXiv:1912.02288 matches: 72 hours of training 
+arXiv:1909.00700 matches: 1 hours of training 
+arXiv:1909.00700 matches: 31 hours of training 
+arXiv:1810.07063 matches: 2kW of energy 
+arXiv:2001.05218 matches: 10 floating point operations 
+arXiv:1901.10055 matches: 960 hours of training 
+arXiv:1501.02429 matches: power of 4W  
+arXiv:1904.00463 matches: 800GWh energy 
+arXiv:1303.3962 matches: power for them is 4W  
+arXiv:1710.07814 matches: power is 0.1 W  
+arXiv:1905.07529 matches: 600M FLOPS 
+arXiv:1604.01946 matches: 0.4 TFLOPS 
+arXiv:1604.01946 matches: 5.8 TFLOPS 
+arXiv:1902.05657 matches: power consumption was 10.63 W  
+arXiv:1902.05657 matches: power consumption was 10.59 W. 
+arXiv:1909.00101 matches: 3 floating-point operations 
+arXiv:1909.00101 matches: 3 floating-point operations 
+arXiv:2004.11804 matches: 12 hours of training 
+arXiv:2004.11725 matches: 472 GFLOPS 
+arXiv:2004.11725 matches: 1.3 TFLOPS 
+arXiv:2004.11725 matches: power consumption as 0.81 W  
+arXiv:1011.2109 matches: power to 64 Watt  
+arXiv:1910.01077 matches: 12 hours of training 
+arXiv:2007.15115 matches: power plant with 32MW  
+arXiv:1501.03481 matches: power budget of 20W, 
+arXiv:1808.08483 matches: 40 hours of training 
+arXiv:1808.08483 matches: 26 hours of training 
+arXiv:1909.08704 matches: 11.69 petaflops 
+arXiv:2003.04776 matches: 41.6 GFLOPS 
+arXiv:2003.04776 matches: 1164.8 GFLOPS 
+arXiv:1312.6094 matches: power (DRS71S4), 4 kW  
+arXiv:1312.6094 matches: power (DRS112M4) and 11 kW  
+arXiv:2003.02359 matches: 18 flops 
+arXiv:0902.0026 matches: 37.6 Gflops 
+arXiv:1005.5337 matches: 10 MFLOPS 
+arXiv:1005.5337 matches: 2 MFLOPS 
+arXiv:1005.5337 matches: 2 GFLOPS 
+arXiv:1708.07902 matches: 12 hours of training 
+arXiv:1806.08317 matches: 660  FLIP FLOPS 
+arXiv:1505.03819 matches: 1 TFLOPS 
+arXiv:1505.03819 matches: 345 MFLOPS 
+arXiv:1902.00844 matches: power traded by 1.4MW, 
+arXiv:1305.5639 matches: 105 GFLOPS 
+arXiv:1305.5639 matches: 105 GFLOPS 
+arXiv:2005.00781 matches: power of 20 Watt  
+arXiv:1809.00197 matches: 15 hours of training 
+arXiv:1712.05067 matches: 515 GFLOPS 
+arXiv:1712.05067 matches: 9340 GFLOPS 
+arXiv:2002.11882 matches: 12 hours of training 
+arXiv:2002.11882 matches: 3 hours of training 
+arXiv:2002.11882 matches: 12 hours of training 
+arXiv:1410.3104 matches: power of 100W and 200W, 
+arXiv:1606.04427 matches: 16 D.P. floating point operations 
+arXiv:1710.11087 matches: 6 hours of training 
+arXiv:1806.06541 matches: 10 TFLOPS 
+arXiv:1806.06541 matches: 6 TFLOPS 
+arXiv:1806.06541 matches: 20 TFLOPS 
+arXiv:1806.06541 matches: 6 TFLOPS 
+arXiv:2001.07448 matches: power was set as 20 kW  
+arXiv:1011.2115 matches: power to 64 Watt  
+arXiv:1605.00930 matches: 1.2 teraflops 
+arXiv:1710.09617 matches: 000 hours of training 
+arXiv:2006.11141 matches: power generated is 908.6 W. 
+arXiv:1802.03749 matches: 100 floating-point operations 
+arXiv:1902.01829 matches: 850 GFLOPS 
+arXiv:1902.01829 matches: 850 GFLOPS 
+arXiv:1902.01829 matches: 600 GFLOPS 
+arXiv:1807.11254 matches: 80% floating-point operations 
+arXiv:1407.4958 matches: 24 floating point operations 
+arXiv:2005.09940 matches: 2000 hours of training 
+arXiv:1908.11450 matches: 32-bit floating-point operations 
+arXiv:1908.11450 matches: 244.8 GFLOPS 
+arXiv:1908.11450 matches: 57.6 GFLOPS 
+arXiv:1908.11450 matches: 1.92 TFLOPS 
+arXiv:1601.06762 matches: power is 5 W  
+arXiv:1308.0761 matches: 7 petaflops 
+arXiv:1308.0761 matches: 2,9 teraflops 
+arXiv:1308.0761 matches: 6,3 teraflops 
+arXiv:1103.4204 matches: 4 floating point operations 
+arXiv:1801.01174 matches: 13.3 petaFLOPS 
+arXiv:0705.4369 matches: 17 floating-point operations 
+arXiv:1602.00833 matches: power of 1 Watt  
+arXiv:0706.3060 matches: 76 flops 
+arXiv:0706.3060 matches: 19 flops 
+arXiv:1910.12716 matches: power equal to 5W, 
+arXiv:2005.12234 matches: 17.5 kg of carbon  
+arXiv:1903.09627 matches: power (FORMULA 10 W) 
+arXiv:1801.10433 matches: 100 Peta FLOPS 
