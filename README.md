@@ -37,26 +37,34 @@ Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are abl
 **[Query #1](sparql-queries/query1-energy-metrics-fpo.txt):** Get the number of floating-point operations (FPO) that were needed to train the AI models. Answers Q1.
 ![grafik](sparql-queries/query1-energy-metrics-fpo.png)
 
+
 **[Query #2](sparql-queries/query2-energy-metrics-co2-runtime-kWh.txt):** Get several energy metrics (emitted CO2 in kg, run time and energy consumption in kWh) that specify the energy consumption of an AI Model. Answers Q2, Q3 and Q4.
 ![grafik](sparql-queries/query2-energy-metrics-co2-runtime-kWh.png)
+
 
 **[Query #3](sparql-queries/query3-energy-measurement-services.txt):** Get information about a Energy Measurement Service used. Answers Q5.
 ![grafik](sparql-queries/query3-energy-measurement-services.png)
 
+
 **[Query #4](sparql-queries/query4-energy-metrics.txt):** Get the Energy Measurement Metrics that are used. Answers Q6.
 ![grafik](sparql-queries/query4-energy-metrics.png)
+
 
 **[Query #5](sparql-queries/query5-total-number-fpo.txt):** Get the total number how often the metric floating-point operations (FPO) is used. Answers Q7.
 ![grafik](sparql-queries/query5-total-number-fpo.png)
 
+
 **[Query #6](sparql-queries/query6-hardware-gpu-location.txt):** Get information which GPUs and in which number were used to train the AI Model. If available get information where the hardware was located and the corresponding CO2 emission factor of the location. Answers Q8, Q9 and Q10.
 ![grafik](sparql-queries/query6-hardware-gpu-location.png)
+
 
 **[Query #7](sparql-queries/query7-compare-co2-two-models.txt):** Compare the amount of emitted CO2 in kg of two AI Models. Answers Q11.
 ![grafik](sparql-queries/query7-compare-co2-two-models.png)
 
+
 **[Query #8](sparql-queries/query8-software-module-info.txt):** Get informations about the programming language and software modules used to train an AI Model. Answers Q12 and Q13.
 ![grafik](sparql-queries/query8-software-module-info.png)
+
 
 **[Query #9](sparql-queries/query9-publication-project-info.txt):** Get several information about the Publications and Research Projects related to the AI Models. Answers Q14 and Q15.
 ![grafik](sparql-queries/query9-publication-project-info.png)
