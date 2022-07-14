@@ -47,7 +47,7 @@ Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we can ans
 **[Query #5](sparql-queries/query5-total-number-fpo.txt):** Get the total number how often the metric floating-point operations (FPO) is used. Answers Q7.
 ![grafik](sparql-queries/query5-total-number-fpo.png)
 
-**[Query #6](sparql-queries/query6-hardware-gpu-location.txt):** Get information which GPUs and in which number were used to train the AI Model. If available get information where the hardware was located. Answers Q8, Q9 and Q10.
+**[Query #6](sparql-queries/query6-hardware-gpu-location.txt):** Get information which GPUs and in which number were used to train the AI Model. If available get information where the hardware was located and the corresponding CO2 emission factor of the location. Answers Q8, Q9 and Q10.
 ![grafik](sparql-queries/query6-hardware-gpu-location.png)
 
 **[Query #7](sparql-queries/query7-compare-co2-two-models.txt):** Compare the amount of emitted CO2 in kg of two AI Models. Answers Q11.
