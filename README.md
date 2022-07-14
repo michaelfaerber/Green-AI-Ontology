@@ -46,40 +46,21 @@ You can use the following Microsoft Forms to provide your information about your
 ```sparql
 # get infomations about which Energy Measurement Services are used
 # answers Q5
-PREFIX emai: <https://w3id.org/EMAI/>
-
-SELECT * WHERE {
-	?aiModel a emai:AIModel .
-	?aiModel emai:usedEnergyMeasurementService ?emService .
-	?emService emai:hasName ?emServiceName .
-}
 ```
+![grafik](sparql-queries/energy-measurement-services.png)
+
 
 ```sparql
 # get informations about which Energy Measurement Metrics are used
 # answers Q6
-PREFIX emai: <https://w3id.org/EMAI/>
-
-SELECT DISTINCT(?emMetric)
-WHERE {
-	?aiModel a emai:AIModel .
-	?aiModel emai:hasEnergyMetrics ?energyMetrics .
-	?energyMetrics ?emMetric ?emMetricValue .
-}
 ```
+![grafik](sparql-queries/energy-metrics.png)
 
 ```sparql
 # get the total number how often the metric floating-point operations (FPO) is used
 # answers Q7
-PREFIX emai: <https://w3id.org/EMAI/>
-
-SELECT (COUNT(?floatingPointOperations) as ?totalNumberFPO)
-WHERE { 
-	?aiModel a emai:AIModel .
-  	?aiModel emai:hasEnergyMetrics ?energyMetrics .
-  	?energyMetrics emai:hasFPO ?floatingPointOperations . 
-} 
 ```
+![grafik](sparql-queries/total-number-fpo.png)
 
 ```sparql
 # get several information about the hardware used to train an AI Model
@@ -101,19 +82,8 @@ SELECT * WHERE {
 ```sparql
 # compare two AI Models
 # answers Q11
-PREFIX emai: <https://w3id.org/EMAI/>
-
-SELECT * WHERE {
-	?aiModel1 a emai:AIModel .
-	?aiModel2 a emai:AIModel .
-	OPTIONAL {
-		?aiModel1 emai:hasEnergyMetrics ?energyMetrics1 .
-		?aiModel2 emai:hasEnergyMetrics ?energyMetrics2 .
-		?energyMetrics1 emai:hasFPO ?floatingPointOperations1 .
-		?energyMetrics2 emai:hasFPO ?floatingPointOperations2 .
-	}
-}
 ```
+![grafik](sparql-queries/compare-co2-two-models.png)
 
 ```sparql
 # get several information about the software used to train an AI Model
