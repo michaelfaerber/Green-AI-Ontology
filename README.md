@@ -31,7 +31,7 @@ You can use the following Microsoft Forms to provide your information about your
 
 # SPARQL Queries
 
-Based on our created [EMAI Knowledge Graph](emai-knowledge-graph) we can answer all competency Questions we identified. Below you can find the output of the SPARQL queries using our EMAI Knowledge Graph in GraphDB.
+Based on our created [EMAI Knowledge Graph](emai-knowledge-graph) we can answer all competency Questions listed above. In this section you can find the output of the SPARQL queries using our EMAI Knowledge Graph in GraphDB.
 
 [Query #1](emai-knowledge-graph)
 Get the number of floating-point operations (FPO) that were needed to train the AI models.
