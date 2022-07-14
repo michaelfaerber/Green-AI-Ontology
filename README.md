@@ -5,7 +5,7 @@ Our ontology (OWL file) is available at **http://w3id.org/EMAI/ontology**
 
 The ontology was evaluated based on the competency questions given below. Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results are in the section **SPARQL Queries**.
 
-If you want to contribute to successively extend our knowledge graph, you can fill in our questionnaire about energy consumption of AI models: **https://forms.office.com/r/HYd4R9jutX**
+If you want to contribute to successively extend our knowledge graph, you can fill in our questionnaire about the energy consumption of AI models: **https://forms.office.com/r/HYd4R9jutX**
 
 
 # Schema
