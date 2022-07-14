@@ -3,7 +3,7 @@ Modeling AI systems' characteristics of energy consumption and their sustainabil
 
 Our ontology (OWL file) is available at **http://w3id.org/EMAI/ontology**
 
-The ontology was evaluated based on the competency questions given below. Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results are in the section **SPARQL Queries and Knowledge Graph**.
+The ontology was evaluated based on the competency questions given below. Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results are in the section ***SPARQL Queries***.
 
 If you want to contribute to successively extend our knowledge graph, you can fill in our questionnaire about the energy consumption of AI models: **https://forms.office.com/r/HYd4R9jutX**
 
@@ -30,7 +30,7 @@ Main classes and properties of the Energy Measurement of AI Models (EMAI) ontolo
 * Q14: In the context of which research project was the AI Model developed?
 * Q15: Which publication does the AI Model have?
 
-## SPARQL Queries and Knowledge Graph
+## SPARQL Queries
 
 Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions listed above. In this section you can find the output of the corresponding SPARQL queries using our EMAI Knowledge Graph in[ Ontotext's GraphDB graph database](https://graphdb.ontotext.com).
 
