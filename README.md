@@ -8,7 +8,7 @@ The ontology was evaluated based on the competency questions given below. Based 
 If you want to contribute to successively extend our knowledge graph, you can fill in our questionnaire about the energy consumption of AI models: **https://forms.office.com/r/HYd4R9jutX**
 
 
-# Schema
+# Ontology Schema
 Main classes and properties of the Energy Measurement of AI Models (EMAI) ontology (click to enlarge):
 
 <img src="emai-ontology-schema.png" height="609" width="483">
