@@ -29,12 +29,14 @@ You can use the following Microsoft Forms to provide your information about your
 * Q14: In the context of which research project was the AI Model developed?
 * Q15: Which publication does the AI Model have?
 
-# Usage / SPARQL Queries EMAI Knowledge Graph
+# SPARQL Queries
 
-```sparql
-# get the number of floating-point operations (FPO) that were needed to train the AI models.
-# answers Q1 [emai knowledge graph](emai-knowledge-graph)
-```
+Based on our created [EMAI Knowledge Graph](emai-knowledge-graph) we can answer all competency Questions we identified. Below you can find the output of the SPARQL queries using our EMAI Knowledge Graph in GraphDB.
+
+[Query #1](emai-knowledge-graph)
+Get the number of floating-point operations (FPO) that were needed to train the AI models.
+Answers Competency Question Q1
+
 ![grafik](sparql-queries/energy-metrics-fpo.png)
 
 ```sparql
