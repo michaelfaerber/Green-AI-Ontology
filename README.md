@@ -53,7 +53,7 @@ Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are abl
 **[Query #7](sparql-queries/query7-compare-co2-two-models.txt):** Compare the amount of emitted CO2 in kg of two AI Models. Answers Q11.
 ![grafik](sparql-queries/query7-compare-co2-two-models.png)
 
-**[Query #8](sparql-queries/query8-software-module-info.txt):** Get informations about the software and software modules used to train an AI Model. Answers Q12 and Q13.
+**[Query #8](sparql-queries/query8-software-module-info.txt):** Get informations about the programming language and software modules used to train an AI Model. Answers Q12 and Q13.
 ![grafik](sparql-queries/query8-software-module-info.png)
 
 **[Query #9](sparql-queries/query9-publication-project-info.txt):** Get several information about the Publications and Research Projects related to the AI Models. Answers Q14 and Q15.
