@@ -3,9 +3,9 @@ Modeling AI systems' characteristics of energy consumption and their sustainabil
 
 Our ontology (OWL file) is available at **http://w3id.org/EMAI/ontology**
 
-The ontology was evaluated based on the competency questions given below. Based on our constructed email-knowledge graph we can answer all competency questions. The corresponding SPARQL queries and obtained results are in the section *SPARQL Queries*.
+The ontology was evaluated based on the competency questions given below. Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we can answer all competency questions. The corresponding SPARQL queries and obtained results are in the section **SPARQL Queries**.
 
-You can use the following Microsoft Forms to provide your information about your AI model's energy consumption. This will successively increase our knowledge graph and add the data to the Linked Open Data Cloud: **https://forms.office.com/r/HYd4R9jutX**
+If you want to contribute to successively extend our knowledge graph, you can fill in our questionnaire about energy consumption of AI models: **https://forms.office.com/r/HYd4R9jutX**
 
 [emai knowledge graph](emai-knowledge-graph)
 
@@ -31,7 +31,7 @@ You can use the following Microsoft Forms to provide your information about your
 
 # SPARQL Queries
 
-Based on our created [EMAI Knowledge Graph](emai-knowledge-graph) we can answer all competency Questions listed above. In this section you can find the output of the SPARQL queries using our EMAI Knowledge Graph in GraphDB.
+Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we can answer all competency Questions listed above. In this section you can find the output of the SPARQL queries using our EMAI Knowledge Graph in GraphDB.
 
 **[Query #1](sparql-queries/query1-energy-metrics-fpo.txt):** Get the number of floating-point operations (FPO) that were needed to train the AI models. Answers Q1.
 ![grafik](sparql-queries/query1-energy-metrics-fpo.png)
