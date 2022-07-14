@@ -33,7 +33,7 @@ You can use the following Microsoft Forms to provide your information about your
 
 ```sparql
 # get the number of floating-point operations (FPO) that were needed to train the AI models.
-# answers Q1
+# answers Q1 [emai knowledge graph](emai-knowledge-graph)
 ```
 ![grafik](sparql-queries/energy-metrics-fpo.png)
 
