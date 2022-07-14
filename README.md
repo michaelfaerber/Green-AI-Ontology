@@ -35,6 +35,7 @@ Based on our created [EMAI Knowledge Graph](emai-knowledge-graph) we can answer 
 
 **[Query #1](emai-knowledge-graph):** Get the number of floating-point operations (FPO) that were needed to train the AI models.
 Answers Competency Question Q1.
+
 ![grafik](sparql-queries/energy-metrics-fpo.png)
 
 ```sparql
