@@ -8,12 +8,12 @@ The ontology was evaluated based on the competency questions given below. Based 
 If you want to contribute to successively extend our knowledge graph, you can fill in our questionnaire about the energy consumption of AI models: **https://forms.office.com/r/HYd4R9jutX**
 
 
-# Ontology Schema
+## Ontology Schema
 Main classes and properties of the Energy Measurement of AI Models (EMAI) ontology (click to enlarge):
 
 <img src="emai-ontology-schema.png" height="609" width="483">
 
-# Competency Questions
+## Competency Questions
 * Q1: How many floating-point operations (FPO) did the AI Model need to be trained?
 * Q2: How much kg of CO2eq did the AI Model generate?
 * Q3: How long did it take to train the AI Model?
@@ -30,7 +30,7 @@ Main classes and properties of the Energy Measurement of AI Models (EMAI) ontolo
 * Q14: In the context of which research project was the AI Model developed?
 * Q15: Which publication does the AI Model have?
 
-# SPARQL Queries
+## SPARQL Queries
 
 Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions listed above. In this section you can find the output of the corresponding SPARQL queries using our EMAI Knowledge Graph in[ Ontotext's GraphDB graph database](https://graphdb.ontotext.com).
 
@@ -62,7 +62,7 @@ Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are abl
 ![grafik](sparql-queries/query9-publication-project-info.png)
 
 
-# Related Work
+## Related Work
 The following papers have been considered for creating the ontology (ranked by decreasing citation count):
 
 ![grafik](https://user-images.githubusercontent.com/5419543/156885466-1be3b3c5-750d-4a91-9265-29e8c577d2e1.png)
