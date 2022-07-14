@@ -1,0 +1,14 @@
+PREFIX emai: <https://w3id.org/EMAI/ontology/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?aiModel_name ?energyMService_name ?energyMService_KgCO2 ?energyMService_kWH 
+?energyMService_url
+WHERE {
+	?aiModel a emai:AIModel .
+    ?aiModel dcterms:title ?aiModel_name .
+    ?aiModel emai:usedEnergyMeasurementServiceAllExperiments ?energyMeasureService .
+    ?energyMeasureService emai:hasName ?energyMService_name .
+	?energyMeasureService emai:hasKgOfCO2eq ?energyMService_KgCO2 .
+    ?energyMeasureService emai:haskWh ?energyMService_kWH .
+    ?energyMeasureService emai:hasURL ?energyMService_url .
+}

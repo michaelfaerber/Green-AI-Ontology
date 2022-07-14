@@ -1,0 +1,13 @@
+PREFIX emai: <https://w3id.org/EMAI/ontology/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?aiModel ?aiModel_name ?module_url ?prog_lang
+WHERE {
+	?aiModel a emai:AIModel .
+    ?aiModel dcterms:title "DeepAPI" .
+    ?aiModel dcterms:title ?aiModel_name .
+    ?aiModel emai:hasSoftwareSettings ?softwareSettings .
+    ?softwareSettings emai:hasModule ?module .
+    ?module emai:hasURL ?module_url .
+    ?softwareSettings emai:hasProgrammingLanguage ?prog_lang .
+}

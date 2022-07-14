@@ -1,0 +1,16 @@
+PREFIX emai: <https://w3id.org/EMAI/ontology/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?aiModel ?aiModelName ?hasKgOfCO2eq ?runTimeHours ?energy_kWh
+WHERE {
+    ?aiModel a emai:AIModel .
+    ?aiModel dcterms:title ?aiModelName .
+    ?aiModel emai:hasEnergyMetrics ?energyMetrics .
+    { ?energyMetrics emai:hasKgOfCO2eq ?hasKgOfCO2eq. } 
+    UNION { 
+        ?aiModel emai:hasFinalRunTime ?runTimeHours . } 
+    UNION { 
+        ?energyMetrics emai:haskWh ?energy_kWh .  } 
+}
+ORDER BY ?aiModel
+LIMIT 15
