@@ -22,7 +22,7 @@ You can use the following Microsoft Forms to provide your information about your
 * Q7: How many times was the metric "floating-point operations" (FPO) used to indicate the energy consumption of AI models?
 * Q8: What are the hardware settings used for training the AI Model?
 * Q9: In which region is the hardware used to train the AI Model? (Background: In a carbon-friendly region?)
-* Q10: Which provider (cloud service) was used to train the AI Model?
+* Q10: How many GPUs were used to train the AI Model?
 * Q11: Did AI Model A or AI Model B generate more CO2?
 * Q12: Which programming language was used to train the AI Model?
 * Q13: What software modules were used to train the AI Model?
