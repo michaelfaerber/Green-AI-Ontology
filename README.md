@@ -1,11 +1,11 @@
-# The Energy Measurement of AI Models Ontology (EMAI)
-Modeling AI systems' characteristics of energy consumption and their sustainability level as an extension of the FAIR data principles has been considered only rudimentarily. In this work, we propose an **ontology for modeling the energy consumption and other environmental aspects of AI models**. The ontology can be used in various scenarios, ranging from comprehensive research data management to strategic controlling of institutions and environmental efforts in politics.
+# *EMAI*: Energy Measurement of AI Models Ontology
+Modeling AI systems' characteristics of energy consumption and their sustainability level as an extension of the FAIR data principles has been considered only rudimentarily. Here, we propose an **ontology for modeling the energy consumption and other environmental aspects of AI models**. The ontology can be used in various scenarios, ranging from comprehensive research data management to strategic controlling of institutions and environmental efforts in politics.
 
 Our ontology (OWL file) is available at **http://w3id.org/EMAI/ontology**
 
-The ontology was evaluated based on the competency questions given below. Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results are in the section ***SPARQL Queries***.
+The ontology was evaluated based on the competency questions given below. Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results can be found in the section ***SPARQL Queries***.
 
-If you want to contribute to successively extend our knowledge graph, you can fill in our questionnaire about the energy consumption of AI models: **https://forms.office.com/r/HYd4R9jutX**
+If you want to contribute to extend our knowledge graph, feel free to use our questionnaire: **https://forms.office.com/r/HYd4R9jutX**
 
 
 ## Ontology Schema
@@ -32,7 +32,7 @@ Main classes and properties of the Energy Measurement of AI Models (EMAI) ontolo
 
 ## SPARQL Queries
 
-Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions listed above. In this section you can find the output of the corresponding SPARQL queries using our EMAI Knowledge Graph in[ Ontotext's GraphDB graph database](https://graphdb.ontotext.com).
+Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions listed above. In the following you can find the output of the corresponding SPARQL queries using our EMAI Knowledge Graph stored in[ Ontotext's GraphDB graph database](https://graphdb.ontotext.com).
 
 **[Query #1](sparql-queries/query1-energy-metrics-fpo.txt):** Get the number of floating-point operations (FPO) that were needed to train the AI models. Answers Q1.
 ![grafik](sparql-queries/query1-energy-metrics-fpo.png)
