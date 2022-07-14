@@ -9,7 +9,9 @@ If you want to contribute to successively extend our knowledge graph, you can fi
 
 
 # Schema
-![grafik](emai-ontology-schema.png){ width=50% }
+![grafik](emai-ontology-schema.png)
+
+<img src="emai-ontology-schema.png" width="48">
 
 # Competency Questions
 * Q1: How many floating-point operations (FPO) did the AI Model need to be trained?
