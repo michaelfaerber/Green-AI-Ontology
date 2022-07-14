@@ -33,89 +33,33 @@ You can use the following Microsoft Forms to provide your information about your
 
 Based on our created [EMAI Knowledge Graph](emai-knowledge-graph) we can answer all competency Questions listed above. In this section you can find the output of the SPARQL queries using our EMAI Knowledge Graph in GraphDB.
 
-**[Query #1](emai-knowledge-graph):** Get the number of floating-point operations (FPO) that were needed to train the AI models.
-Answers Competency Question Q1.
-
+**[Query #1]():** Get the number of floating-point operations (FPO) that were needed to train the AI models. Answers Q1.
 ![grafik](sparql-queries/energy-metrics-fpo.png)
 
-```sparql
-# get several energy metrics that specify the energy consumption of an AI Model
-# answers Q2, Q3 and Q4
-```
-![grafik](sparql-queries/energy-metrics-co2-runtime-kWh.png)
+**[Query #2]():** Get several energy metrics (emitted CO2 in kg, run time and energy consumption in kWh) that specify the energy consumption of an AI Model. Answers Q2, Q3 and Q4.
+![grafik](sparql-queries/)
 
-```sparql
-# get infomations about which Energy Measurement Services are used
-# answers Q5
-```
-![grafik](sparql-queries/energy-measurement-services.png)
+**[Query #3]():** Get information about a Energy Measurement Service used. Answers Q5.
+![grafik](sparql-queries/)
 
+**[Query #4]():** Get the Energy Measurement Metrics that are used. Answers Q6.
+![grafik](sparql-queries/)
 
-```sparql
-# get informations about which Energy Measurement Metrics are used
-# answers Q6
-```
-![grafik](sparql-queries/energy-metrics.png)
+**[Query #5]():** Get the total number how often the metric floating-point operations (FPO) is used. Answers Q7.
+![grafik](sparql-queries/)
 
-```sparql
-# get the total number how often the metric floating-point operations (FPO) is used
-# answers Q7
-```
-![grafik](sparql-queries/total-number-fpo.png)
+**[Query #6]():** get several information about the hardware used to train an AI Model. answers Q8, Q9 and Q10
+![grafik](sparql-queries/)
 
-```sparql
-# get several information about the hardware used to train an AI Model
-# answers Q8, Q9 and Q10
-PREFIX emai: <https://w3id.org/EMAI/>
+**[Query #7]():** compare two AI Models. answers Q11
+![grafik](sparql-queries/)
 
-SELECT * WHERE {
-	?aiModel a emai:AIModel .
-	?aiModel emai:hasHardwareSettings ?hardwareSettings .
-	OPTIONAL {
-	  	?hardwareSettings emai:hasHardwareType ?hardwareType .
-		?hardwareSettings emai:hasMemory ?memory .
-		?hardwareSettings emai:hasLocation ?location .
-		?hardwareSettings emai:hasProvider ?provider .
-	}
-}
-```
+**[Query #8]():** get several information about the software used to train an AI Model. answers Q12 and Q13
+![grafik](sparql-queries/)
 
-```sparql
-# compare two AI Models
-# answers Q11
-```
-![grafik](sparql-queries/compare-co2-two-models.png)
+**[Query #9]():** get several information about Publications and Research Projects related to the AI Models. answers Q14 and Q15
+![grafik](sparql-queries/)
 
-```sparql
-# get several information about the software used to train an AI Model
-# answers Q12 and Q13
-PREFIX emai: <https://w3id.org/EMAI/>
-
-SELECT * WHERE {
-	?aiModel a emai:AIModel .
-	?aiModel emai:hasSoftwareSettings ?softwareSettings .
-	OPTIONAL {
-		?softwareSettings emai:hasProgrammingLanguage ?programmingLanguage .
-		?softwareSettings emai:hasModule ?module .
-		?module emai:hasName ?moduleName .
-	}
-}
-```
-
-```sparql
-# get several information about Publications and Research Projects related to the AI Models
-# answers Q14 and Q15
-PREFIX emai: <https://w3id.org/EMAI/>
-PREFIX irao: <http://ontology.ethereal.cz/irao/>
-
-SELECT * WHERE {
-	?aiModel a emai:AIModel .
-	?aiModel irao:hasPublication ?relatedPublication .
-	?aiModel irao:hasResearchProject ?researchProject .
-}
-
-```
-![grafik](sparql-queries/publication-project-info.png)
 
 # Related Work
 The following papers have been considered for creating the ontology (ranked by decreasing citation count):
