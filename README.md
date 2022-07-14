@@ -10,6 +10,7 @@ If you want to contribute to successively extend our knowledge graph, you can fi
 
 # Schema
 Main classes and properties of the Energy Measurement of AI Models (EMAI) ontology (click to enlarge):
+
 <img src="emai-ontology-schema.png" height="609" width="483">
 
 # Competency Questions
