@@ -56,7 +56,7 @@ Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we can ans
 **[Query #8](sparql-queries/query8-software-module-info.txt):** get several information about the software used to train an AI Model. answers Q12 and Q13
 ![grafik](sparql-queries/query8-software-module-info.png)
 
-**[Query #9](sparql-queries/query9-publication-project-info.txt):** get several information about Publications and Research Projects related to the AI Models. answers Q14 and Q15
+**[Query #9](sparql-queries/query9-publication-project-info.txt):** Get several information about the Publications and Research Projects related to the AI Models. Answers Q14 and Q15.
 ![grafik](sparql-queries/query9-publication-project-info.png)
 
 
