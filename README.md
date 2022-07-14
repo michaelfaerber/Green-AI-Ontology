@@ -112,7 +112,9 @@ SELECT * WHERE {
 	?aiModel irao:hasPublication ?relatedPublication .
 	?aiModel irao:hasResearchProject ?researchProject .
 }
+
 ```
+![grafik](sparql-queries/publication-project-info.png)
 
 # Related Work
 The following papers have been considered for creating the ontology (ranked by decreasing citation count):
