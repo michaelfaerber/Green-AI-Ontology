@@ -29,7 +29,7 @@ You can use the following Microsoft Forms to provide your information about your
 * Q14: In the context of which research project was the AI Model developed?
 * Q15: Which publication does the AI Model have?
 
-# Usage
+# Usage / SPARQL Queries EMAI Knowledge Graph
 
 ```sparql
 # get the number of floating-point operations (FPO) that were needed to train the AI models.
