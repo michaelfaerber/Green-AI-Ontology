@@ -30,7 +30,7 @@ If you want to contribute to successively extend our knowledge graph, you can fi
 
 # SPARQL Queries
 
-Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions listed above. In this section you can find the output of the SPARQL queries using our EMAI Knowledge Graph in GraphDB.
+Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions listed above. In this section you can find the output of the corresponding SPARQL queries using our EMAI Knowledge Graph in GraphDB.
 
 **[Query #1](sparql-queries/query1-energy-metrics-fpo.txt):** Get the number of floating-point operations (FPO) that were needed to train the AI models. Answers Q1.
 ![grafik](sparql-queries/query1-energy-metrics-fpo.png)
