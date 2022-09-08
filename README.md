@@ -1,15 +1,15 @@
-# *EMAI*: Energy Measurement of AI Models Ontology
+# The *Green AI Ontology*: An Ontology for the Energy Measurement of AI Models
 Modeling AI systems' characteristics of energy consumption and their sustainability level as an extension of the FAIR data principles has been considered only rudimentarily. Here, we propose an **ontology for modeling the energy consumption and other environmental aspects of AI models**. The ontology can be used in various scenarios, ranging from comprehensive research data management to strategic controlling of institutions and environmental efforts in politics.
 
-Our ontology (OWL file) is available at **http://w3id.org/EMAI/ontology**
+Our ontology (OWL file) is available at **http://w3id.org/Green-AI/ontology**
 
-The ontology was evaluated based on the competency questions given below. Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results can be found in the section ***SPARQL Queries***.
+The ontology was evaluated based on the competency questions given below. Based on our constructed [Green AI Knowledge Graph](green-ai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results can be found in the section ***SPARQL Queries***.
 
 If you want to contribute to extend our knowledge graph, feel free to use our questionnaire: **https://forms.office.com/r/HYd4R9jutX**
 
 
 ## Ontology Schema
-Main classes and properties of the Energy Measurement of AI Models (EMAI) ontology (click to enlarge):
+Main classes and properties of the Green AI Ontology (click to enlarge):
 
 <img src="emai-ontology-schema.png" height="609" width="483">
 
