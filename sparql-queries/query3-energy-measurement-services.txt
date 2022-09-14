@@ -1,0 +1,14 @@
+PREFIX gai: <https://w3id.org/Green-AI-Ontology/ontology/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?aiModel_name ?energyMService_name ?energyMService_KgCO2 ?energyMService_kWH 
+?energyMService_url
+WHERE {
+	?aiModel a gai:AIModel .
+    ?aiModel dcterms:title ?aiModel_name .
+    ?aiModel gai:usedEnergyMeasurementServiceAllExperiments ?energyMeasureService .
+    ?energyMeasureService gai:hasName ?energyMService_name .
+	?energyMeasureService gai:hasKgOfCO2eq ?energyMService_KgCO2 .
+    ?energyMeasureService gai:haskWh ?energyMService_kWH .
+    ?energyMeasureService gai:hasURL ?energyMService_url .
+}

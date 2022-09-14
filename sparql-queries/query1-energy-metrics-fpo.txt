@@ -1,0 +1,10 @@
+PREFIX gai: <https://w3id.org/Green-AI-Ontology/ontology/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?aiModel ?aiModelName ?floatingPointOperations
+WHERE {
+	?aiModel a gai:AIModel .
+    ?aiModel dcterms:title ?aiModelName .
+	?aiModel gai:hasEnergyMetrics ?energyMetrics .
+	?energyMetrics gai:hasFPO ?floatingPointOperations . 
+}

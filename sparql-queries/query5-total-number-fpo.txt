@@ -1,0 +1,8 @@
+PREFIX gai: <https://w3id.org/Green-AI-Ontology/ontology/>
+
+SELECT (COUNT(?floatingPointOperations) as ?totalNumber_floatingPointOperations)
+WHERE { 
+	?aiModel a gai:AIModel .
+  	?aiModel gai:hasEnergyMetrics ?energyMetrics .
+  	?energyMetrics gai:hasFPO ?floatingPointOperations . 
+}

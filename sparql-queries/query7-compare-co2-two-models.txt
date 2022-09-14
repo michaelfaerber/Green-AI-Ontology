@@ -1,0 +1,16 @@
+PREFIX gai: <https://w3id.org/Green-AI-Ontology/ontology/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?aiModel_name1 ?aiModel_name2 ?aiModel1_KgOfCO2eq ?aiModel2_KgOfCO2eq
+WHERE {
+    <https://greenai-kg.org/entity/aimodel/1000001> dcterms:title ?aiModel_name1 .
+    <https://greenai-kg.org/entity/aimodel/1000013> dcterms:title ?aiModel_name2 .
+	?aiModel_1 dcterms:title ?aiModel_name1 .
+    ?aiModel_2 dcterms:title ?aiModel_name2 .  
+    OPTIONAL {
+		?aiModel_1 gai:hasEnergyMetrics ?energyMetrics_1 .
+		?aiModel_2 gai:hasEnergyMetrics ?energyMetrics_2 .
+		?energyMetrics_1 gai:hasKgOfCO2eq ?aiModel1_KgOfCO2eq .
+		?energyMetrics_2 gai:hasKgOfCO2eq ?aiModel2_KgOfCO2eq .
+    } 
+}

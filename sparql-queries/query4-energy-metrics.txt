@@ -1,0 +1,8 @@
+PREFIX gai: <https://w3id.org/Green-AI-Ontology/ontology/>
+
+SELECT DISTINCT ?energy_metrics
+WHERE {
+	?aiModel a gai:AIModel .
+    ?aiModel gai:hasEnergyMetrics ?energyMetric .
+    ?energyMetric ?energy_metrics ?energy_metrics_value .
+}

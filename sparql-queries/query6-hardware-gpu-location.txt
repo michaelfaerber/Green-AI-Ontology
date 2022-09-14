@@ -1,0 +1,20 @@
+PREFIX gai: <https://w3id.org/Green-AI-Ontology/ontology/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?aiModel ?aiModel_name ?gpu_identifier ?amound_gpus_used 
+?location_name ?local_emission_factor
+WHERE {
+	?aiModel a gai:AIModel .
+    ?aiModel dcterms:title ?aiModel_name .
+    ?aiModel gai:hasHardwareSettings ?hardwareSettings .
+    ?hardwareSettings gai:hasGPU ?gpu .
+    ?gpu gai:hasIdentifier ?gpu_identifier .
+    ?hardwareSettings gai:hasGPUCount ?gpu_count .
+    ?gpu_count gai:count ?amound_gpus_used.
+    OPTIONAL {
+        ?hardwareSettings gai:hasLocation ?location .
+        ?location gai:hasName ?location_name .
+        ?location gai:hasEnergyMixEmissionFactor ?local_emission_factor .
+    }
+}
+LIMIT 15
