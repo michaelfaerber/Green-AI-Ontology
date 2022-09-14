@@ -81,9 +81,8 @@ Please cite our [paper](https://www.aifb.kit.edu/images/f/f1/GreenAI_ISWC2022.pd
 @article{Faerber2021gaiontology,
   author    = {Michael F{\"{a}}rber and
                David Lamprecht},
-  booktitle = "Proceedings of the 21st International Semantic Web Conference (ISWC'22)", 
-  title     = "The Green AI Ontology: An Ontology for Modeling the Energy Consumption of AI Models",
-  journal   = {Quantitative Science Studies}, 
+  booktitle = {Proceedings of the 21st International Semantic Web Conference (ISWC'22)}, 
+  title     = "{The Green AI Ontology: An Ontology for Modeling the Energy Consumption of AI Models}",
   year      = {2022}
 }
 ```
