@@ -1,0 +1,41 @@
+ai_model,ai_model_name
+https://greenai-kg.org/entity/aimodel/1000001,GPT-NeoX-20B 
+https://greenai-kg.org/entity/aimodel/1000002,DistilBERT
+https://greenai-kg.org/entity/aimodel/1000003,UNITER-base
+https://greenai-kg.org/entity/aimodel/1000004,UNITER-large
+https://greenai-kg.org/entity/aimodel/1000005,ProphetNet
+https://greenai-kg.org/entity/aimodel/1000006,GPT-3 Small
+https://greenai-kg.org/entity/aimodel/1000007,GPT-3 Medium
+https://greenai-kg.org/entity/aimodel/1000008,GPT-3 Large
+https://greenai-kg.org/entity/aimodel/1000009,GPT-3  XL
+https://greenai-kg.org/entity/aimodel/1000010,GPT-3 2.7B
+https://greenai-kg.org/entity/aimodel/1000011,GPT-3 6.7B
+https://greenai-kg.org/entity/aimodel/1000012,GPT-3 13B
+https://greenai-kg.org/entity/aimodel/1000013,GPT-3 175B
+https://greenai-kg.org/entity/aimodel/1000014,OPT-175B
+https://greenai-kg.org/entity/aimodel/1000015,XLNet-Large
+https://greenai-kg.org/entity/aimodel/1000016,ELECTRA-Small
+https://greenai-kg.org/entity/aimodel/1000017,ELECTRA-Small++
+https://greenai-kg.org/entity/aimodel/1000018,ELECTRA-Base
+https://greenai-kg.org/entity/aimodel/1000019,ELECTRA-Base++
+https://greenai-kg.org/entity/aimodel/1000020,ELECTRA-1.75M
+https://greenai-kg.org/entity/aimodel/1000021,BERT-Base
+https://greenai-kg.org/entity/aimodel/1000022,BERT-Large
+https://greenai-kg.org/entity/aimodel/1000023,ALBERT-Base
+https://greenai-kg.org/entity/aimodel/1000024,ALBERT-Large
+https://greenai-kg.org/entity/aimodel/1000025,ALBERT-XLarge
+https://greenai-kg.org/entity/aimodel/1000026,ALBERT-XXLarge
+https://greenai-kg.org/entity/aimodel/1000027,RoBERTa-Base
+https://greenai-kg.org/entity/aimodel/1000028,RoBERTa-Large
+https://greenai-kg.org/entity/aimodel/1000029,Artemis
+https://greenai-kg.org/entity/aimodel/1000030,LS-Net
+https://greenai-kg.org/entity/aimodel/1000031,MSDNet for medical image fusion
+https://greenai-kg.org/entity/aimodel/1000032,CP2K
+https://greenai-kg.org/entity/aimodel/1000033,DeepAPI
+https://greenai-kg.org/entity/aimodel/1000034,CEREBRUM
+https://greenai-kg.org/entity/aimodel/1000035,DenseNet
+https://greenai-kg.org/entity/aimodel/1000036,DenseNet-C
+https://greenai-kg.org/entity/aimodel/1000037,DenseNet-BC
+https://greenai-kg.org/entity/aimodel/1000038,Stylized Adversarial Defense (SAT)
+https://greenai-kg.org/entity/aimodel/1000039,Rubik’s cube++
+https://greenai-kg.org/entity/aimodel/1000040,TTFNet-53 
