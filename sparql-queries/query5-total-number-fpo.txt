@@ -1,8 +1,0 @@
-PREFIX emai: <https://w3id.org/EMAI/ontology/>
-
-SELECT (COUNT(?floatingPointOperations) as ?totalNumber_floatingPointOperations)
-WHERE { 
-	?aiModel a emai:AIModel .
-  	?aiModel emai:hasEnergyMetrics ?energyMetrics .
-  	?energyMetrics emai:hasFPO ?floatingPointOperations . 
-}

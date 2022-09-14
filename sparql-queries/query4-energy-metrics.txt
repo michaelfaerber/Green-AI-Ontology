@@ -1,8 +1,0 @@
-PREFIX emai: <https://w3id.org/EMAI/ontology/>
-
-SELECT DISTINCT ?energy_metrics
-WHERE {
-	?aiModel a emai:AIModel .
-    ?aiModel emai:hasEnergyMetrics ?energyMetric .
-    ?energyMetric ?energy_metrics ?energy_metrics_value .
-}
