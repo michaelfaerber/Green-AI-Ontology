@@ -32,7 +32,7 @@ Main classes and properties of the Green AI Ontology (click to enlarge):
 
 ## SPARQL Queries
 
-Based on our constructed [EMAI Knowledge Graph](emai-knowledge-graph) we are able to answer all competency questions listed above. In the following you can find the output of the corresponding SPARQL queries using our EMAI Knowledge Graph stored in[ Ontotext's GraphDB graph database](https://graphdb.ontotext.com).
+Based on our constructed [Green AI Knowledge Graph](green-ai-knowledge-graph) we are able to answer all competency questions listed above. In the following you can find the output of the corresponding SPARQL queries using our EMAI Knowledge Graph stored in[ Ontotext's GraphDB graph database](https://graphdb.ontotext.com).
 
 **[Query #1](sparql-queries/query1-energy-metrics-fpo.txt):** Get the number of floating-point operations (FPO) that were needed to train the AI models. Answers Q1.
 ![grafik](sparql-queries/query1-energy-metrics-fpo.png)
