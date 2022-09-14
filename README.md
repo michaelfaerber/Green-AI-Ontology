@@ -74,3 +74,16 @@ Based on our constructed [Green AI Knowledge Graph](green-ai-knowledge-graph) we
 The following papers have been considered for creating the ontology (ranked by decreasing citation count):
 
 ![grafik](https://user-images.githubusercontent.com/5419543/156885466-1be3b3c5-750d-4a91-9265-29e8c577d2e1.png)
+
+## How to Cite
+Please cite our [paper](https://www.aifb.kit.edu/images/f/f1/GreenAI_ISWC2022.pdf) as follows:
+```
+@article{Faerber2021gaiontology,
+  author    = {Michael F{\"{a}}rber and
+               David Lamprecht},
+  booktitle = "Proceedings of the 21st International Semantic Web Conference (ISWC'22)", 
+  title     = "The Green AI Ontology: An Ontology for Modeling the Energy Consumption of AI Models",
+  journal   = {Quantitative Science Studies}, 
+  year      = {2022}
+}
+```
