@@ -11,7 +11,7 @@ If you want to contribute to extend our knowledge graph, feel free to use our qu
 ## Ontology Schema
 Main classes and properties of the Green AI Ontology (click to enlarge):
 
-<img src="emai-ontology-schema.png" height="609" width="483">
+<img src="green-ai-ontology-schema.png" height="609" width="483">
 
 ## Competency Questions
 * Q1: How many floating-point operations (FPO) did the AI Model need to be trained?
