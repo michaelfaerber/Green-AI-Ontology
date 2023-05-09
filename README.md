@@ -3,7 +3,7 @@ Modeling AI systems' characteristics of energy consumption and their sustainabil
 
 Our ontology (OWL file) is available at **https://w3id.org/Green-AI-Ontology/ontology**
 
-For a overview of the ontology see our [ISWC2022 Poster](Green-AI-Ontology_Poster_ISWC2022.pdf).
+For an overview of the ontology see our [ISWC2022 Poster](Green-AI-Ontology_Poster_ISWC2022.pdf).
 
 The ontology was evaluated based on the competency questions given below. Based on our constructed [Green AI Knowledge Graph](green-ai-knowledge-graph) we are able to answer all competency questions. The corresponding SPARQL queries and obtained results can be found in the section ***SPARQL Queries***.
 
