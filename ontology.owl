@@ -1,0 +1,623 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://w3id.org/Green-AI-Ontology/ontology#"
+     xml:base="https://w3id.org/Green-AI-Ontology/ontology/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:vivo="http://vivoweb.org/ontology/core#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:irao="http://ontology.ethereal.cz/irao/">
+    <owl:Ontology rdf:about="https://w3id.org/Green-AI-Ontology/ontology#">
+     <rdfs:comment xml:lang="en">The Green AI Ontology for the Energy Measurement of AI Models, described using W3C RDF Schema and the Web Ontology Language OWL.</rdfs:comment>
+     <rdfs:label xml:lang="en">Green AI Ontology</rdfs:label>
+    </owl:Ontology>
+
+
+
+<!-- 
+///////////////////////////////////////////////////////////////////////////////////////
+//
+// Object Properties
+//
+///////////////////////////////////////////////////////////////////////////////////////
+-->
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasEnergyMetrics -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasEnergyMetrics">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+<rdfs:comment xml:lang="en">This property specifies the Energy Metrics for the final AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has energy metrics</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasEnergyMetricsAllExperiments -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasEnergyMetricsAllExperiments">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasureAllExperiments"/>
+<rdfs:comment xml:lang="en">This property specifies the Energy Metrics for the AI model including all Experiments and trainings</rdfs:comment>
+<rdfs:label xml:lang="en">has energy metrics</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/usedEnergyMeasurementService -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/usedEnergyMeasurementService">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementService"/>
+<rdfs:comment xml:lang="en">This property specifies a Energy Measurement Service used to calculate a Energy Metric for the final AI model</rdfs:comment>
+<rdfs:label xml:lang="en">used energy measurement service</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/usedEnergyMeasurementServiceAllExperiments -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/usedEnergyMeasurementServiceAllExperiments">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementServiceAllExperiments"/>
+<rdfs:comment xml:lang="en">This property specifies a Energy Measurement Service used to calculate a Energy Metric for the AI model including all Experiments and trainings</rdfs:comment>
+<rdfs:label xml:lang="en">used energy measurement service</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasHardwareSettings -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasHardwareSettings">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:comment xml:lang="en">This property specifies the Hardware Settings used to train an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has hardware settings</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasSoftwareSettings -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasSoftwareSettings">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/SoftwareSettings"/>
+<rdfs:comment xml:lang="en">This property specifies the Software Settings used to train an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has software settings</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasProvider -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasProvider">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/Provider"/>
+<rdfs:comment xml:lang="en">This property specifies a Provider (especially a cloud service provider)</rdfs:comment>
+<rdfs:label xml:lang="en">has provider</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasLocation -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasLocation">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Provider"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/Location"/>
+<rdfs:comment xml:lang="en">This property specifies a Location where the hardware is located</rdfs:comment>
+<rdfs:label xml:lang="en">has location</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasGPU -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasGPU">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/GPUCount"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/GPU"/>
+<rdfs:comment xml:lang="en">This property specifies a Graphics Processing Unit (GPU)</rdfs:comment>
+<rdfs:label xml:lang="en">has gpu</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasCPU -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasCPU">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/CPUCount"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/CPU"/>
+<rdfs:comment xml:lang="en">This property specifies a Processing Unit (CPU)</rdfs:comment>
+<rdfs:label xml:lang="en">has cpu</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasGPUCount -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasGPUCount">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/GPUCount"/>
+<rdfs:comment xml:lang="en">This property specifies how often a particular GPU is used</rdfs:comment>
+<rdfs:label xml:lang="en">has gpu count</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasCPUCount -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasCPUCount">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/CPUCount"/>
+<rdfs:comment xml:lang="en">This property specifies how often a particular CPU is used</rdfs:comment>
+<rdfs:label xml:lang="en">has cpu count</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasModule -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasModule">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/SoftwareSettings"/>
+<rdfs:range rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/Module"/>
+<rdfs:comment xml:lang="en">This property specifies a Software Module or Package that is used by an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has module</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- http://ontology.ethereal.cz/irao/hasPublication -->
+<owl:ObjectProperty rdf:about="http://ontology.ethereal.cz/irao/hasPublication">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="http://ontology.ethereal.cz/irao/InformaticsResearchArtifact"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://ontology.ethereal.cz/irao/Publication"/>
+<rdfs:comment xml:lang="en">This property specifies the publication of a research artifact or AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has publication</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- http://ontology.ethereal.cz/irao/hasAuthor -->
+<owl:ObjectProperty rdf:about="http://ontology.ethereal.cz/irao/hasAuthor">
+<rdfs:domain rdf:resource="http://ontology.ethereal.cz/irao/InformaticsResearchArtifact"/>
+<rdfs:range rdf:resource="http://ontology.ethereal.cz/irao/Researcher"/>
+<rdfs:comment xml:lang="en">This property specifies the author of a research artifact</rdfs:comment>
+<rdfs:label xml:lang="en">has author</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/creates -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/creates">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="http://ontology.ethereal.cz/irao/InformaticsResearchArtifact"/>
+<rdfs:comment xml:lang="en">This property specifies a informatics research artifact that is created by an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">creates</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasResearchProject -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasResearchProject">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="http://ontology.ethereal.cz/irao/ResearchProject"/>
+<rdfs:comment xml:lang="en">This property specifies a research project to which the AI model is related</rdfs:comment>
+<rdfs:label xml:lang="en">has research project</rdfs:label>
+</owl:ObjectProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/trainedOn -->
+<owl:ObjectProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/trainedOn">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="http://ontology.ethereal.cz/irao/Dataset"/>
+<rdfs:comment xml:lang="en">This property specifies a dataset which was used to train the AI model</rdfs:comment>
+<rdfs:label xml:lang="en">trained on</rdfs:label>
+</owl:ObjectProperty>
+
+
+<!--
+///////////////////////////////////////////////////////////////////////////////////////
+//
+// Classes
+//
+///////////////////////////////////////////////////////////////////////////////////////
+-->
+
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/AIModel -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/AIModel">
+ <rdfs:comment xml:lang="en">An AI model is an program or mathematical algorithm that is trained using a set of data that enables it to perform specific tasks</rdfs:comment>
+ <rdfs:label xml:lang="en">AI Model</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure">
+ <rdfs:comment xml:lang="en">The Energy Measurements metrics of a final AI model</rdfs:comment>
+ <rdfs:label xml:lang="en">Energy Measure</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementService -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementService">
+ <rdfs:subClassOf rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+ <rdfs:comment xml:lang="en">A Energy Measurement Service is a online service that calculates one or more energy measurement metrics for a final AI model</rdfs:comment>
+ <rdfs:label xml:lang="en">Energy Measurement Service</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasureAllExperiments -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasureAllExperiments">
+ <rdfs:subClassOf rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>     
+ <rdfs:comment xml:lang="en">The Energy Measurements metrics of an AI model including all Experiments and trainings</rdfs:comment>
+ <rdfs:label xml:lang="en">Energy Measure All Experiments</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementServiceAllExperiments -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementServiceAllExperiments">
+ <rdfs:subClassOf rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+ <rdfs:comment xml:lang="en">A Energy Measurement Service is a online service that calculates one or more energy measurement metrics for an AI model including all Experiments and trainings</rdfs:comment>
+ <rdfs:label xml:lang="en">Energy Measurement Service All Experiments</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings">
+ <rdfs:comment xml:lang="en">Hardware settings are the totality of used hardware resources and related informations</rdfs:comment>
+ <rdfs:label xml:lang="en">Hardware Settings</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/SoftwareSettings -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/SoftwareSettings">
+ <rdfs:comment xml:lang="en">Software settings are the totality of used software resources and related informations</rdfs:comment>
+ <rdfs:label xml:lang="en">Software Settings</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/Provider -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Provider">
+ <rdfs:comment xml:lang="en">A Provider (especially a cloud service provider) provides hardware servers and computing resources</rdfs:comment>
+ <rdfs:label xml:lang="en">Provider</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/Location -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Location">
+ <rdfs:comment xml:lang="en">A Location is a spatial region or named place</rdfs:comment>
+ <rdfs:label xml:lang="en">Location</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/GPU -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/GPU">
+ <rdfs:comment xml:lang="en">A graphics processing unit (GPU) is an electrical component for hardware specialized and optimized for the calculation of graphics</rdfs:comment>
+ <rdfs:label xml:lang="en">GPU</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/GPUCount -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/GPUCount">
+ <rdfs:comment xml:lang="en">This class is used when a particular GPU is used several times</rdfs:comment>
+ <rdfs:label xml:lang="en">GPU Count</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/CPU -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/CPU">
+ <rdfs:comment xml:lang="en">A processing unit (CPU) is an electrical component that performs operations on an external data source</rdfs:comment>
+ <rdfs:label xml:lang="en">CPU</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/CPUCount -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/CPUCount">
+ <rdfs:comment xml:lang="en">This class is used when a particular CPU is used several times</rdfs:comment>
+ <rdfs:label xml:lang="en">CPU Count</rdfs:label>
+</owl:Class>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/Module -->
+<owl:Class rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Module">
+ <rdfs:comment xml:lang="en">A Module is software composed of a collection of software methods. Modules are often also called packages.</rdfs:comment>
+ <rdfs:label xml:lang="en">Module</rdfs:label>
+</owl:Class>
+
+<!-- http://ontology.ethereal.cz/irao/Publication -->
+<owl:Class rdf:about="http://ontology.ethereal.cz/irao/Publication">
+ <rdfs:comment xml:lang="en">A publication makes content and research results available to the general public via publication venues such as journals, books, websites, etc.</rdfs:comment>
+ <rdfs:isDefinedBy rdf:resource="http://ontology.ethereal.cz/irao"/>
+ <rdfs:label xml:lang="en">Publication</rdfs:label>
+</owl:Class>
+
+<!-- http://ontology.ethereal.cz/irao/InformaticsResearchArtifact -->
+<owl:Class rdf:about="http://ontology.ethereal.cz/irao/InformaticsResearchArtifact">
+ <rdfs:comment xml:lang="en">An informatics research artifact is a research artifact in the informatics field</rdfs:comment>
+ <rdfs:isDefinedBy rdf:resource="http://ontology.ethereal.cz/irao"/>
+ <rdfs:label xml:lang="en">Informatics Research Artifact</rdfs:label>
+</owl:Class>
+
+<!-- http://ontology.ethereal.cz/irao/Software -->
+<owl:Class rdf:about="http://ontology.ethereal.cz/irao/Software">
+ <rdfs:comment xml:lang="en">A software is a type of informatics research artifact</rdfs:comment>
+ <rdfs:isDefinedBy rdf:resource="http://ontology.ethereal.cz/irao"/>
+ <rdfs:label xml:lang="en">Software</rdfs:label>
+</owl:Class>
+
+<!-- http://ontology.ethereal.cz/irao/Researcher -->
+<owl:Class rdf:about="http://ontology.ethereal.cz/irao/Researcher">
+ <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+ <rdfs:comment xml:lang="en">A researcher is a person doing research</rdfs:comment>
+ <rdfs:isDefinedBy rdf:resource="http://ontology.ethereal.cz/irao"/>
+ <rdfs:label xml:lang="en">Researcher</rdfs:label>
+</owl:Class>
+
+<!-- http://ontology.ethereal.cz/irao/Dataset -->
+<owl:Class rdf:about="http://ontology.ethereal.cz/irao/Dataset">
+ <rdfs:subClassOf rdf:resource="http://ontology.ethereal.cz/irao/InformaticsResearchArtifact"/>
+ <rdfs:comment xml:lang="en">A dataset containing the gathered or generated data about some topic</rdfs:comment>
+ <rdfs:isDefinedBy rdf:resource="http://ontology.ethereal.cz/irao"/>
+ <rdfs:label xml:lang="en">Dataset</rdfs:label>
+</owl:Class>
+
+<!-- http://ontology.ethereal.cz/irao/ResearchProject -->
+<owl:Class rdf:about="http://ontology.ethereal.cz/irao/ResearchProject">
+ <rdfs:subClassOf rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+ <rdfs:comment xml:lang="en">A research project is a project within the research domain with the endeavor of achieving scientific results</rdfs:comment>
+ <rdfs:isDefinedBy rdf:resource="http://ontology.ethereal.cz/irao"/>
+ <rdfs:label xml:lang="en">Research Project</rdfs:label>
+ </owl:Class>
+
+<!-- 
+///////////////////////////////////////////////////////////////////////////////////////
+//
+// Data properties
+//
+///////////////////////////////////////////////////////////////////////////////////////
+-->
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasSocialCost -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasSocialCost">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the social cost of carbon in US$ that an AI model have</rdfs:comment>
+<rdfs:label xml:lang="en">has social cost</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasWatt -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasWatt">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the amount of energy needed in Watt (W) to train an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has watt</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasJoul -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasJoul">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the amount of energy needed in Joul (J) to train an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has joul</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/haskWh -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/haskWh">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the amount of energy needed in Kilowatt-hours (kWh) to train an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has kwh</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasKgOfCO2eq -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasKgOfCO2eq">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the amount of CO2eq in Kilogram (kg) that an AI model contributed to the atmosphere</rdfs:comment>
+<rdfs:label xml:lang="en">has kg of co2eq</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasFPO -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasFPO">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasure"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the total number of floating point operations (FPO) that an AI model needed</rdfs:comment>
+<rdfs:label xml:lang="en">has fpo</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasName -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasName">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementService"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Module"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Location"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies the name of a energy measurement service, location or a module</rdfs:comment>
+<rdfs:label xml:lang="en">has name</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasURL -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasURL">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementService"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Module"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+<rdfs:comment xml:lang="en">This property specifies the resource URL of a energy measurement service or a module</rdfs:comment>
+<rdfs:label xml:lang="en">has url</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasVersion -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasVersion">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/EnergyMeasurementService"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/Module"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies the version of a energy measurement service or a module</rdfs:comment>
+<rdfs:label xml:lang="en">has version</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasFLOPSperWatt -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasFLOPSperWatt">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the floating point operations per watt (FLOPS per watt)</rdfs:comment>
+<rdfs:label xml:lang="en">has flops per watt</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasHardwareType -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasHardwareType">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies the hardware type (e.g. a server or a desktop computer)</rdfs:comment>
+<rdfs:label xml:lang="en">has hardware type</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasTeraFLOPS -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasTeraFLOPS">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/GPU"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the tera floating point operations per second</rdfs:comment>
+<rdfs:label xml:lang="en">has flops</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/utilization -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/utilization">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/GPUCount"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies how many percent of the GPU were used</rdfs:comment>
+<rdfs:label xml:lang="en">utilization</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasPackagePowerDraw -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasPackagePowerDraw">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/GPU"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/CPU"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies the CPU- or GPU-package power draw</rdfs:comment>
+<rdfs:label xml:lang="en">has package power draw</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasEnergyConsumption -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasEnergyConsumption">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/GPU"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/CPU"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the CPU- or GPUs energy consumption in Watt</rdfs:comment>
+<rdfs:label xml:lang="en">has energy consumption</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasIdentifier -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasIdentifier">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/GPU"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/CPU"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies a unique identifier of a CPU or a GPU</rdfs:comment>
+<rdfs:label xml:lang="en">has identifier</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/count -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/count">
+<rdfs:domain>
+     <owl:Class>
+          <owl:unionOf rdf:parseType="Collection">
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/GPUCount"/>
+               <rdf:Description rdf:about="https://w3id.org/Green-AI-Ontology/ontology/CPUCount"/>
+          </owl:unionOf>
+     </owl:Class>
+</rdfs:domain>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies how often a particular GPU or CPU is used</rdfs:comment>
+<rdfs:label xml:lang="en">count</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasFrequency -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasFrequency">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/CPU"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the frequency in Hertz (Hz)</rdfs:comment>
+<rdfs:label xml:lang="en">has frequency</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasCores -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasCores">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/CPU"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the number of cores (processing units)</rdfs:comment>
+<rdfs:label xml:lang="en">has cores</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasMemory -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasMemory">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the size of the memory (RAM) in Megabyte (MB)</rdfs:comment>
+<rdfs:label xml:lang="en">has memory</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasStorage -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasStorage">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the size of the hard disk storage in Megabyte (MB)</rdfs:comment>
+<rdfs:label xml:lang="en">has storage</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasOS -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasOS">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/HardwareSettings"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies the operating system (OS)</rdfs:comment>
+<rdfs:label xml:lang="en">has os</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasParameters -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasParameters">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the number of parameters defined by an AI model</rdfs:comment>
+<rdfs:label xml:lang="en">has parameters</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/allExperminentsRunTime -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/allExperminentsRunTime">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the run time it took to train the final AI model</rdfs:comment>
+<rdfs:label xml:lang="en">all experminents run time</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasFinalRunTime -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasFinalRunTime">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the run time it took to train the AI model including all Experiments and trainings</rdfs:comment>
+<rdfs:label xml:lang="en">has final run time</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasModelSize -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasModelSize">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/AIModel"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+<rdfs:comment xml:lang="en">This property specifies the AI models size in Megabyte (MB)</rdfs:comment>
+<rdfs:label xml:lang="en">has model size</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasEnergyMixEmissionFactor -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasEnergyMixEmissionFactor">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/Location"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+<rdfs:comment xml:lang="en">This property specifies the CO2 emission factor for the energy mix at a specific location in Grams Co2 per kWh</rdfs:comment>
+<rdfs:label xml:lang="en">has energy mix emission factor</rdfs:label>
+</owl:DatatypeProperty>
+
+<!-- https://w3id.org/Green-AI-Ontology/ontology/hasProgrammingLanguage -->
+<owl:DatatypeProperty rdf:about="https://w3id.org/Green-AI-Ontology/ontology/hasProgrammingLanguage">
+<rdfs:domain rdf:resource="https://w3id.org/Green-AI-Ontology/ontology/SoftwareSettings"/>
+<rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+<rdfs:comment xml:lang="en">This property specifies a programming language</rdfs:comment>
+<rdfs:label xml:lang="en">has programming language</rdfs:label>
+</owl:DatatypeProperty>
+
+</rdf:RDF>
